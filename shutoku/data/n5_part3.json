@@ -1,0 +1,2837 @@
+[
+  {
+    "id": "f0b16f5d-cb75-4bb4-a86f-c6cbfa7f0d9e",
+    "word": "十 (とお)",
+    "reading": "とお",
+    "meanings": [
+      "10 (Things)"
+    ],
+    "notes": [],
+    "exampleJapanese": "山の頂上まではまだ十キロ以上あると聞いた瞬間、彼らは想像していた以上に旅が厳しいことを悟った。",
+    "exampleEnglish": "The moment they heard that there were still more than ten kilometers left to the mountain summit, they realized the journey would be harsher than they had imagined.",
+    "jlpt": "N5",
+    "wordType": "Number",
+    "register": "Neutral"
+  },
+  {
+    "id": "26ea08e1-f92f-4346-8d6c-8e57fa02d113",
+    "word": "いつも",
+    "reading": "いつも",
+    "meanings": [
+      "Always"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼はいつも冷静に見えるが、実際には周囲の期待に応えようとして誰よりも強いプレッシャーを感じている。",
+    "exampleEnglish": "He always appears calm, but in reality he feels more pressure than anyone else as he tries to live up to the expectations of those around him.",
+    "jlpt": "N5",
+    "wordType": "Adverb",
+    "register": "Neutral"
+  },
+  {
+    "id": "65d70652-b18f-4a7d-bb9d-25503ca53dbf",
+    "word": "今",
+    "reading": "いま",
+    "meanings": [
+      "Now"
+    ],
+    "notes": [],
+    "exampleJapanese": "今なお多くの研究者が、人工知能の急速な進化が民主主義の意思決定に与える影響を慎重に分析している",
+    "exampleEnglish": "Even now, many researchers are carefully analyzing the impact that the rapid evolution of artificial intelligence has on democratic decision-making.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "a3f3c12b-29a8-4b04-bd62-21c50d2b9d9f",
+    "word": "嫌",
+    "reading": "いや",
+    "meanings": [
+      "Unpleasant",
+      "Dislike"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は上司の理不尽な要求に嫌気が差し、長年勤めた証券会社を突然辞職した。",
+    "exampleEnglish": "He grew fed up with his boss’s unreasonable demands and suddenly resigned from the securities company where he had worked for many years.",
+    "jlpt": "N5",
+    "wordType": "な-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "bda6f0f5-f685-4d5b-a7b7-8d3c37a6db56",
+    "word": "居る",
+    "reading": "いる",
+    "meanings": [
+      "To be (For living beings)"
+    ],
+    "notes": [],
+    "exampleJapanese": "締め切り直前になると、研究室には徹夜で論文を書いている大学院生が何人も居る。",
+    "exampleEnglish": "Right before the deadline, there are several graduate students in the laboratory staying up all night writing their papers.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Ichidan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "7fcd8f1e-f64f-42f6-a3f9-8498ef8a4a74",
+    "word": "要る",
+    "reading": "いる",
+    "meanings": [
+      "To need"
+    ],
+    "notes": [],
+    "exampleJapanese": "この国で独立して出版社を経営するには、文学への情熱だけでなく、法務や財務に関する深い知識も要る。",
+    "exampleEnglish": "To run an independent publishing company in this country, not only passion for literature but also deep knowledge of legal and financial matters is required.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "4a11ef1f-d46e-4c7b-b6f6-91e2f1d5c4d7",
+    "word": "色",
+    "reading": "いろ",
+    "meanings": [
+      "Colour"
+    ],
+    "notes": [],
+    "exampleJapanese": "戦後の復興期には、人々は貧しさの中でも祭りの色鮮やかな提灯に未来への希望を見いだしていた。",
+    "exampleEnglish": "During the postwar reconstruction period, people found hope for the future in the vividly colored lanterns of festivals even amid poverty",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "30bc3e5d-b6c3-48fb-a9f8-18c5e76f3b5c",
+    "word": "上",
+    "reading": "うえ",
+    "meanings": [
+      "Above (Physically on top of)",
+      "Upper part&nbsp;"
+    ],
+    "notes": [],
+    "exampleJapanese": "契約書の不備が発覚した以上、法的な責任の所在を明確にすることが経営上の最優先事項となる。",
+    "exampleEnglish": "Now that flaws in the contract have come to light, clarifying where the legal responsibility lies has become the top management priority.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "f7e8c3a2-2c0d-4e17-b16e-76d9d9b47e3a",
+    "word": "薄い",
+    "reading": "うすい",
+    "meanings": [
+      "Thin (Physically)",
+      "Weak (Flavour or Connection)&nbsp;"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼の説明は一見論理的に聞こえるものの、統計的根拠が薄いため、専門家たちはその結論に懐疑的だった。",
+    "exampleEnglish": "Although his explanation sounded logical at first glance, the statistical basis was weak, so experts were skeptical of the conclusion.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "f5ef0b59-2a3d-4e9b-bbd4-ea69dbd6bb58",
+    "word": "歌う",
+    "reading": "うたう",
+    "meanings": [
+      "To sing"
+    ],
+    "notes": [],
+    "exampleJapanese": "抗議デモの参加者たちは、政府への不満を表現するかのように、雨の中でも力強く革命歌を歌っていた。",
+    "exampleEnglish": "The participants in the protest demonstration were powerfully singing revolutionary songs in the rain, as if expressing their dissatisfaction with the government.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "5a2dc2f1-3fd2-44c9-baf6-c7e7f57e7f1c",
+    "word": "上着",
+    "reading": "うわぎ",
+    "meanings": [
+      "Jacket"
+    ],
+    "notes": [],
+    "exampleJapanese": "会議室の冷房が予想以上に強かったため、彼女は途中で上着を取りに自席へ戻った。",
+    "exampleEnglish": "Because the air conditioning in the conference room was much stronger than expected, she went back to her desk midway through to get her jacket.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "8e4e5c94-cf2c-48b1-99b6-6b9a34e0d327",
+    "word": "映画",
+    "reading": "えいが",
+    "meanings": [
+      "Film"
+    ],
+    "notes": [],
+    "exampleJapanese": "その映画は単なる娯楽作品ではなく、監視社会における個人の自由と倫理を鋭く問いかける内容だった。",
+    "exampleEnglish": "That film was not merely an entertainment piece, but a work that sharply questioned individual freedom and ethics in a surveillance society.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "f3a7dd8b-4d3f-45b3-9cf0-f1f12b2c24b8",
+    "word": "映画館",
+    "reading": "えいがかん",
+    "meanings": [
+      "Cinema"
+    ],
+    "notes": [],
+    "exampleJapanese": "深夜の映画館には、社会現象となったサスペンス作品を一目見ようとする観客が長い列を作っていた。",
+    "exampleEnglish": "At the late-night movie theater, a long line of viewers had formed to catch a glimpse of the suspense film that had become a social phenomenon.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "8a20b8fd-f9b0-4c67-aaf6-6d63df77f64d",
+    "word": "英語",
+    "reading": "えいご",
+    "meanings": [
+      "English (Language)"
+    ],
+    "notes": [],
+    "exampleJapanese": "国際会議では英語で即座に反論できる能力が求められるため、多くの若手研究者が留学を志望している。",
+    "exampleEnglish": "At international conferences, the ability to respond immediately in English is required, so many young researchers aspire to study abroad.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "c01f99a6-19f4-4b69-b7cf-8f3df62fd53f",
+    "word": "駅",
+    "reading": "えき",
+    "meanings": [
+      "Station"
+    ],
+    "notes": [],
+    "exampleJapanese": "大雪の影響で駅には帰宅できなくなった乗客があふれ、職員たちは深夜まで対応に追われていた。",
+    "exampleEnglish": "Due to the heavy snowfall, the station was crowded with passengers unable to return home, and the staff were busy dealing with the situation until late at night.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "f91b2a77-b18d-49d0-b5aa-7c8f5dd4e019",
+    "word": "エレベーター",
+    "reading": "エレベーター",
+    "meanings": [
+      "Elevator"
+    ],
+    "notes": [],
+    "exampleJapanese": "地震発生直後にエレベーターへ駆け込むのは危険だと分かっていても、人々は本能的に出口を求めてしまう。",
+    "exampleEnglish": "Even though people know it is dangerous to rush into an elevator immediately after an earthquake occurs, they instinctively seek an exit.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "b7ef0f2a-0d0f-4ef5-aeb9-35ebf859f5b6",
+    "word": "大きい",
+    "reading": "おおきい",
+    "meanings": [
+      "Big"
+    ],
+    "notes": [],
+    "exampleJapanese": "その企業が市場に与える影響は非常に大きいため、政府も独占禁止法の観点から監視を強めている。",
+    "exampleEnglish": "Because the influence that company has on the market is extremely large, the government is also strengthening its monitoring from the perspective of antitrust law.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "8d10dd59-16d2-4f11-a7fc-52cb6a1eb7f0",
+    "word": "大きな",
+    "reading": "おおきな",
+    "meanings": [
+      "Big"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼女は大きな損失を経験したにもかかわらず、冷静に事業再建の計画を立て始めた。",
+    "exampleEnglish": "Despite suffering a major loss, she calmly began drafting a plan to rebuild the business.",
+    "jlpt": "N5",
+    "wordType": "な-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "4a0f4a0f-79d0-4380-8f9d-8a0cf0dbaf8f",
+    "word": "大勢",
+    "reading": "おおぜい",
+    "meanings": [
+      "Large number of people"
+    ],
+    "notes": [],
+    "exampleJapanese": "人気俳優の突然の来場を知った瞬間、会場には大勢の観客が一斉に押し寄せた。",
+    "exampleEnglish": "The moment people learned of the popular actor’s unexpected appearance, a large crowd of spectators surged toward the venue all at once.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "0d08c8d1-6a2a-42f7-90d4-80dc11e63df3",
+    "word": "お母さん",
+    "reading": "おかあさん",
+    "meanings": [
+      "Mother"
+    ],
+    "notes": [],
+    "exampleJapanese": "留学先で孤独を感じるたびに、彼は毎週送られてくるお母さんの手紙を何度も読み返していた。",
+    "exampleEnglish": "Whenever he felt lonely while studying abroad, he reread the letters his mother sent every week over and over again.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Honorific"
+  },
+  {
+    "id": "0f6dbe95-92dc-49f4-a2d6-ef0dd3f5c54e",
+    "word": "お金",
+    "reading": "おかね",
+    "meanings": [
+      "Money"
+    ],
+    "notes": [],
+    "exampleJapanese": "政治献金として流れたお金の出所を巡って、複数の議員が厳しい追及を受けている。",
+    "exampleEnglish": "Several lawmakers are facing intense scrutiny over the source of the money that was funneled as political donations.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "ab0b9587-6338-42a8-8a17-b7d2e5118b51",
+    "word": "起きる",
+    "reading": "おきる",
+    "meanings": [
+      "To wake up",
+      "To occur"
+    ],
+    "notes": [],
+    "exampleJapanese": "予想外の金融危機が起きるたびに、政府は市場の混乱を抑えるために緊急対策を講じてきた。",
+    "exampleEnglish": "Whenever an unexpected financial crisis occurred, the government implemented emergency measures to contain market turmoil.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Ichidan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "18cb6d3f-6e95-4a58-b8c2-89a6d468b2ec",
+    "word": "お酒",
+    "reading": "おさけ",
+    "meanings": [
+      "Sake"
+    ],
+    "notes": [],
+    "exampleJapanese": "取引先との会食でお酒を勧められても、彼女は翌日の裁判に備えて一滴も口にしなかった。",
+    "exampleEnglish": "Even when offered alcohol at a dinner with clients, she did not drink a single drop in preparation for the trial the next day.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "cb0f2c3a-7b74-4d47-81bc-f2f76bb9c3df",
+    "word": "お祖父さん",
+    "reading": "おじいさん",
+    "meanings": [
+      "Grandfather"
+    ],
+    "notes": [],
+    "exampleJapanese": "戦争を経験したお祖父さんは、平和の大切さを語るたびに静かだが重みのある口調になった。",
+    "exampleEnglish": "My grandfather, who had experienced war, always spoke in a quiet yet weighty tone whenever he talked about the importance of peace.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Honorific"
+  },
+  {
+    "id": "b2f5f64b-7f95-4b79-8d9d-9e2fbbdfab93",
+    "word": "伯父さん",
+    "reading": "おじさん",
+    "meanings": [
+      "Uncle",
+      "Middle Aged Gentleman"
+    ],
+    "notes": [],
+    "exampleJapanese": "伯父さんは地方銀行の経営危機をいち早く見抜き、周囲が混乱する前に投資先を変更していた。",
+    "exampleEnglish": "My uncle quickly foresaw the management crisis of a regional bank and changed his investments before those around him fell into confusion.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Honorific"
+  },
+  {
+    "id": "d847e7f2-cad3-41f4-9f3e-d5f5a9d2fc18",
+    "word": "お茶",
+    "reading": "おちゃ",
+    "meanings": [
+      "Tea (Usually Japanese green tea)"
+    ],
+    "notes": [],
+    "exampleJapanese": "長時間に及ぶ交渉の合間に出された温かいお茶が、張り詰めていた会議室の空気をわずかに和らげた。",
+    "exampleEnglish": "The warm tea served during a break in the lengthy negotiations slightly softened the tense atmosphere in the conference room.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "f5f1f1c2-26bb-4d7d-8df7-c9cb3c8e9c77",
+    "word": "同じ",
+    "reading": "おなじ",
+    "meanings": [
+      "Same"
+    ],
+    "notes": [],
+    "exampleJapanese": "同じデータを分析しているにもかかわらず、経済学者たちの間では全く異なる結論が導き出されていた。",
+    "exampleEnglish": "Even though they were analyzing the same data, the economists arrived at completely different conclusions.",
+    "jlpt": "N5",
+    "wordType": "な-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "e7f84a1c-f70f-47c7-b6d6-77d4fc8f97cb",
+    "word": "お兄さん",
+    "reading": "おにいさん",
+    "meanings": [
+      "Older brother"
+    ],
+    "notes": [],
+    "exampleJapanese": "幼い頃から厳格だったお兄さんは、家業を継いでからさらに責任感の強い人物になった。",
+    "exampleEnglish": "My older brother, who had been strict since childhood, became an even more responsible person after taking over the family business.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Honorific"
+  },
+  {
+    "id": "48bb8d53-95e7-4d91-bc68-8dbed74cb51f",
+    "word": "お姉さん",
+    "reading": "おねえさん",
+    "meanings": [
+      "Older sister"
+    ],
+    "notes": [],
+    "exampleJapanese": "医師として働くお姉さんは、感染症が拡大していた時期にほとんど休みなく病院へ通っていた。",
+    "exampleEnglish": "My older sister, who works as a doctor, went to the hospital with almost no rest during the period when the infectious disease was spreading.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Honorific"
+  },
+  {
+    "id": "2ec9c97d-2d86-4f80-a7c8-3f71c89b9f85",
+    "word": "お祖母さん",
+    "reading": "おばあさん",
+    "meanings": [
+      "Grandmother",
+      "Female senior citizen"
+    ],
+    "notes": [],
+    "exampleJapanese": "お祖母さんは古い和歌を暗唱しながら、戦前の暮らしがどれほど質素だったかを静かに語ってくれた。",
+    "exampleEnglish": "My grandmother recited old waka poems while quietly telling me how modest life had been before the war.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Honorific"
+  },
+  {
+    "id": "3e5c7b8f-cd41-46d7-9b9d-4d76fd2e6d8b",
+    "word": "お弁当",
+    "reading": "おべんとう",
+    "meanings": [
+      "Boxed Lunch"
+    ],
+    "notes": [],
+    "exampleJapanese": "忙しい選挙期間中でも、彼は毎朝母親が作ってくれたお弁当を欠かさず事務所へ持って行っていた。",
+    "exampleEnglish": "Even during the busy election campaign period, he never failed to bring the lunch box his mother made for him to the office every morning.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "7f2f59d6-6d3c-4f4b-87f7-c5b5e92d91d1",
+    "word": "面白い",
+    "reading": "おもしろい",
+    "meanings": [
+      "Interesting"
+    ],
+    "notes": [],
+    "exampleJapanese": "その教授の講義は歴史的事実だけでなく政治的背景まで掘り下げるため、学生たちには非常に面白いと評判だった。",
+    "exampleEnglish": "The professor’s lectures were reputed among students to be extremely interesting because they explored not only historical facts but also political backgrounds.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "c91e6c87-45c9-4e91-a2e4-6cb6f03ef6a4",
+    "word": "音楽",
+    "reading": "おんがく",
+    "meanings": [
+      "Music"
+    ],
+    "notes": [],
+    "exampleJapanese": "音楽は単なる娯楽ではなく、抑圧された社会において人々の感情や抵抗の意思を表現する重要な手段にもなり得る。",
+    "exampleEnglish": "Music is not merely entertainment; in oppressed societies, it can also serve as an important means of expressing people’s emotions and will to resist.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "4d7a0d2b-7bc8-4a2d-b8d1-bd74e49e4cb3",
+    "word": "外国",
+    "reading": "がいこく",
+    "meanings": [
+      "Foreign Country"
+    ],
+    "notes": [],
+    "exampleJapanese": "外国で長年生活していた彼は、帰国後もしばらく母国の価値観に違和感を覚えていた。",
+    "exampleEnglish": "Having lived abroad for many years, he continued to feel a sense of discomfort with his home country’s values even after returning.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "d1b77ef8-0d7d-4e85-88f2-3c4e9c8f6b5f",
+    "word": "外国人",
+    "reading": "がいこくじん",
+    "meanings": [
+      "Foreigner"
+    ],
+    "notes": [],
+    "exampleJapanese": "観光地として急速に発展したその町では、近年外国人労働者との共生が大きな課題となっている。",
+    "exampleEnglish": "In the town that rapidly developed as a tourist destination, coexistence with foreign workers has become a major issue in recent years.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "6d2d5d65-1e3b-4d2d-b1ef-6f6f2cb5f2f7",
+    "word": "買い物",
+    "reading": "かいもの",
+    "meanings": [
+      "Shopping"
+    ],
+    "notes": [],
+    "exampleJapanese": "物価の上昇が続く中、多くの家庭では日々の買い物ですら慎重に予算を計算するようになった。",
+    "exampleEnglish": "As prices continue to rise, many households have begun carefully calculating their budgets even for everyday shopping.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "9a0cb3f5-9f89-47e2-a0f5-7b82a3b1f65d",
+    "word": "買う",
+    "reading": "かう",
+    "meanings": [
+      "To buy"
+    ],
+    "notes": [],
+    "exampleJapanese": "将来のインフレを見越して金を買う投資家が増えたことで、市場価格は急激に上昇した。",
+    "exampleEnglish": "As more investors bought gold in anticipation of future inflation, market prices rose sharply.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "f84bc1f4-6c89-4c2f-9b89-6f5d3f8e8c4e",
+    "word": "かかる",
+    "reading": "かかる",
+    "meanings": [
+      "To take (time / money)",
+      "To hang",
+      "To catch (often illness)"
+    ],
+    "notes": [],
+    "exampleJapanese": "新薬の安全性を証明するには長い年月と莫大な研究費がかかるため、中小企業には参入の壁が高い。",
+    "exampleEnglish": "Because proving the safety of a new drug requires many years and enormous research costs, the barriers to entry are high for small and medium-sized companies.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "5e4c8c91-4c9d-4cb7-a2c8-3b9e1d7f5e4b",
+    "word": "書く",
+    "reading": "かく",
+    "meanings": [
+      "To write"
+    ],
+    "notes": [],
+    "exampleJapanese": "政府への批判記事を書くことで知られていた記者は、突然の検閲強化によって活動の自由を大きく制限された。",
+    "exampleEnglish": "The journalist, known for writing articles critical of the government, had his freedom of activity greatly restricted by the sudden tightening of censorship.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "1f4f2c6d-8b2a-4d0c-b6e7-8c4e9f3d5a2f",
+    "word": "学生",
+    "reading": "がくせい",
+    "meanings": [
+      "Student"
+    ],
+    "notes": [],
+    "exampleJapanese": "経済的に厳しい状況に置かれた学生たちの間では、授業料の引き下げを求める抗議運動が広がっている。",
+    "exampleEnglish": "Among students placed in financially difficult circumstances, protest movements demanding lower tuition fees are spreading.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "f0a84f89-59d3-4f1d-8e53-1f4a3b8f5e7c",
+    "word": "風",
+    "reading": "かぜ",
+    "meanings": [
+      "Wind"
+    ],
+    "notes": [],
+    "exampleJapanese": "嵐の後、港町を吹き抜ける冷たい風が、長年沈黙を守ってきた老人の記憶を不意に呼び覚ました。",
+    "exampleEnglish": "After the storm, the cold wind sweeping through the port town suddenly awakened the memories of an old man who had kept silent for many years.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "b5d7c8f2-4f6e-48d1-8b9d-3f8c7e5d2a1f",
+    "word": "家族",
+    "reading": "かぞく",
+    "meanings": [
+      "Family"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は巨額の利益を得るために海外企業との合併を進めたが、最後の契約書に署名する瞬間、家族との時間を犠牲にしてきた自分の人生に疑問を抱いた。",
+    "exampleEnglish": "He pushed forward with a merger with a foreign corporation to gain enormous profits, but at the moment of signing the final contract, he began to question the life in which he had sacrificed time with his family.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "d9f2c7b4-7a6d-45b8-9c2f-5d4a8e3b6f1c",
+    "word": "方",
+    "reading": "かた",
+    "meanings": [
+      "Direction",
+      "Method (Way of doing something)"
+    ],
+    "notes": [],
+    "exampleJapanese": "新しい法律の解釈の仕方をめぐって学者たちの意見は激しく対立していたが、最終的には憲法の理念を重視する方が支持を集めた。",
+    "exampleEnglish": "Scholars fiercely disagreed over the way the new law should be interpreted, but in the end, the side that prioritized the principles of the constitution gained support.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "7c8e5d4f-2a1b-4d6c-9f8a-3b5e7c2d1f4a",
+    "word": "方",
+    "reading": "かた",
+    "meanings": [
+      "Person"
+    ],
+    "notes": [],
+    "exampleJapanese": "あの方は戦時中に多くの孤児を救ったにもかかわらず、自らの功績については最後まで静かに口を閉ざしていた。",
+    "exampleEnglish": "Although that person saved many orphans during the war, they remained silent about their own achievements until the very end.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Formal"
+  },
+  {
+    "id": "3f7b8c9d-1e2f-4a6d-b5c8-7d9e1f2a3b4c",
+    "word": "学校",
+    "reading": "がっこう",
+    "meanings": [
+      "School"
+    ],
+    "notes": [],
+    "exampleJapanese": "地方の小さな学校で始まった教育改革の試みは、やがて全国の教師たちの注目を集める社会運動へと発展した。",
+    "exampleEnglish": "The attempt at educational reform that began in a small rural school eventually developed into a social movement that attracted the attention of teachers across the country.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "5d8f1a2b-6c7d-4e9f-b3a5-2c7e8d1f4b6a",
+    "word": "カップ",
+    "reading": "カップ",
+    "meanings": [
+      "Cup"
+    ],
+    "notes": [],
+    "exampleJapanese": "深夜の研究室で、彼女は冷めかけたコーヒーの入ったカップを片手に、失敗続きだった実験データを静かに見つめていた。",
+    "exampleEnglish": "Late at night in the laboratory, she quietly stared at the experimental data that had repeatedly failed, holding a cup of coffee that had begun to go cold in one hand.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "8a1d4c7e-5f2b-4d6a-9c3e-7b5f1a2d8c4e",
+    "word": "カメラ",
+    "reading": "カメラ",
+    "meanings": [
+      "Camera"
+    ],
+    "notes": [],
+    "exampleJapanese": "記者は壊れかけたカメラを抱えながらも、内戦下の街で起きている現実を世界に伝えようとしていた。",
+    "exampleEnglish": "Even while carrying a nearly broken camera, the journalist was trying to convey to the world the reality unfolding in the city under civil war.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "2e6d7f8a-4b1c-49d3-a5e7-8c1f2b4d6a9e",
+    "word": "カレー",
+    "reading": "カレー",
+    "meanings": [
+      "Curry"
+    ],
+    "notes": [],
+    "exampleJapanese": "長時間の会議を終えた後、彼らは駅前の古い食堂で辛口のカレーを食べながら、新しい事業計画について語り合った。",
+    "exampleEnglish": "After finishing the long meeting, they talked about the new business plan while eating spicy curry at an old diner in front of the station.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "6f4a2c8d-1b5e-47d9-9c3f-2a7d8e1b5c4f",
+    "word": "カレンダー",
+    "reading": "カレンダー",
+    "meanings": [
+      "Calendar"
+    ],
+    "notes": [],
+    "exampleJapanese": "壁に掛かった古いカレンダーには、祖父が亡くなる直前まで病院の予定を書き込み続けた痕跡が残っていた。",
+    "exampleEnglish": "The old calendar hanging on the wall still bore traces of my grandfather continuing to write down hospital appointments until just before he passed away.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "1c7e5d4b-8f2a-4d6c-9b3e-5f1a2d7c8e4b",
+    "word": "木",
+    "reading": "き",
+    "meanings": [
+      "Tree",
+      "Wood"
+    ],
+    "notes": [],
+    "exampleJapanese": "裁判所の前に立つ大きな木は、何十年にもわたる抗議活動と歴史的な判決を静かに見守ってきた。",
+    "exampleEnglish": "The large tree standing in front of the courthouse had quietly witnessed decades of protests and historic rulings.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "2b8e4f1c-5d7a-4c9f-a1e3-7f5d2b8c6a4e",
+    "word": "黄色",
+    "reading": "きいろ",
+    "meanings": [
+      "Yellow"
+    ],
+    "notes": [],
+    "exampleJapanese": "黄色の古い封筒の中には、政府が長年隠していた機密文書のコピーが入っていた。",
+    "exampleEnglish": "Inside the old yellow envelope were copies of confidential documents that the government had concealed for many years.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "7c5d1f8a-3e4b-49d2-a6f1-8b2c7e5d4f9a",
+    "word": "黄色い",
+    "reading": "きいろい",
+    "meanings": [
+      "Yellow"
+    ],
+    "notes": [],
+    "exampleJapanese": "霧の深い港で、黄色いレインコートを着た少年が、戻らない父親の船を黙って待ち続けていた。",
+    "exampleEnglish": "In the foggy harbor, a boy wearing a yellow raincoat silently continued waiting for his father's ship that never returned.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "4f9c2d7b-1a5e-4c8f-b6d3-2e7f5a1c8d4b",
+    "word": "聞く",
+    "reading": "きく",
+    "meanings": [
+      "To hear",
+      "To listen",
+      "To ask"
+    ],
+    "notes": [],
+    "exampleJapanese": "被告人は最後まで黙秘を続けていたが、裁判長が遺族の証言を聞くよう促した瞬間、静かに涙を流した。",
+    "exampleEnglish": "The defendant remained silent until the very end, but the moment the judge urged him to listen to the testimony of the victim’s family, he quietly shed tears.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "8d4b2c7f-5a1e-49c3-b6f8-2e7d1a5c4f9b",
+    "word": "ギター",
+    "reading": "ギター",
+    "meanings": [
+      "Guitar"
+    ],
+    "notes": [],
+    "exampleJapanese": "地下鉄の駅前でギターを弾いていた青年は、数年後には国際的な音楽祭に招かれるほど有名な演奏家になっていた。",
+    "exampleEnglish": "The young man who used to play guitar in front of a subway station became so famous a few years later that he was invited to international music festivals.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "1f7a5d2c-8b4e-49f1-a6d3-7c2e5b8f4a9d",
+    "word": "昨日",
+    "reading": "きのう",
+    "meanings": [
+      "Yesterday"
+    ],
+    "notes": [],
+    "exampleJapanese": "昨日の記者会見で大臣が突然辞任を表明したことで、金融市場には大きな混乱が広がった。",
+    "exampleEnglish": "When the minister suddenly announced his resignation at yesterday’s press conference, major turmoil spread through the financial markets.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "5e8d2b7c-1f4a-49c6-b3d8-2a7f5c1e4b9d",
+    "word": "今日",
+    "reading": "きょう",
+    "meanings": [
+      "Today"
+    ],
+    "notes": [],
+    "exampleJapanese": "今日の討論会では、人工知能が今後の医療制度に与える影響について、専門家たちが激しい議論を交わした。",
+    "exampleEnglish": "At today’s debate forum, experts engaged in heated discussions about the impact artificial intelligence will have on future healthcare systems.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "9b4e1f7c-5d2a-4c8f-a6d3-2e7f5a1b8c4d",
+    "word": "嫌い",
+    "reading": "きらい",
+    "meanings": [
+      "Disliked"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は権力者に媚びる態度が昔から嫌いで、どれほど不利な立場に立たされても自分の信念を曲げなかった。",
+    "exampleEnglish": "He had always hated attitudes that flatter those in power, and no matter how disadvantageous his position became, he never compromised his beliefs.",
+    "jlpt": "N5",
+    "wordType": "な-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "3c8f5d1a-7e4b-49d2-a6f1-8b2c7d5e4f9a",
+    "word": "キロ",
+    "reading": "キロ",
+    "meanings": [
+      "Kilometre",
+      "Kilogram (Abbreviation)"
+    ],
+    "notes": [],
+    "exampleJapanese": "救助隊は吹雪の中を何十キロも歩き続け、ようやく山小屋に取り残されていた登山者たちを発見した。",
+    "exampleEnglish": "The rescue team kept walking for dozens of kilometers through the blizzard and finally found the climbers who had been stranded in the mountain hut.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Casual"
+  },
+  {
+    "id": "6a4e2f7c-1d5b-49c8-b3f1-7e2d5a8c4f9b",
+    "word": "キログラム",
+    "reading": "キログラマ",
+    "meanings": [
+      "Kilogram"
+    ],
+    "notes": [],
+    "exampleJapanese": "研究施設では、わずか数キログラムの希少金属を確保するために、莫大な予算と数年にわたる調査が費やされた。",
+    "exampleEnglish": "At the research facility, an enormous budget and years of investigation were spent to secure just a few kilograms of the rare metal.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "8f1c5d7a-4b2e-49d3-a6c8-2e7f5b1d4a9c",
+    "word": "キロメートル",
+    "reading": "キロメートル",
+    "meanings": [
+      "Kilometre"
+    ],
+    "notes": [],
+    "exampleJapanese": "砂漠地帯では、最も近い村まで数十キロメートルも離れているため、水の確保が常に深刻な問題となっている。",
+    "exampleEnglish": "In the desert region, securing water is always a serious problem because the nearest village is dozens of kilometers away.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "4e7c2d9f-1b5a-48d3-a6f8-2c7e5d1f4b9a",
+    "word": "金曜日",
+    "reading": "きんようび",
+    "meanings": [
+      "Friday"
+    ],
+    "notes": [],
+    "exampleJapanese": "金曜日の夜になると、証券会社で働く彼はいつも静かなバーで一週間の緊張を解きほぐしていた。",
+    "exampleEnglish": "When Friday night came, he, who worked at a securities company, would always unwind from the week’s tension at a quiet bar.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "7d1f4b9a-2c8e-45d3-b6f1-8a5c7e2d4f9b",
+    "word": "ください",
+    "reading": "ください",
+    "meanings": [
+      "Please give me ...",
+      "Please do ..."
+    ],
+    "notes": [],
+    "exampleJapanese": "「その資料を明日の会議までに送ってください」と部長は落ち着いた口調で言ったが、部屋の空気には緊張が漂っていた。",
+    "exampleEnglish": "“Please send those documents by tomorrow’s meeting,” the department manager said calmly, but tension hung in the room.",
+    "jlpt": "N5",
+    "wordType": "Expression",
+    "register": "Formal"
+  },
+  {
+    "id": "1a5e7c2d-4f9b-48d3-b6f8-2c7e5d1f4a9c",
+    "word": "口",
+    "reading": "くち",
+    "meanings": [
+      "Mouth"
+    ],
+    "notes": [],
+    "exampleJapanese": "長年秘密を守ってきた彼だったが、裁判で決定的な証拠を突きつけられた瞬間、ついに重い口を開いた。",
+    "exampleEnglish": "He had kept the secret for many years, but the moment he was confronted with decisive evidence in court, he finally opened his reluctant mouth.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "8c2d7e5f-1a4b-49d3-b6f8-5e7c1d2a4f9b",
+    "word": "国",
+    "reading": "くに",
+    "meanings": [
+      "Country"
+    ],
+    "notes": [],
+    "exampleJapanese": "資源をめぐる対立が激化する中、その小さな国は大国同士の外交戦略に翻弄され続けていた。",
+    "exampleEnglish": "As conflicts over resources intensified, the small nation continued to be tossed around by the diplomatic strategies of the major powers.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "5f1a4c7e-2d9b-48d3-a6f8-1c7e5d2b4f9a",
+    "word": "クラス",
+    "reading": "クラス",
+    "meanings": [
+      "Class (Usually referring to a school class)"
+    ],
+    "notes": [],
+    "exampleJapanese": "新しく編成されたクラスでは、異なる文化的背景を持つ学生たちが互いの価値観について活発に議論していた。",
+    "exampleEnglish": "In the newly formed class, students from different cultural backgrounds were actively discussing each other’s values.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "2b7e5d1f-4a9c-48d3-b6f8-7c2d5e1a4f9b",
+    "word": "グラム",
+    "reading": "グラム",
+    "meanings": [
+      "Gram"
+    ],
+    "notes": [],
+    "exampleJapanese": "科学者たちは、わずか数グラムの試料から未知の微生物を発見し、医学界に大きな衝撃を与えた。",
+    "exampleEnglish": "Scientists discovered an unknown microorganism from just a few grams of sample material, causing a major shock in the medical community.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "9d4f1a7c-2e5b-48d3-b6f8-1c7e5d2a4f9b",
+    "word": "来る",
+    "reading": "くる",
+    "meanings": [
+      "To come"
+    ],
+    "notes": [],
+    "exampleJapanese": "長い沈黙の後、彼女は「必ず来る」とだけ言い残し、吹雪の中へ静かに姿を消した。",
+    "exampleEnglish": "After a long silence, she left behind only the words “I will definitely come,” and quietly disappeared into the snowstorm.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Irregular Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "4c7e5d1a-2f9b-48d3-a6f8-7c1e5d2b4f9a",
+    "word": "黒",
+    "reading": "くろ",
+    "meanings": [
+      "Black"
+    ],
+    "notes": [],
+    "exampleJapanese": "政治家の机の引き出しから見つかった黒い手帳には、長年にわたる不正取引の記録が詳細に書き込まれていた。",
+    "exampleEnglish": "In the black notebook found in the politician’s desk drawer were detailed records of years of corrupt dealings.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "1f4a7c2d-5e9b-48d3-b6f8-2c7e5d1a4f9b",
+    "word": "結構",
+    "reading": "けっこう",
+    "meanings": [
+      "Splendid"
+    ],
+    "notes": [],
+    "exampleJapanese": "「その提案なら結構です」と彼女は丁寧に断ったが、その表情には相手への深い失望がにじんでいた。",
+    "exampleEnglish": "“If that’s the proposal, then no thank you,” she declined politely, but her expression revealed deep disappointment toward the other person.",
+    "jlpt": "N5",
+    "wordType": "な-adjective",
+    "register": "Formal"
+  },
+  {
+    "id": "7e2d5c1f-4a9b-48d3-b6f8-1c7e5d2a4f9b",
+    "word": "元気",
+    "reading": "げんき",
+    "meanings": [
+      "Healthy",
+      "Energetic"
+    ],
+    "notes": [],
+    "exampleJapanese": "長い入院生活を終えた祖父は、以前よりずっと元気な様子で庭の手入れをしていた。",
+    "exampleEnglish": "After finishing his long hospitalization, my grandfather was tending the garden looking much healthier and more energetic than before.",
+    "jlpt": "N5",
+    "wordType": "な-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "7f3d2a1c-5e8b-49d6-a2f7-1c4e8d5b9a2f",
+    "word": "公園",
+    "reading": "こうえん",
+    "meanings": [
+      "Park"
+    ],
+    "notes": [],
+    "exampleJapanese": "再開発計画によって取り壊される予定だった公園は、地域住民の強い反対運動によって守られることになった。",
+    "exampleEnglish": "The park that had been scheduled for demolition due to a redevelopment project ended up being preserved because of strong opposition from local residents.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "1b5e7c4d-9a2f-48d6-b3f1-7e4c2d8a5f1b",
+    "word": "声",
+    "reading": "こえ",
+    "meanings": [
+      "Voice"
+    ],
+    "notes": [],
+    "exampleJapanese": "静まり返った議場に彼女の鋭い声が響いた瞬間、多くの議員たちは思わず顔を見合わせた。",
+    "exampleEnglish": "The moment her sharp voice echoed through the silent assembly hall, many lawmakers instinctively looked at one another.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "5d8a2f1c-7e4b-49d6-a3f1-2c8e5d4b9a1f",
+    "word": "コート",
+    "reading": "コート",
+    "meanings": [
+      "Coat",
+      "Court"
+    ],
+    "notes": [],
+    "exampleJapanese": "雪の降る駅前で、古びたコートを着た男が誰かを待つように長時間立ち尽くしていた。",
+    "exampleEnglish": "At the snowy station plaza, a man wearing a worn-out coat stood motionless for a long time as if waiting for someone.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "8c4e1d7a-5f2b-49d6-b3a1-7e2c5d8f4a1b",
+    "word": "コーヒー",
+    "reading": "コーヒー",
+    "meanings": [
+      "Coffee"
+    ],
+    "notes": [],
+    "exampleJapanese": "徹夜で論文を書き続けていた彼は、冷めたコーヒーを飲みながら最後の結論を書き上げた。",
+    "exampleEnglish": "Having stayed up all night writing his thesis, he finished the final conclusion while drinking cold coffee.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "2f7a5d1c-8e4b-49d6-a3f1-5c2e8d4b9a1f",
+    "word": "ここ",
+    "reading": "ここ",
+    "meanings": [
+      "Here"
+    ],
+    "notes": [],
+    "exampleJapanese": "「ここで起きた出来事を外部に漏らしてはならない」と、研究責任者は緊張した表情で警告した。",
+    "exampleEnglish": "“You must not leak what happened here to outsiders,” the lead researcher warned with a tense expression.",
+    "jlpt": "N5",
+    "wordType": "Pronoun",
+    "register": "Neutral"
+  },
+  {
+    "id": "4a1f8d2c-7e5b-49d6-b3f1-2c8e5d4a9f1b",
+    "word": "午後",
+    "reading": "ごご",
+    "meanings": [
+      "Afternoon (PM)"
+    ],
+    "notes": [],
+    "exampleJapanese": "午後の会議では、新しい経済政策が中小企業に与える影響について専門家たちが詳細な分析を行った。",
+    "exampleEnglish": "During the afternoon meeting, experts conducted a detailed analysis of how the new economic policies would affect small and medium-sized businesses.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "9f2c5d1a-7e4b-48d6-a3f1-2c8e5d4b1a7f",
+    "word": "九日",
+    "reading": "ここのか",
+    "meanings": [
+      "9 Days",
+      "9th (Day of the Month)"
+    ],
+    "notes": [],
+    "exampleJapanese": "九日に予定されていた国際会議は、各国代表の安全を確保できないという理由で直前に延期された。",
+    "exampleEnglish": "The international conference that had been scheduled for the ninth was postponed at the last minute because the safety of the representatives from each country could not be guaranteed.",
+    "jlpt": "N5",
+    "wordType": "Number",
+    "register": "Neutral"
+  },
+  {
+    "id": "6b1e7d4c-9a2f-48d6-b3f1-5c8e2d4a1f7b",
+    "word": "一日 (いちにち)",
+    "reading": "いちにち",
+    "meanings": [
+      "1 day",
+      "1st (Of the month)"
+    ],
+    "notes": [],
+    "exampleJapanese": "山奥の寺で過ごした一日は、絶え間ない競争の中で疲れ切っていた彼の心を静かに癒やした。",
+    "exampleEnglish": "The one day he spent at a temple deep in the mountains quietly healed his heart, which had been exhausted by constant competition.",
+    "jlpt": "N5",
+    "wordType": "Number",
+    "register": "Neutral"
+  },
+  {
+    "id": "3d8a5f1c-7e4b-49d6-a2f1-5c8e2d4b9a1f",
+    "word": "午前",
+    "reading": "ごぜん",
+    "meanings": [
+      "Morning (AM)"
+    ],
+    "notes": [],
+    "exampleJapanese": "午前の記者会見では、新型エネルギー計画の詳細について政府関係者が厳しい質問を受けていた。",
+    "exampleEnglish": "At the morning press conference, government officials faced tough questions about the details of the new energy initiative.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "8e2d5a1f-4c7b-49d6-b3f1-2c8e5d4a7f1b",
+    "word": "答える",
+    "reading": "こたえる",
+    "meanings": [
+      "To answer"
+    ],
+    "notes": [],
+    "exampleJapanese": "記者から不正資金について質問された大臣は、しばらく沈黙した後、慎重な言葉を選びながら答えた。",
+    "exampleEnglish": "When reporters questioned the minister about the illicit funds, he remained silent for a while before answering while carefully choosing his words.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Ichidan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "4b7d2f1c-8e5a-49d6-a3f1-2c7e5d4b9a1f",
+    "word": "こっち",
+    "reading": "こっち",
+    "meanings": [
+      "This way (Indicates direction, location, side near the speaker)"
+    ],
+    "notes": [],
+    "exampleJapanese": "「危険だからこっちへ来なさい」と消防士が叫んだ瞬間、崩れかけていた建物の壁が大きな音を立てて倒れた。",
+    "exampleEnglish": "The moment the firefighter shouted, “It’s dangerous, come over here,” the wall of the collapsing building fell with a tremendous crash.",
+    "jlpt": "N5",
+    "wordType": "Pronoun",
+    "register": "Casual"
+  },
+  {
+    "id": "8f1c5d4a-7e2b-49d6-b3f1-5c8e2d4a1f7b",
+    "word": "コップ",
+    "reading": "コップ",
+    "meanings": [
+      "Cup (Refers to a glass or cup used for drinks)"
+    ],
+    "notes": [],
+    "exampleJapanese": "事情聴取の最中、彼は震える手で水の入ったコップを握りしめながら、事件当夜の記憶を語り始めた。",
+    "exampleEnglish": "During the interrogation, he began recounting his memories of the night of the incident while clutching a glass of water with trembling hands.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "b24dbf71-d792-4ba1-ac38-1310d5e02f84",
+    "word": "今年",
+    "reading": "ことし",
+    "meanings": [
+      "This Year"
+    ],
+    "notes": [],
+    "exampleJapanese": "今年に入ってから急激に円安が進んだことで、海外市場への依存度が高い中小企業ほど資金繰りに苦しんでいる。",
+    "exampleEnglish": "Since the beginning of this year, the rapid depreciation of the yen has made cash flow particularly difficult for small and medium-sized companies that heavily depend on overseas markets.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "5e1a7c2d-4f8b-49d6-a3f1-2c7e5d4b9a1f",
+    "word": "子供",
+    "reading": "こども",
+    "meanings": [
+      "Child",
+      "Children"
+    ],
+    "notes": [],
+    "exampleJapanese": "子供の頃に祖父から聞かされた戦争体験は、歴史書を読むよりもはるかに生々しく、今でも私の価値観に深い影響を与えている。",
+    "exampleEnglish": "The war experiences my grandfather told me about when I was a child were far more vivid than reading history books, and they still deeply influence my values today.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "7c2d5e1a-4f8b-49d6-b3f1-5c8e2d4a1f7b",
+    "word": "この",
+    "reading": "この",
+    "meanings": [
+      "This"
+    ],
+    "notes": [],
+    "exampleJapanese": "この研究成果が再現可能であるかどうかを検証するために、複数の大学が独立した実験チームを立ち上げた。",
+    "exampleEnglish": "To verify whether these research findings are reproducible, several universities established independent experimental teams.",
+    "jlpt": "N5",
+    "wordType": "Pronoun",
+    "register": "Neutral"
+  },
+  {
+    "id": "7e3de568-801f-4393-8715-fad82fee4427",
+    "word": "御飯",
+    "reading": "ごはん",
+    "meanings": [
+      "Cooked Rice",
+      "Meal (In general)"
+    ],
+    "notes": [],
+    "exampleJapanese": "忙しさを理由に毎日コンビニで済ませていたが、久しぶりに母の作った御飯を食べた瞬間、自分がどれほど疲れていたのかを実感した。",
+    "exampleEnglish": "I had been using busyness as an excuse to eat convenience store food every day, but the moment I ate my mother's home-cooked meal again, I realized how exhausted I truly was.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "b1009833-577f-45f1-b175-0391dbbf6fe2",
+    "word": "コピーをする",
+    "reading": "コピーをする",
+    "meanings": [
+      "To copy"
+    ],
+    "notes": [],
+    "exampleJapanese": "機密資料を無断でコピーをする行為は、たとえ社内であっても重大な規則違反と見なされる可能性がある。",
+    "exampleEnglish": "Making unauthorized copies of confidential documents may be regarded as a serious violation of regulations, even within a company.",
+    "jlpt": "N5",
+    "wordType": "Transitive Irregular Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "65c94d11-b421-4def-b552-753876470b67",
+    "word": "これ",
+    "reading": "これ",
+    "meanings": [
+      "This (Demonstrative pronoun used to refer to something close to the speaker)"
+    ],
+    "notes": [],
+    "exampleJapanese": "これほど高度な人工知能が一般消費者向けに短期間で普及するとは、十年前にはほとんど予想されていなかった。",
+    "exampleEnglish": "Ten years ago, hardly anyone predicted that artificial intelligence this advanced would spread to ordinary consumers so quickly.",
+    "jlpt": "N5",
+    "wordType": "Pronoun",
+    "register": "Neutral"
+  },
+  {
+    "id": "2c7e5d4a-1f8b-49d6-a3f1-7e2c5d4b9a1f",
+    "word": "今月",
+    "reading": "こんげつ",
+    "meanings": [
+      "This month"
+    ],
+    "notes": [],
+    "exampleJapanese": "今月は予算削減の影響で研究助成金の審査が例年より厳しくなり、多くの若手研究者が計画の見直しを迫られている。",
+    "exampleEnglish": "This month, due to budget cuts, the screening process for research grants has become stricter than usual, forcing many young researchers to revise their plans.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "5d4a1f7b-8e2c-49d6-b3f1-2c7e5d4a9f1b",
+    "word": "今週",
+    "reading": "こんしゅう",
+    "meanings": [
+      "This week"
+    ],
+    "notes": [],
+    "exampleJapanese": "今週は国際会議の準備に追われてほとんど睡眠時間が取れなかったが、その分、自分の研究が世界的に注目されていることを実感できた。",
+    "exampleEnglish": "This week, I was so busy preparing for the international conference that I barely got any sleep, but in return, I truly felt that my research was gaining global attention.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "5e2d7c1f-4a8b-49d6-b3f1-7c2e5d4a9f1b",
+    "word": "こんな",
+    "reading": "こんな",
+    "meanings": [
+      "Like this",
+      "This kind of (Used to describe something as being of a certain type, quality, condition or degree)"
+    ],
+    "notes": [],
+    "exampleJapanese": "こんな単純な入力ミスが大規模なシステム障害につながるとは誰も想像しておらず、原因が判明するまでに数時間を要した。",
+    "exampleEnglish": "No one imagined that such a simple input error would lead to a large-scale system failure, and it took several hours before the cause was identified.",
+    "jlpt": "N5",
+    "wordType": "Pronoun",
+    "register": "Neutral"
+  },
+  {
+    "id": "1cbb519f-e296-4158-8f52-46309fb838d6",
+    "word": "寒い",
+    "reading": "さむい",
+    "meanings": [
+      "Cold (Weather)"
+    ],
+    "notes": [],
+    "exampleJapanese": "寒い地域で育った彼は、氷点下の環境でも平然としているが、湿度の高い暑さには極端に弱い。",
+    "exampleEnglish": "Having grown up in a cold region, he remains unfazed even in below-freezing conditions, but he is extremely weak against humid heat.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "9b4587b6-a187-470d-8137-492a22b74a32",
+    "word": "散歩する",
+    "reading": "さんぽする",
+    "meanings": [
+      "To take a walk"
+    ],
+    "notes": [],
+    "exampleJapanese": "重要な決断を下す前には、私は必ず一人で川沿いを散歩するようにしており、その時間が思考を整理する助けになっている。",
+    "exampleEnglish": "Before making important decisions, I always make a point of taking a walk alone along the river, and that time helps me organize my thoughts.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Irregular Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "16576652-8482-4285-825f-63fee47364a5",
+    "word": "時間",
+    "reading": "じかん",
+    "meanings": [
+      "Time"
+    ],
+    "notes": [],
+    "exampleJapanese": "限られた時間の中で最大の成果を出すには、単に努力するだけでなく、優先順位を見極める能力が不可欠だ。",
+    "exampleEnglish": "To achieve the greatest results within limited time, it is essential not only to work hard but also to have the ability to determine priorities.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "6213b3f5-3ce2-408e-b983-9b22f7040f9c",
+    "word": "静か",
+    "reading": "しずか",
+    "meanings": [
+      "Quiet"
+    ],
+    "notes": [],
+    "exampleJapanese": "深夜の図書館は驚くほど静かで、ページをめくる音さえ周囲に響いているように感じられた。",
+    "exampleEnglish": "The library late at night was astonishingly quiet, and even the sound of turning pages seemed to echo around the room.",
+    "jlpt": "N5",
+    "wordType": "な-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "1f7db825-90e4-4bcc-839f-ae8bb92069ba",
+    "word": "下",
+    "reading": "した",
+    "meanings": [
+      "Below"
+    ],
+    "notes": [],
+    "exampleJapanese": "契約書の下に小さく記載されていた条項を見落としたせいで、彼は予想外の損失を被ることになった。",
+    "exampleEnglish": "Because he overlooked a clause written in small print at the bottom of the contract, he ended up suffering unexpected losses.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "3351f142-7237-4f1f-8daa-7e39b6cd83f2",
+    "word": "じゃあ",
+    "reading": "じゃあ",
+    "meanings": [
+      "Well then"
+    ],
+    "notes": [],
+    "exampleJapanese": "じゃあ、今回の交渉が決裂した場合に備えて、代替案も同時に準備しておいたほうがいい。",
+    "exampleEnglish": "Well then, in case these negotiations break down, we should prepare an alternative plan at the same time.",
+    "jlpt": "N5",
+    "wordType": "Adverb",
+    "register": "Casual"
+  },
+  {
+    "id": "efe4b84b-91c6-4702-89e6-4c2b61c68254",
+    "word": "シャツ",
+    "reading": "シャツ",
+    "meanings": [
+      "Shirt"
+    ],
+    "notes": [],
+    "exampleJapanese": "重要な商談の日に限ってコーヒーを白いシャツにこぼしてしまい、朝から気分が最悪だった。",
+    "exampleEnglish": "Of all days, I spilled coffee on my white shirt on the day of an important business meeting, and my mood was terrible from the morning.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "5c8e2d4a-1f7b-49d6-b3f1-2c7e5d4a9f1b",
+    "word": "シャワー",
+    "reading": "シャワー",
+    "meanings": [
+      "Shower"
+    ],
+    "notes": [],
+    "exampleJapanese": "徹夜続きで疲れ切っていたが、熱いシャワーを浴びた瞬間、張り詰めていた神経が少しだけ和らいだ気がした。",
+    "exampleEnglish": "I was completely exhausted from pulling all-nighters, but the moment I took a hot shower, I felt my tense nerves ease just a little.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "a8273a4a-0124-4d2c-b64a-ff9dd4ac70c4",
+    "word": "知る",
+    "reading": "しる",
+    "meanings": [
+      "To know"
+    ],
+    "notes": [],
+    "exampleJapanese": "真実を知ることが必ずしも幸福につながるとは限らず、ときには無知でいるほうが平穏を保てる場合もある。",
+    "exampleEnglish": "Knowing the truth does not necessarily lead to happiness, and sometimes remaining ignorant is what allows one to maintain peace of mind.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "2804995b-12ac-4f6a-9b69-dce64d06e52d",
+    "word": "白",
+    "reading": "しろ",
+    "meanings": [
+      "White"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼女は白を基調とした簡素なデザインを好んでいたが、その美意識には強い自己主張が感じられた。",
+    "exampleEnglish": "She preferred simple designs based on white tones, yet there was a strong sense of self-expression in her aesthetic.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "eba61ff7-46f9-4a14-bf07-e060bca7ea85",
+    "word": "白い",
+    "reading": "しろい",
+    "meanings": [
+      "White"
+    ],
+    "notes": [],
+    "exampleJapanese": "雪に覆われた山々が朝日に照らされ、白い稜線がまるで別世界の境界のように浮かび上がっていた。",
+    "exampleEnglish": "The snow-covered mountains were illuminated by the morning sun, and the white ridgelines emerged as if they were the boundary of another world.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "9ea4af1c-d39b-4757-863b-49c83462fc4b",
+    "word": "新聞",
+    "reading": "しんぶん",
+    "meanings": [
+      "Newspaper"
+    ],
+    "notes": [],
+    "exampleJapanese": "新聞の発行部数は年々減少しているものの、調査報道の分野では依然として大きな社会的影響力を持っている。",
+    "exampleEnglish": "Although newspaper circulation has been declining year by year, they still maintain significant social influence in the field of investigative journalism.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "05d3bb64-2814-4472-b10c-3078ed3b0f33",
+    "word": "水曜日",
+    "reading": "すいようび",
+    "meanings": [
+      "Wednesday"
+    ],
+    "notes": [],
+    "exampleJapanese": "水曜日までに最終報告書を提出できなければ、来期の予算審査に間に合わなくなる可能性がある。",
+    "exampleEnglish": "If we cannot submit the final report by Wednesday, there is a possibility that we will miss the budget review for the next term.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "2d4c41cc-9c14-46f3-8327-c7a77d43b490",
+    "word": "スカート",
+    "reading": "スカート",
+    "meanings": [
+      "Skirt"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼女は伝統的な価値観に縛られることを嫌い、フォーマルな場でもあえて鮮やかな色のスカートを選んでいた。",
+    "exampleEnglish": "She disliked being constrained by traditional values, and even at formal occasions, she deliberately chose brightly colored skirts.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "0202c287-e0af-4266-9133-abca7ad95653",
+    "word": "好き",
+    "reading": "すき",
+    "meanings": [
+      "Liked"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は経済学が好きだと言いながらも、数字そのものより、人間の行動心理を分析することに強く惹かれている。",
+    "exampleEnglish": "Although he says he likes economics, he is actually far more drawn to analyzing human behavioral psychology than to numbers themselves.",
+    "jlpt": "N5",
+    "wordType": "な-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "9fa1a150-a636-4aac-80d2-25eec92fd193",
+    "word": "直ぐに",
+    "reading": "すぐに",
+    "meanings": [
+      "Immediately"
+    ],
+    "notes": [],
+    "exampleJapanese": "重大な脆弱性が発見されたため、開発チームは全ユーザーに対して直ぐにソフトウェアを更新するよう呼びかけた。",
+    "exampleEnglish": "Because a critical vulnerability was discovered, the development team urged all users to update the software immediately.",
+    "jlpt": "N5",
+    "wordType": "Adverb",
+    "register": "Neutral"
+  },
+  {
+    "id": "acfa4a6b-4882-48bb-a294-39eef7bd7ccb",
+    "word": "少し",
+    "reading": "すこし",
+    "meanings": [
+      "A little"
+    ],
+    "notes": [],
+    "exampleJapanese": "長年対立していた両国の代表が少しだけ歩み寄ったことで、停戦交渉にわずかな希望が見え始めた。",
+    "exampleEnglish": "As representatives of the two countries that had been in conflict for many years moved slightly closer to each other, a small hope began to emerge for ceasefire negotiations.",
+    "jlpt": "N5",
+    "wordType": "Adverb",
+    "register": "Neutral"
+  },
+  {
+    "id": "6a87f3fe-b2ba-4f46-9040-5e77ddd8b340",
+    "word": "ストーブ",
+    "reading": "ストーブ",
+    "meanings": [
+      "Heater (Most commonly means a space heater or room heater)"
+    ],
+    "notes": [],
+    "exampleJapanese": "冬の山小屋では、古いストーブの前に皆が集まり、外の吹雪を眺めながら静かに夜を過ごしていた。",
+    "exampleEnglish": "At the mountain lodge in winter, everyone gathered in front of the old stove and quietly spent the night watching the blizzard outside.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "63abea48-456c-42d9-a60c-50e7118be3a9",
+    "word": "スプーン",
+    "reading": "スプーン",
+    "meanings": [
+      "Spoon"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は緊張すると無意識のうちにスプーンを指先で回す癖があり、重要な面接の最中にもそれが出てしまった。",
+    "exampleEnglish": "When he gets nervous, he has a habit of unconsciously twirling a spoon with his fingertips, and it showed even during the important interview.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "ae20c310-e27f-440b-84ee-f6e2de94d896",
+    "word": "スポーツ",
+    "reading": "スポーツ",
+    "meanings": [
+      "Sport"
+    ],
+    "notes": [],
+    "exampleJapanese": "スポーツを単なる娯楽として軽視する人もいるが、国家間の外交や社会統合に大きな影響を与える場合も少なくない。",
+    "exampleEnglish": "Some people dismiss sports as mere entertainment, but they often have a major impact on diplomacy between nations and social integration.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "001df43a-32cb-42d2-aff6-36fe656aba49",
+    "word": "スリッパ",
+    "reading": "スリッパ",
+    "meanings": [
+      "Slippers"
+    ],
+    "notes": [],
+    "exampleJapanese": "来客用のスリッパが玄関にきちんと並べられているだけで、その家の丁寧な暮らしぶりが伝わってくる。",
+    "exampleEnglish": "Just seeing the guest slippers neatly lined up at the entrance conveys the careful way that household lives.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "5c7398e6-60dd-411f-b4d4-df835e5133c0",
+    "word": "する",
+    "reading": "する",
+    "meanings": [
+      "To do"
+    ],
+    "notes": [],
+    "exampleJapanese": "どれほど優れた計画であっても、実行する段階で現場との連携が取れていなければ失敗に終わる可能性が高い。",
+    "exampleEnglish": "No matter how excellent a plan may be, it is likely to fail if coordination with the field is lacking during the execution stage.",
+    "jlpt": "N5",
+    "wordType": "Transitive Irregular Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "0b628d45-7f4b-48d2-8e10-1cb36cb71214",
+    "word": "セーター",
+    "reading": "セーター",
+    "meanings": [
+      "Sweater"
+    ],
+    "notes": [],
+    "exampleJapanese": "祖母が若い頃に編んだ古いセーターには、既製品にはない温かみと長い年月の記憶が染み込んでいる。",
+    "exampleEnglish": "The old sweater my grandmother knitted when she was young is imbued with a warmth and memories of many years that ready-made products cannot possess.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "03baece6-bee2-43b9-ae9a-76934f2b3de7",
+    "word": "節倹",
+    "reading": "せっけん",
+    "meanings": [
+      "Frugality"
+    ],
+    "notes": [],
+    "exampleJapanese": "経済危機の直後には、多くの家庭が将来への不安から極端な節倹生活を余儀なくされた。",
+    "exampleEnglish": "In the aftermath of the economic crisis, many households were forced into extremely frugal living due to anxiety about the future.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Formal"
+  },
+  {
+    "id": "4780ec54-08ee-4ffd-b24e-192328086835",
+    "word": "狭い",
+    "reading": "せまい",
+    "meanings": [
+      "Narrow",
+      "Cramped"
+    ],
+    "notes": [],
+    "exampleJapanese": "狭い研究室に世界各国から集まった学生たちが肩を並べて議論している光景は、この大学の多様性を象徴していた。",
+    "exampleEnglish": "The sight of students from all over the world standing shoulder to shoulder discussing matters in the cramped laboratory symbolized the diversity of this university.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "14830575-6c06-4ff4-991a-82b5b8deb3b9",
+    "word": "ゼロ",
+    "reading": "ゼロ",
+    "meanings": [
+      "Zero"
+    ],
+    "notes": [],
+    "exampleJapanese": "経験も資金もゼロの状態から起業した彼は、十年後には業界を代表する経営者の一人となっていた。",
+    "exampleEnglish": "Starting a business with neither experience nor capital, he became one of the leading executives in the industry ten years later.",
+    "jlpt": "N5",
+    "wordType": "Number",
+    "register": "Neutral"
+  },
+  {
+    "id": "d815a637-c516-4ce3-94ee-5288f1016866",
+    "word": "千",
+    "reading": "せん",
+    "meanings": [
+      "Thousand"
+    ],
+    "notes": [],
+    "exampleJapanese": "その古文書には、千年以上前の王朝がどのように外交関係を築いていたのかが詳細に記されている。",
+    "exampleEnglish": "That ancient document describes in detail how a dynasty from more than a thousand years ago established diplomatic relations.",
+    "jlpt": "N5",
+    "wordType": "Number",
+    "register": "Neutral"
+  },
+  {
+    "id": "51802055-7afb-45aa-9bd0-6a9585507217",
+    "word": "先月",
+    "reading": "せんげつ",
+    "meanings": [
+      "Last month"
+    ],
+    "notes": [],
+    "exampleJapanese": "先月発表された調査結果によれば、若年層の間では従来型の雇用形態に対する価値観が大きく変化しているという。",
+    "exampleEnglish": "According to the survey results released last month, values regarding traditional forms of employment are changing significantly among younger generations.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "6c422c31-496a-4e99-bf7d-8b85fa4587c9",
+    "word": "先週",
+    "reading": "せんしゅう",
+    "meanings": [
+      "Last week"
+    ],
+    "notes": [],
+    "exampleJapanese": "先週の会議では、新しい規制案が中小企業に与える影響について激しい議論が交わされた。",
+    "exampleEnglish": "At last week’s meeting, there was intense debate over the impact the new regulatory proposal would have on small and medium-sized businesses.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "cd00b1f4-9d9f-4a0e-9b05-5470f61cb7a0",
+    "word": "先生",
+    "reading": "せんせい",
+    "meanings": [
+      "Teacher",
+      "Doctor (Respectful title)"
+    ],
+    "notes": [],
+    "exampleJapanese": "学生時代に出会った先生の一言が、結果的に私の研究分野を決定づけることになった。",
+    "exampleEnglish": "A single remark from a teacher I met during my student days ultimately determined my field of research.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "5ab0e774-a04a-4846-9e74-281dae5ddb6f",
+    "word": "そして",
+    "reading": "そして",
+    "meanings": [
+      "And (then)"
+    ],
+    "notes": [],
+    "exampleJapanese": "長年の対立を経て両国はようやく和平協定に署名し、そして新たな経済協力の枠組みについても協議を始めた。",
+    "exampleEnglish": "After years of conflict, the two countries finally signed a peace agreement, and then they also began discussions on a new framework for economic cooperation.",
+    "jlpt": "N5",
+    "wordType": "Adverb",
+    "register": "Neutral"
+  },
+  {
+    "id": "5ae932d2-eb3b-41a4-9f20-077556286b25",
+    "word": "そこ",
+    "reading": "そこ",
+    "meanings": [
+      "There (Refers to a place near the listener or a location already being discussed)"
+    ],
+    "notes": [],
+    "exampleJapanese": "そこに残されていたわずかな証拠から、捜査官たちは事件の全体像を少しずつ明らかにしていった。",
+    "exampleEnglish": "From the small amount of evidence left there, the investigators gradually uncovered the full picture of the case.",
+    "jlpt": "N5",
+    "wordType": "Pronoun",
+    "register": "Neutral"
+  },
+  {
+    "id": "f512932f-2a45-4c03-ae1d-69eb56d98774",
+    "word": "そっち",
+    "reading": "そっち",
+    "meanings": [
+      "That way",
+      "Over there (Can also refer to an option among choices)"
+    ],
+    "notes": [],
+    "exampleJapanese": "そっちの提案にも合理性はあるが、長期的なリスクを考えると慎重に判断する必要がある。",
+    "exampleEnglish": "That proposal also has its merits, but considering the long-term risks, it is necessary to make a careful judgment.",
+    "jlpt": "N5",
+    "wordType": "Pronoun",
+    "register": "Casual"
+  },
+  {
+    "id": "21c8d270-8f9e-4e08-89ce-44feef0f9563",
+    "word": "そちら",
+    "reading": "そちら",
+    "meanings": [
+      "That way",
+      "Over there (Can also refer to an option among choices)"
+    ],
+    "notes": [],
+    "exampleJapanese": "そちらで契約内容をご確認いただいたうえで、問題がなければ来週中に正式な手続きを進めたいと考えております。",
+    "exampleEnglish": "After you review the contract details on your end, we would like to proceed with the formal procedures within next week if there are no issues.",
+    "jlpt": "N5",
+    "wordType": "Pronoun",
+    "register": "Formal"
+  },
+  {
+    "id": "f748ccda-2228-4939-86d1-bff038440e43",
+    "word": "その",
+    "reading": "その",
+    "meanings": [
+      "That (Near the listener or already mentioned) Must be followed by a noun"
+    ],
+    "notes": [],
+    "exampleJapanese": "その理論は長年にわたって支持されてきたが、近年の研究によって根本的な前提が疑問視され始めている。",
+    "exampleEnglish": "That theory had been supported for many years, but recent research has begun to cast doubt on its fundamental assumptions.",
+    "jlpt": "N5",
+    "wordType": "Pronoun",
+    "register": "Neutral"
+  },
+  {
+    "id": "59838daf-406a-44da-a997-58383e5c2d32",
+    "word": "それ",
+    "reading": "それ",
+    "meanings": [
+      "That (Near the listener or something already mentioned"
+    ],
+    "notes": [],
+    "exampleJapanese": "それほど大きな責任を一人で背負い込めば、精神的な負担が限界に達するのも無理はない。",
+    "exampleEnglish": "If someone shoulders that great a responsibility alone, it is no wonder that the mental burden reaches its limit.",
+    "jlpt": "N5",
+    "wordType": "Pronoun",
+    "register": "Neutral"
+  },
+  {
+    "id": "32933e28-d9c4-48a8-ac3d-9a1337ccc1b5",
+    "word": "それでは",
+    "reading": "それでは",
+    "meanings": [
+      "In that case"
+    ],
+    "notes": [],
+    "exampleJapanese": "それでは、現在の市場環境を踏まえたうえで、来年度の投資戦略について具体的に説明いたします。",
+    "exampleEnglish": "Well then, based on the current market environment, I will now explain next year’s investment strategy in detail.",
+    "jlpt": "N5",
+    "wordType": "Adverb",
+    "register": "Formal"
+  },
+  {
+    "id": "f161f9e2-44ba-4253-91fb-2702e383a1cd",
+    "word": "大丈夫",
+    "reading": "だいじょうぶ",
+    "meanings": [
+      "Okay (Alright)"
+    ],
+    "notes": [],
+    "exampleJapanese": "経験豊富な外科医が担当するのであれば、手術の成功率について過度に心配しなくても大丈夫だろう。",
+    "exampleEnglish": "If an experienced surgeon is in charge, there is probably no need to worry excessively about the surgery’s success rate.",
+    "jlpt": "N5",
+    "wordType": "な-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "a0f3438d-2709-4542-a4f2-668155c8f076",
+    "word": "大好き",
+    "reading": "だいすき",
+    "meanings": [
+      "Like very much"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は幼い頃から天文学が大好きで、都会の光を避けるために毎年山奥まで流星群を観測しに行っている。",
+    "exampleEnglish": "He has loved astronomy since childhood, and every year he goes deep into the mountains to observe meteor showers away from the city lights.",
+    "jlpt": "N5",
+    "wordType": "な-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "38bf44ac-1078-47f0-85f8-130b7d5dd4f8",
+    "word": "高い",
+    "reading": "たかい",
+    "meanings": [
+      "Tall",
+      "Expensive"
+    ],
+    "notes": [],
+    "exampleJapanese": "この地域は生活費が高い一方で、教育や医療の水準も非常に高いことで知られている。",
+    "exampleEnglish": "Although the cost of living in this area is high, it is also known for having extremely high standards of education and healthcare.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "4a57cffc-061b-4bff-bca3-41a2cce2458c",
+    "word": "タクシー",
+    "reading": "タクシー",
+    "meanings": [
+      "Taxi"
+    ],
+    "notes": [],
+    "exampleJapanese": "終電を逃した彼は、深夜料金の高さに驚きながらも仕方なくタクシーで帰宅した。",
+    "exampleEnglish": "After missing the last train, he reluctantly took a taxi home while being surprised by the high late-night fare.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "90b64681-78e6-4eb0-b069-11d42bd6eaa8",
+    "word": "出す",
+    "reading": "だす",
+    "meanings": [
+      "To take out",
+      "To put out"
+    ],
+    "notes": [],
+    "exampleJapanese": "十分な根拠もなく結論を出すことは、研究者としての信頼を損なう危険性がある。",
+    "exampleEnglish": "Drawing conclusions without sufficient evidence can risk damaging one’s credibility as a researcher.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "aaa40885-6905-4629-9c2b-95a5bd2d4eab",
+    "word": "楽しい",
+    "reading": "たのしい",
+    "meanings": [
+      "Enjoyable"
+    ],
+    "notes": [],
+    "exampleJapanese": "学生時代は経済的に苦しかったものの、仲間と将来について語り合った時間は今でも楽しい思い出として残っている。",
+    "exampleEnglish": "Although I struggled financially during my student days, the time spent talking about the future with my friends still remains a joyful memory.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "16e7823c-adc1-41e4-922f-b9ef8c43d57d",
+    "word": "タバコ",
+    "reading": "たばこ",
+    "meanings": [
+      "Tabacco"
+    ],
+    "notes": [],
+    "exampleJapanese": "長年タバコを吸い続けていた彼は、健康診断の結果をきっかけに禁煙を決意した。",
+    "exampleEnglish": "After smoking cigarettes for many years, he decided to quit following the results of a medical checkup.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "b3ff673a-d8f8-4a56-b978-c6eeda6e9ac8",
+    "word": "食べ物",
+    "reading": "たべもの",
+    "meanings": [
+      "Food"
+    ],
+    "notes": [],
+    "exampleJapanese": "異文化を理解するうえで、その国の食べ物に触れることは歴史や価値観を知るための重要な手がかりになる。",
+    "exampleEnglish": "When trying to understand another culture, experiencing that country’s food becomes an important clue to learning about its history and values.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "c57b29c5-e433-4789-bc92-3db77e09b330",
+    "word": "食べる",
+    "reading": "たべる",
+    "meanings": [
+      "To eat"
+    ],
+    "notes": [],
+    "exampleJapanese": "忙しいからといって食事を急いで食べる習慣を続けていると、消化器官に大きな負担をかけることがある。",
+    "exampleEnglish": "If you continue the habit of eating meals in a rush just because you are busy, it can place a heavy burden on your digestive system.",
+    "jlpt": "N5",
+    "wordType": "Transitive Ichidan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "b06c9f45-b358-41d8-af91-0c7571bd48ca",
+    "word": "誰",
+    "reading": "だれ",
+    "meanings": [
+      "Who"
+    ],
+    "notes": [],
+    "exampleJapanese": "誰が最終的な責任を負うのかが曖昧な組織では、重大な問題が起きた際に迅速な対応が難しくなる。",
+    "exampleEnglish": "In an organization where it is unclear who bears ultimate responsibility, it becomes difficult to respond quickly when serious problems occur.",
+    "jlpt": "N5",
+    "wordType": "Pronoun",
+    "register": "Neutral"
+  },
+  {
+    "id": "64becd33-785c-4daa-8967-c01b8406ec18",
+    "word": "誕生日",
+    "reading": "たんじょうび",
+    "meanings": [
+      "Birthday"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼女は毎年誕生日になると、高価な贈り物よりも家族と静かに過ごす時間を何より大切にしている。",
+    "exampleEnglish": "Every year on her birthday, she values spending quiet time with her family more than expensive gifts.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "ae241073-41cd-4e4f-9448-75854cd8a746",
+    "word": "小さい",
+    "reading": "ちいさい",
+    "meanings": [
+      "Small"
+    ],
+    "notes": [],
+    "exampleJapanese": "小さい出版社が独自の視点を持つ作品を世に送り出すことで、文学の多様性は支えられている。",
+    "exampleEnglish": "The diversity of literature is sustained by small publishing houses bringing works with unique perspectives into the world.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "2ce0aeff-4944-4bbd-87e2-18b5b6fa1ea1",
+    "word": "小さな",
+    "reading": "ちいさな",
+    "meanings": [
+      "Small"
+    ],
+    "notes": [],
+    "exampleJapanese": "小さな誤解が積み重なった結果、長年続いていた共同研究の関係は静かに崩れていった。",
+    "exampleEnglish": "As small misunderstandings accumulated, the collaborative research relationship that had lasted for many years quietly fell apart.",
+    "jlpt": "N5",
+    "wordType": "な-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "fade3595-ddc1-4505-8d15-0711da2c970b",
+    "word": "近い",
+    "reading": "ちかい",
+    "meanings": [
+      "Near"
+    ],
+    "notes": [],
+    "exampleJapanese": "この地域は空港に近いという利点がある一方で、騒音問題に長年悩まされ続けている。",
+    "exampleEnglish": "While this area has the advantage of being close to the airport, it has also suffered from noise problems for many years.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "de869100-363b-4fb2-b724-e5d7190fb982",
+    "word": "近く",
+    "reading": "ちかく",
+    "meanings": [
+      "Nearby"
+    ],
+    "notes": [],
+    "exampleJapanese": "研究所の近くに新しく建設された図書館は、地域住民にも開放されており、週末には多くの人で賑わっている。",
+    "exampleEnglish": "The newly built library near the research institute is open to local residents as well, and it becomes crowded with many people on weekends.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "5ff8a8b3-efa5-486d-a0bf-4224ed1ee577",
+    "word": "疲れる",
+    "reading": "つかれる",
+    "meanings": [
+      "To get tired"
+    ],
+    "notes": [],
+    "exampleJapanese": "長時間にわたる政治交渉は精神的にも非常に疲れるため、交渉官には強い集中力と忍耐力が求められる。",
+    "exampleEnglish": "Long political negotiations are extremely exhausting mentally as well, so negotiators are required to have strong concentration and patience.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Ichidan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "94dfc18f-ce56-4d4f-a953-db82b3be6e5a",
+    "word": "次",
+    "reading": "つぎ",
+    "meanings": [
+      "Next"
+    ],
+    "notes": [],
+    "exampleJapanese": "次の世代に持続可能な社会を残せるかどうかは、今を生きる私たちの選択にかかっている。",
+    "exampleEnglish": "Whether we can leave a sustainable society to the next generation depends on the choices we make today.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "7f3a760b-1050-4917-8e36-ae46767be0c4",
+    "word": "作る",
+    "reading": "つくる",
+    "meanings": [
+      "To make"
+    ],
+    "notes": [],
+    "exampleJapanese": "信頼関係を作るには長い時間がかかるが、それを失うのはほんの一瞬であることも少なくない。",
+    "exampleEnglish": "Building trust takes a long time, but losing it often happens in just a moment.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "7675fe1f-31ee-4193-9eac-bf6a0c367eb4",
+    "word": "手",
+    "reading": "て",
+    "meanings": [
+      "Hand"
+    ],
+    "notes": [],
+    "exampleJapanese": "緊張すると手が震える癖があるため、彼は重要な契約書に署名する前に必ず深呼吸をする。",
+    "exampleEnglish": "Because he has a habit of his hands shaking when nervous, he always takes a deep breath before signing important contracts.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "bd7b13bf-3399-495f-960a-39d83941eb09",
+    "word": "テープ",
+    "reading": "テープ",
+    "meanings": [
+      "Tape"
+    ],
+    "notes": [],
+    "exampleJapanese": "古い録音テープには、今では失われた方言や当時の人々の生活音が貴重な資料として残されている。",
+    "exampleEnglish": "The old recording tapes preserve, as valuable materials, dialects that have now disappeared and the everyday sounds of people’s lives from that time.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "bd540370-19fb-4fd5-a567-8ff7ce687750",
+    "word": "テーブル",
+    "reading": "テーブル",
+    "meanings": [
+      "Table"
+    ],
+    "notes": [],
+    "exampleJapanese": "交渉の場では、テーブルの配置一つで参加者同士の心理的な距離感が大きく変わることがある。",
+    "exampleEnglish": "In negotiations, even the arrangement of the table alone can greatly change the psychological distance between participants.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "7bb1ca8d-6bbe-4010-aa28-c4238d09e196",
+    "word": "テープレコーダー",
+    "reading": "テープレコーダー",
+    "meanings": [
+      "Tape Recorder"
+    ],
+    "notes": [],
+    "exampleJapanese": "祖父の書斎で見つけた古いテープレコーダーには、家族も知らなかった若い頃の歌声が録音されていた。",
+    "exampleEnglish": "The old tape recorder I found in my grandfather’s study contained recordings of his singing voice from his youth, which even the family had never known about.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "8fb50a2c-5ef2-4edf-82e4-d5694d30c4f0",
+    "word": "出かける",
+    "reading": "でかける",
+    "meanings": [
+      "To go out"
+    ],
+    "notes": [],
+    "exampleJapanese": "休日になると彼は必ず美術館へ出かけるが、それは作品を見るためだけでなく、静かな空間で思考を整理するためでもある。",
+    "exampleEnglish": "On holidays, he always goes out to art museums, not only to view the works but also to organize his thoughts in a quiet space.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Ichidan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "e58048b5-dcca-4012-b8b6-2c45bddf9951",
+    "word": "できる",
+    "reading": "できる",
+    "meanings": [
+      "To be able to"
+    ],
+    "notes": [],
+    "exampleJapanese": "どれほど優れた理論であっても、現実社会で実践できる形に落とし込めなければ意味がない。",
+    "exampleEnglish": "No matter how excellent a theory may be, it is meaningless unless it can be translated into a form that can be put into practice in the real world.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Ichidan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "07e8a5f0-014d-4989-a3c1-89262889d716",
+    "word": "テスト",
+    "reading": "テスト",
+    "meanings": [
+      "Test"
+    ],
+    "notes": [],
+    "exampleJapanese": "新薬の承認をめぐる議論では、統計的に有意な結果が得られたとしても、副作用の長期的影響を軽視すべきではないという声が根強い。",
+    "exampleEnglish": "Even if statistically significant results are obtained in debates over the approval of new drugs, there remains strong concern that the long-term effects of side effects should not be underestimated.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "dbe3056d-20c7-4d57-a0cf-280a4008782b",
+    "word": "では",
+    "reading": "では",
+    "meanings": [
+      "In that case (With that)"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は市場が暴落する直前まで強気の姿勢を崩さなかったが、その過信が会社全体を破綻寸前に追い込む結果となった。",
+    "exampleEnglish": "He maintained a bullish stance right up until the market crashed, but that overconfidence ended up driving the entire company to the brink of collapse.",
+    "jlpt": "N5",
+    "wordType": "Grammar",
+    "register": "Neutral"
+  },
+  {
+    "id": "af529e91-27bf-4d43-9b98-c90456864898",
+    "word": "デパート",
+    "reading": "デパート",
+    "meanings": [
+      "Department Store"
+    ],
+    "notes": [],
+    "exampleJapanese": "老舗デパートの屋上遊園地は再開発計画の影響で閉鎖されることになったが、地元住民の間では昭和時代の象徴として今なお懐かしく語られている。",
+    "exampleEnglish": "The rooftop amusement park of the long-established department store was closed due to redevelopment plans, but among local residents it is still nostalgically remembered as a symbol of the Shōwa era.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "1611edb3-2a44-4010-947f-4292348deaeb",
+    "word": "でも",
+    "reading": "でも",
+    "meanings": [
+      "But (As a conjunction)",
+      "Even (As a particle like expression)"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼女は反対意見を突きつけられても動揺するどころか、でもそれこそが議論の本質だと言わんばかりに冷静な態度を貫いた。",
+    "exampleEnglish": "Even when confronted with opposing opinions, rather than becoming upset, she maintained a calm demeanor as if to say that this was precisely the essence of debate.",
+    "jlpt": "N5",
+    "wordType": "Grammar",
+    "register": "Neutral"
+  },
+  {
+    "id": "3c39a84e-524b-405e-8124-6eb76dca533f",
+    "word": "テレビ",
+    "reading": "テレビ",
+    "meanings": [
+      "Television"
+    ],
+    "notes": [],
+    "exampleJapanese": "深夜の討論番組で政治家が不用意な発言をした直後、その映像はテレビだけでなくSNSでも瞬く間に拡散された。",
+    "exampleEnglish": "Right after a politician made a careless remark on a late-night debate program, the footage spread rapidly not only on television but also across social media.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "8d99c020-f5d0-47bb-a411-b379548a9123",
+    "word": "天気",
+    "reading": "てんき",
+    "meanings": [
+      "Weather (Used for daily weather)"
+    ],
+    "notes": [],
+    "exampleJapanese": "山間部では天気が急変しやすいため、経験豊富な登山家でさえ最新の気象情報を軽視することはない。",
+    "exampleEnglish": "Because the weather changes rapidly in mountainous regions, even experienced climbers never take the latest weather information lightly.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "2f81637e-8d2e-404f-9cc3-1e680d262e4a",
+    "word": "電気",
+    "reading": "でんき",
+    "meanings": [
+      "Electricity"
+    ],
+    "notes": [],
+    "exampleJapanese": "大規模な停電が発生したことで、都市機能がいかに電気インフラに依存しているかを多くの市民が痛感した。",
+    "exampleEnglish": "The large-scale blackout made many citizens keenly realize how heavily urban functions depend on electrical infrastructure.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "dc077a41-62af-4b74-83e1-920b4eb34356",
+    "word": "電話",
+    "reading": "でんわ",
+    "meanings": [
+      "Telephone"
+    ],
+    "notes": [],
+    "exampleJapanese": "重要な契約交渉の最中に電話が突然切れたことで、双方の間に微妙な緊張感が漂った。",
+    "exampleEnglish": "When the phone call suddenly disconnected in the middle of crucial contract negotiations, a subtle tension arose between both parties.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "6ff7b502-3ab5-41b4-b5b2-26aeab43ebb5",
+    "word": "ドア",
+    "reading": "ドア",
+    "meanings": [
+      "Door (Western Style)"
+    ],
+    "notes": [],
+    "exampleJapanese": "取調室のドアが静かに閉まった瞬間、彼は自分がもはや後戻りできない状況に置かれていることを悟った。",
+    "exampleEnglish": "The moment the interrogation room door quietly closed, he realized that he was in a situation from which there was no turning back.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "05fd7044-27b3-4d38-8c36-4ba8da8fd646",
+    "word": "トイレ",
+    "reading": "トイレ",
+    "meanings": [
+      "Toilet"
+    ],
+    "notes": [],
+    "exampleJapanese": "災害発生直後には食料や水だけでなく、衛生状態を維持するための仮設トイレの確保も極めて重要となる。",
+    "exampleEnglish": "Immediately after a disaster occurs, securing temporary toilets to maintain sanitation becomes extremely important, alongside food and water.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "f1caf2c6-2708-4b71-9a96-86bf40991990",
+    "word": "どうも",
+    "reading": "どうも",
+    "meanings": [
+      "Thanks"
+    ],
+    "notes": [],
+    "exampleJapanese": "長年にわたって地域活動を支えてきた彼は、表彰式の壇上でも「皆さん、どうも」と短く述べるだけで、過度に自分を誇示しようとはしなかった。",
+    "exampleEnglish": "Having supported community activities for many years, he simply said “Thanks, everyone” on stage at the award ceremony and made no attempt to excessively draw attention to himself.",
+    "jlpt": "N5",
+    "wordType": "Expression",
+    "register": "Casual"
+  },
+  {
+    "id": "ea89d33a-1415-4ad8-8c6c-56cd7a5136ce",
+    "word": "どうも",
+    "reading": "どうも",
+    "meanings": [
+      "Somehow",
+      "Really (To add emphasis)"
+    ],
+    "notes": [],
+    "exampleJapanese": "最近の市場動向を見るかぎり、この企業の経営戦略にはどうも一貫性が欠けているように思える。",
+    "exampleEnglish": "Judging from recent market trends, this company’s management strategy somehow seems to lack consistency.",
+    "jlpt": "N5",
+    "wordType": "Adverb",
+    "register": "Casual"
+  },
+  {
+    "id": "6b80761f-7431-4dfc-90ab-79e10958dd2a",
+    "word": "十日",
+    "reading": "とおか",
+    "meanings": [
+      "10 days",
+      "The 10th Day"
+    ],
+    "notes": [],
+    "exampleJapanese": "長期調査の結果は十日後に正式発表される予定だが、関係者の間ではすでにさまざまな憶測が飛び交っている。",
+    "exampleEnglish": "The results of the long-term investigation are scheduled to be officially announced ten days later, but various speculations are already circulating among those involved.",
+    "jlpt": "N5",
+    "wordType": "Number",
+    "register": "Neutral"
+  },
+  {
+    "id": "7943ecb3-4bcd-4212-a6fe-9c1b5c6a51ab",
+    "word": "どこ",
+    "reading": "どこ",
+    "meanings": [
+      "Where"
+    ],
+    "notes": [],
+    "exampleJapanese": "情報漏洩の原因がどこにあったのかを特定できなければ、同様の事故を再び防ぐことは難しい。",
+    "exampleEnglish": "If the source of the information leak cannot be identified, it will be difficult to prevent a similar incident from happening again.",
+    "jlpt": "N5",
+    "wordType": "Pronoun",
+    "register": "Neutral"
+  },
+  {
+    "id": "b4293259-e7e7-45d7-be20-4840292fefed",
+    "word": "所",
+    "reading": "ところ",
+    "meanings": [
+      "Place",
+      "Part (Refers to a characteristic or feature)"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼が研究所で発表した論文は画期的だと評価された一方で、その実験手法には倫理的な問題があるとの批判も少なくなかった。",
+    "exampleEnglish": "While the paper he presented at the research institute was praised as groundbreaking, there was also considerable criticism that its experimental methods posed ethical problems.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "389ac80b-2ea2-464a-a2df-383a7fb59f23",
+    "word": "年",
+    "reading": "とし",
+    "meanings": [
+      "Year"
+    ],
+    "notes": [],
+    "exampleJapanese": "わずか数年で人工知能の性能が飛躍的に向上したことで、多くの業界が従来の働き方を見直さざるを得なくなった。",
+    "exampleEnglish": "As artificial intelligence performance improved dramatically in just a few years, many industries were forced to reconsider their traditional ways of working.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "74a892ed-6511-406b-876a-45fd96a36e95",
+    "word": "図書館",
+    "reading": "としょかん",
+    "meanings": [
+      "Library"
+    ],
+    "notes": [],
+    "exampleJapanese": "歴史資料の保存を目的として設立されたその図書館には、一般には公開されていない貴重な写本が数多く所蔵されている。",
+    "exampleEnglish": "That library, established for the preservation of historical materials, houses many valuable manuscripts that are not open to the general public.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "fdbadd87-006d-4133-ab5f-64cb4734b2cf",
+    "word": "どっち",
+    "reading": "どっち",
+    "meanings": [
+      "Which (Choosing between two things)"
+    ],
+    "notes": [],
+    "exampleJapanese": "経済成長を優先するべきか、それとも環境保護を重視するべきかという問題に対して、政府はどっちつかずの態度を取り続けている。",
+    "exampleEnglish": "Regarding the question of whether economic growth or environmental protection should take priority, the government continues to maintain an indecisive stance.",
+    "jlpt": "N5",
+    "wordType": "Pronoun",
+    "register": "Casual"
+  },
+  {
+    "id": "891a74df-df79-432e-8a0d-0ffe765e351d",
+    "word": "とても",
+    "reading": "とても",
+    "meanings": [
+      "Very"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼の提案は理論的には魅力的だったが、現実的に実行するにはとても高いコストが伴うことが後に判明した。",
+    "exampleEnglish": "His proposal was theoretically appealing, but it was later revealed that implementing it in reality would involve extremely high costs.",
+    "jlpt": "N5",
+    "wordType": "Adverb",
+    "register": "Neutral"
+  },
+  {
+    "id": "5b04ab76-296b-416f-9bdd-b1dc75ca470e",
+    "word": "隣",
+    "reading": "となり",
+    "meanings": [
+      "Next to"
+    ],
+    "notes": [],
+    "exampleJapanese": "隣の研究室から深夜まで機械音が聞こえてくるたびに、彼は競争相手が着実に成果を積み重ねていることを意識せずにはいられなかった。",
+    "exampleEnglish": "Whenever he heard machine noises late into the night from the neighboring laboratory, he could not help but be aware that his rivals were steadily accumulating results.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "3b0859f6-3b9d-4713-909b-826728120fc2",
+    "word": "止まる",
+    "reading": "とまる",
+    "meanings": [
+      "To stop"
+    ],
+    "notes": [],
+    "exampleJapanese": "金融システムが一度止まると、その影響は銀行業界だけでなく物流や医療など社会全体に瞬く間に広がる。",
+    "exampleEnglish": "Once the financial system comes to a halt, its effects rapidly spread beyond the banking industry to society as a whole, including logistics and healthcare.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "41ba1ca5-5460-4dd6-9930-3e487fce4298",
+    "word": "友達",
+    "reading": "ともだち",
+    "meanings": [
+      "Friend"
+    ],
+    "notes": [],
+    "exampleJapanese": "長年友達だと思っていた相手が突然内部情報を外部に漏らしていたことが判明し、彼は深い失望を隠せなかった。",
+    "exampleEnglish": "He could not hide his deep disappointment when it became clear that the person he had considered a friend for many years had been leaking internal information to outsiders.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "b6c51dce-8cf3-43ad-ad53-e95d236ce8b7",
+    "word": "ナイフ",
+    "reading": "ナイフ",
+    "meanings": [
+      "Knife"
+    ],
+    "notes": [],
+    "exampleJapanese": "証拠品として押収されたナイフから被害者のDNAが検出されたことで、捜査は一気に進展した。",
+    "exampleEnglish": "When the victim’s DNA was detected on the knife confiscated as evidence, the investigation advanced rapidly.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "fcd2ab24-58df-479e-b00e-c4b0d104b79b",
+    "word": "中",
+    "reading": "なか",
+    "meanings": [
+      "Middle",
+      "Inside"
+    ],
+    "notes": [],
+    "exampleJapanese": "会議中に突然通信障害が発生したため、海外支社との重要な協議は一時中断を余儀なくされた。",
+    "exampleEnglish": "Because a communication failure suddenly occurred during the meeting, the important discussions with the overseas branch were forced to be temporarily suspended.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "660fa70c-3ba1-4d1f-aaed-c349282f3d56",
+    "word": "何故",
+    "reading": "なぜ",
+    "meanings": [
+      "Why"
+    ],
+    "notes": [],
+    "exampleJapanese": "何故これほど多くの専門家が警告を発していたにもかかわらず、政府は危機への対応を後回しにしたのかという点が厳しく追及されている。",
+    "exampleEnglish": "Why the government postponed responding to the crisis despite so many experts issuing warnings is being severely questioned.",
+    "jlpt": "N5",
+    "wordType": "Adverb",
+    "register": "Neutral"
+  },
+  {
+    "id": "c73dc4b8-31bf-4f27-a75b-2a254a6e762d",
+    "word": "夏休み",
+    "reading": "なつやすみ",
+    "meanings": [
+      "Summer Holiday"
+    ],
+    "notes": [],
+    "exampleJapanese": "夏休みの観光シーズンに合わせて地方空港の利用者数は大幅に増加したが、その一方で周辺住民からは騒音被害への苦情も相次いだ。",
+    "exampleEnglish": "Passenger numbers at regional airports increased significantly during the summer vacation tourism season, but at the same time, complaints about noise pollution from nearby residents also surged.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "92d8f410-d4ad-449e-8d26-cc6f75450017",
+    "word": "名前",
+    "reading": "なまえ",
+    "meanings": [
+      "Name"
+    ],
+    "notes": [],
+    "exampleJapanese": "匿名性が重視されるオンライン社会では、本名ではなく別の名前を使って活動する研究者やジャーナリストも少なくない。",
+    "exampleEnglish": "In an online society where anonymity is highly valued, there are quite a few researchers and journalists who operate using names other than their real ones.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "1874eb80-8e7a-421b-8719-69d86fe0d093",
+    "word": "なる",
+    "reading": "なる",
+    "meanings": [
+      "To become"
+    ],
+    "notes": [],
+    "exampleJapanese": "長年議論されてきた法案がようやく成立することになり、関係者の間には安堵の空気が広がった。",
+    "exampleEnglish": "The bill that had been debated for many years was finally set to pass, and a sense of relief spread among those involved.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "c01f242f-8389-4ce1-bf80-0392b02a156a",
+    "word": "肉",
+    "reading": "にく",
+    "meanings": [
+      "Meat"
+    ],
+    "notes": [],
+    "exampleJapanese": "高級レストランで提供された熟成肉は豊かな香りと深い旨味を備えていたが、その価格の高さに驚く客も少なくなかった。",
+    "exampleEnglish": "The aged meat served at the high-end restaurant had a rich aroma and deep flavor, but many customers were also surprised by its high price.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "3928e73f-3e94-4429-9395-eeafcc348f12",
+    "word": "日曜日",
+    "reading": "にちようび",
+    "meanings": [
+      "Sunday"
+    ],
+    "notes": [],
+    "exampleJapanese": "日曜日にもかかわらず証券市場の緊急対応会議が開かれたことから、事態の深刻さがうかがえた。",
+    "exampleEnglish": "The seriousness of the situation was evident from the fact that an emergency meeting of the securities market was held despite it being Sunday.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "246f71fc-34d3-4d8a-83c7-756341704fb8",
+    "word": "ニュース",
+    "reading": "ニュース",
+    "meanings": [
+      "News"
+    ],
+    "notes": [],
+    "exampleJapanese": "そのニュースが報道された直後、関連企業の株価は投資家の不安を反映するかのように急落した。",
+    "exampleEnglish": "Immediately after the news was reported, the stock prices of the related companies plunged as if reflecting investors’ anxiety.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "88b634b3-1e74-49e2-9aa9-ddca56fe213c",
+    "word": "ネクタイ",
+    "reading": "ネクタイ",
+    "meanings": [
+      "Necktie"
+    ],
+    "notes": [],
+    "exampleJapanese": "重要な国際会議を前に、彼は普段より落ち着いた色合いのネクタイを選び、相手国への配慮をさりげなく示した。",
+    "exampleEnglish": "Before the important international conference, he chose a more subdued-colored necktie than usual, subtly showing consideration toward the other country.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "74075130-84d1-4a8c-8481-9e1c8188545e",
+    "word": "ノート",
+    "reading": "ノート",
+    "meanings": [
+      "Notebook",
+      "Notes"
+    ],
+    "notes": [],
+    "exampleJapanese": "教授の講義内容を詳細に記録したノートは、試験直前になると学生たちの間で半ば伝説のように扱われていた。",
+    "exampleEnglish": "The notebook containing detailed records of the professor’s lectures was treated almost like a legend among the students right before exams.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "9f92022c-8812-418f-8b9c-32b7a0d9ff89",
+    "word": "飲み物",
+    "reading": "のみもの",
+    "meanings": [
+      "Drink"
+    ],
+    "notes": [],
+    "exampleJapanese": "長時間の国際会議では、参加者の集中力を維持するために軽食や飲み物の提供が欠かせない。",
+    "exampleEnglish": "At long international conferences, providing light meals and drinks is essential for maintaining the participants’ concentration.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "316729eb-085e-4409-bf2c-c0f3b75c7bc9",
+    "word": "乗る",
+    "reading": "のる",
+    "meanings": [
+      "To get on (To ride)"
+    ],
+    "notes": [],
+    "exampleJapanese": "世論の流れに安易に乗るだけでは、長期的な政策課題に対する本質的な解決にはつながらない。",
+    "exampleEnglish": "Simply going along with the tide of public opinion does not lead to fundamental solutions for long-term policy issues.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "700707c1-6484-45a6-a512-968a6296a7e1",
+    "word": "パーテイー",
+    "reading": "パーテイー",
+    "meanings": [
+      "Party"
+    ],
+    "notes": [],
+    "exampleJapanese": "新興企業の創業記念パーティーには著名な投資家や研究者も招かれており、会場は終始熱気に包まれていた。",
+    "exampleEnglish": "Prominent investors and researchers were also invited to the startup company’s anniversary party, and the venue remained filled with excitement throughout the event.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "c4a8356e-6765-4986-8d36-46ef0c1cbdc7",
+    "word": "はい",
+    "reading": "はい",
+    "meanings": [
+      "Yes"
+    ],
+    "notes": [],
+    "exampleJapanese": "記者会見で厳しい質問を受けた大臣は、一瞬沈黙した後に「はい」とだけ答え、詳細な説明を避けた。",
+    "exampleEnglish": "When the minister was confronted with a difficult question at the press conference, he paused for a moment and replied only, “Yes,” avoiding a detailed explanation.",
+    "jlpt": "N5",
+    "wordType": "Expression",
+    "register": "Formal"
+  },
+  {
+    "id": "c721e2ef-c85d-4f99-bfc9-4bb4ec53e1a3",
+    "word": "始まる",
+    "reading": "はじまる",
+    "meanings": [
+      "To begin"
+    ],
+    "notes": [],
+    "exampleJapanese": "新たな金融規制が来月から始まることで、中小企業にも資金調達方法の見直しが求められている。",
+    "exampleEnglish": "With the new financial regulations set to begin next month, small and medium-sized businesses are also being required to reconsider their methods of raising funds.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "445271ca-25b9-4277-9ff8-a9e694c77780",
+    "word": "始め",
+    "reading": "はじめ",
+    "meanings": [
+      "Beginning"
+    ],
+    "notes": [],
+    "exampleJapanese": "プロジェクトの始めの段階で十分なリスク分析を行わなかったことが、後の大規模な損失につながった。",
+    "exampleEnglish": "Failing to conduct sufficient risk analysis in the beginning stages of the project led to major losses later on.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "45115fc0-d899-4feb-81cd-fa8eee041d10",
+    "word": "初めて",
+    "reading": "はじめて",
+    "meanings": [
+      "For the first time"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は国際会議で初めて英語による発表を行ったが、その落ち着いた態度は多くの研究者に強い印象を与えた。",
+    "exampleEnglish": "He gave a presentation in English for the first time at an international conference, and his calm demeanor left a strong impression on many researchers.",
+    "jlpt": "N5",
+    "wordType": "Adverb",
+    "register": "Neutral"
+  },
+  {
+    "id": "fe54bfed-5ed2-4df3-8252-0d79c74a3e6a",
+    "word": "バス",
+    "reading": "バス",
+    "meanings": [
+      "Bus"
+    ],
+    "notes": [],
+    "exampleJapanese": "大雪の影響で高速道路が通行止めとなったため、空港行きのバスにも大幅な遅れが生じた。",
+    "exampleEnglish": "Because the highway was closed due to heavy snow, the bus bound for the airport was also significantly delayed.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "708ddb65-0be5-4b06-bbdb-557c98d01820",
+    "word": "バター",
+    "reading": "バター",
+    "meanings": [
+      "Butter"
+    ],
+    "notes": [],
+    "exampleJapanese": "輸入価格の高騰によってバター不足が深刻化し、一部の飲食店ではメニューの変更を余儀なくされた。",
+    "exampleEnglish": "As soaring import prices worsened the butter shortage, some restaurants were forced to change their menus.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "8ea64662-5324-420a-a235-2449a3082420",
+    "word": "二十歳",
+    "reading": "はたち",
+    "meanings": [
+      "20 Years Old",
+      "20th Year"
+    ],
+    "notes": [],
+    "exampleJapanese": "二十歳になったばかりの学生が起業して巨額の資金調達に成功したというニュースは、多くの若者に刺激を与えた。",
+    "exampleEnglish": "The news that a student who had just turned twenty started a company and successfully raised a huge amount of funding inspired many young people.",
+    "jlpt": "N5",
+    "wordType": "Number",
+    "register": "Neutral"
+  },
+  {
+    "id": "db41b70c-36cf-4722-ad4f-9349bdf35c0e",
+    "word": "働く",
+    "reading": "はたらく",
+    "meanings": [
+      "To work"
+    ],
+    "notes": [],
+    "exampleJapanese": "急速に変化する労働環境の中で長く働くためには、専門知識だけでなく柔軟な適応力も欠かせない。",
+    "exampleEnglish": "To continue working for a long time in a rapidly changing labor environment, not only specialized knowledge but also flexible adaptability is indispensable.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "ef4dbaaf-46bd-4a3f-8a3a-51ca60d00cd5",
+    "word": "二十日",
+    "reading": "はつか",
+    "meanings": [
+      "20 days",
+      "20th day of the month"
+    ],
+    "notes": [],
+    "exampleJapanese": "政府は二十日までに新たな経済対策を正式に発表する方針だが、市場ではその効果に懐疑的な見方も広がっている。",
+    "exampleEnglish": "The government plans to officially announce new economic measures by the twentieth, but skepticism about their effectiveness is also spreading in the markets.",
+    "jlpt": "N5",
+    "wordType": "Number",
+    "register": "Neutral"
+  },
+  {
+    "id": "2753e7e8-3e45-4cc2-8486-a6b4f087a530",
+    "word": "花",
+    "reading": "はな",
+    "meanings": [
+      "Flower"
+    ],
+    "notes": [],
+    "exampleJapanese": "戦争で犠牲になった人々を追悼する式典では、参加者たちが静かに花を捧げながら平和への願いを新たにした。",
+    "exampleEnglish": "At the ceremony commemorating those who died in the war, participants quietly offered flowers and renewed their hopes for peace.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "d12fe5f8-8927-441f-9664-0e1f38cf9ab0",
+    "word": "話す",
+    "reading": "はなす",
+    "meanings": [
+      "To speak"
+    ],
+    "notes": [],
+    "exampleJapanese": "外交交渉の場では、何を話すかだけでなく、どのような表情や沈黙を見せるかも重要な意味を持つ。",
+    "exampleEnglish": "In diplomatic negotiations, not only what one says but also what expressions or silences one shows carries important meaning.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "bed9c898-056e-476e-9e94-f85c4c406387",
+    "word": "早い",
+    "reading": "はやい",
+    "meanings": [
+      "Early"
+    ],
+    "notes": [],
+    "exampleJapanese": "締め切り直前になってから慌てて資料を修正するくらいなら、最初から早い段階で上司に相談しておくべきだった。",
+    "exampleEnglish": "Rather than scrambling to revise the documents right before the deadline, I should have consulted my supervisor at an earlier stage from the start.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  }
+]

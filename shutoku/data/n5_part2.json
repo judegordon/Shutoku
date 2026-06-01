@@ -1,0 +1,2832 @@
+[
+  {
+    "id": "4d7c5b1f-9a84-4d90-a6e0-2c7d5b1f3a64",
+    "word": "今朝",
+    "reading": "けさ",
+    "meanings": [
+      "This morning"
+    ],
+    "notes": [],
+    "exampleJapanese": "今朝はいつもより早く目が覚めたため、静かな街を歩きながら、まだ人の少ない空気の冷たさをゆっくりと感じることができた。",
+    "exampleEnglish": "I woke up earlier than usual this morning, so I was able to walk through the quiet city and slowly feel the still, cold morning air before many people were out.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "9c5d1f7b-4a84-4d63-a8e0-2f7c5d1b3a64",
+    "word": "仕事",
+    "reading": "しごと",
+    "meanings": [
+      "Job",
+      "Work (Broadest and most general word for this and can refer to occupation, a work-related task and a job role or responsibility)"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は新しいプロジェクトの仕事に取り組み、毎日遅くまで頑張っている",
+    "exampleEnglish": "He is working on a new project and working hard late into the night every day.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "1f7c5d9b-4a84-4d90-a6e0-3c7d5b1f2a64",
+    "word": "箸",
+    "reading": "はし",
+    "meanings": [
+      "Chopsticks"
+    ],
+    "notes": [],
+    "exampleJapanese": "料理人の香織さんは木製の箸をお客様に提供しました",
+    "exampleEnglish": "Kaori, the chef, provided wooden chopsticks to the customers.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "6c2f7d1b-4a84-4d63-a8e0-3f7d5c1b9a64",
+    "word": "お風呂",
+    "reading": "おふろ",
+    "meanings": [
+      "Bath"
+    ],
+    "notes": [],
+    "exampleJapanese": "深夜に入るお風呂は、まるで一日分の疲れをそっと洗い流してくれる秘密の儀式だ",
+    "exampleEnglish": "Taking a bath late at night is like a secret ritual that gently washes away the fatigue of the entire day.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "3f7d5c1b-9a84-4d90-a6e0-2c7d5b1f4a64",
+    "word": "上手",
+    "reading": "じょうず",
+    "meanings": [
+      "Skillful (Focuses on the quality of performance or ability)"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼女はピアノがとても上手で、いつもみんなを驚かせる",
+    "exampleEnglish": "She plays the piano so well that she always amazes everyone.",
+    "jlpt": "N5",
+    "wordType": "な-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "8a5d1c7f-4b84-4d63-a8e0-3f7d5c1b2a64",
+    "word": "下手",
+    "reading": "へた",
+    "meanings": [
+      "Bad (poor) (Lack of skill or performance in an objective sense)"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼はスポーツが下手だが、楽しむことが大好きだ",
+    "exampleEnglish": "He is not good at sports, but he loves enjoying them.",
+    "jlpt": "N5",
+    "wordType": "な-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "5c7d1b9f-4a84-4d90-a6e0-2f7c5d1b3a64",
+    "word": "洗う",
+    "reading": "あらう",
+    "meanings": [
+      "To wash"
+    ],
+    "notes": [],
+    "exampleJapanese": "青木さんは料理が終わった後、すぐに全ての食器を丁寧に洗いました",
+    "exampleEnglish": "After finishing the cooking, Mr. Aoki carefully washed all the dishes right away.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "2d7c5b1f-9a84-4d90-a6e0-3f7d5c1b2a64",
+    "word": "切る",
+    "reading": "きる",
+    "meanings": [
+      "To cut"
+    ],
+    "notes": [],
+    "exampleJapanese": "料理人の健二さんは、佐賀県の市場で新鮮な野菜を切って料理を作りました",
+    "exampleEnglish": "Kenji, the chef, cut fresh vegetables from a market in Saga Prefecture and made a meal.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "7b1f5c9d-4a84-4d63-a8e0-5c7d1b9f3a64",
+    "word": "降る",
+    "reading": "ふる",
+    "meanings": [
+      "To fall (weather)"
+    ],
+    "notes": [],
+    "exampleJapanese": "佳奈は、窓の外で雪が降るのを見ていた",
+    "exampleEnglish": "Kana was watching the snow fall outside the window.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "1b7d5c9f-4a84-4d90-a6e0-2c7d5b1f3a64",
+    "word": "どう",
+    "reading": "どう",
+    "meanings": [
+      "How (Broad, basic question word behind many expressions)"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼女は新しい髪型がどうか心配していた",
+    "exampleEnglish": "She was worried about how her new hairstyle looked.",
+    "jlpt": "N5",
+    "wordType": "Adverb",
+    "register": "Neutral"
+  },
+  {
+    "id": "5ea0ff18-3a2a-459b-a0ef-ab752450d0f1",
+    "word": "牛肉",
+    "reading": "ぎゅうにく",
+    "meanings": [
+      "Beef"
+    ],
+    "notes": [],
+    "exampleJapanese": "牛肉を料理するとしたら、しっかりと下味をつけます",
+    "exampleEnglish": "I want to say if I were to cook beef I would marinate it well",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "a3398dd5-6f74-4a33-b3d8-959ef71957f7",
+    "word": "鶏肉",
+    "reading": "とりにく",
+    "meanings": [
+      "Chicken"
+    ],
+    "notes": [],
+    "exampleJapanese": "シェフは新しいレシピのために新鮮な鶏肉を買った",
+    "exampleEnglish": "The chef bought fresh chicken for a new recipe.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "45985c13-bddd-433b-bc9e-b173b3b1ff1b",
+    "word": "作文",
+    "reading": "さくぶん",
+    "meanings": [
+      "Essay",
+      "Composition (Typically factual, school-style writing. Used for assignments, reports or descriptive writing. Focuses on clear expression of experiences, opinions or explanations with a clear structure and focuses on an audience of people like teachers and classmates)"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は日本語の授業で短い作文を書いた",
+    "exampleEnglish": "He wrote a short composition in Japanese class.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "0bb90da8-ffba-441c-abab-c0c9e62c9a9f",
+    "word": "手紙",
+    "reading": "てがみ",
+    "meanings": [
+      "Letter"
+    ],
+    "notes": [],
+    "exampleJapanese": "郵便配達員は、毎朝手紙を配達するために街を回る",
+    "exampleEnglish": "The postal delivery worker goes around the town every morning to deliver letters.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "f8a738f6-9878-4fe9-b986-798479c31bf2",
+    "word": "薬",
+    "reading": "くすり",
+    "meanings": [
+      "Medicine"
+    ],
+    "notes": [],
+    "exampleJapanese": "佐藤さんは病院で処方された薬を毎日飲んでいます",
+    "exampleEnglish": "Sato takes the medication prescribed at the hospital every day.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "f33eb678-94bd-48c6-938f-08e5877a66ec",
+    "word": "青い",
+    "reading": "あおい",
+    "meanings": [
+      "Blue"
+    ],
+    "notes": [],
+    "exampleJapanese": "青い海が広がる景色に彼は見とれていた",
+    "exampleEnglish": "He was captivated by the view of the blue ocean stretching out before him.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "6d8506c3-5c16-469d-9033-7042c8cb3eb9",
+    "word": "赤い",
+    "reading": "あかい",
+    "meanings": [
+      "Red"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼女は赤いドレスを着て、パーティーに出かけた",
+    "exampleEnglish": "She wore a red dress and went to the party.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "9dcc7231-5943-49e7-b785-928d01ca4b39",
+    "word": "黒い",
+    "reading": "くろい",
+    "meanings": [
+      "Black"
+    ],
+    "notes": [],
+    "exampleJapanese": "山本さんは黒いコートを着て、寒い日に出かけた",
+    "exampleEnglish": "Mr. Yamamoto wore a black coat and went out on a cold day.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "0c4d3f0c-2e03-4bad-beeb-25fed5ba39f7",
+    "word": "若い",
+    "reading": "わかい",
+    "meanings": [
+      "Young"
+    ],
+    "notes": [],
+    "exampleJapanese": "看護師は若い患者に優しく話しかけた",
+    "exampleEnglish": "The nurse spoke gently to the young patient.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "06c7cc4a-c0b3-484c-b692-e51956ac3626",
+    "word": "終わる",
+    "reading": "おわる",
+    "meanings": [
+      "To end"
+    ],
+    "notes": [],
+    "exampleJapanese": "全てが終わる瞬間に、なぜか安堵のような感覚が心を満たした",
+    "exampleEnglish": "At the moment when everything ended, a feeling like relief somehow filled my heart.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "4c8a3299-a972-44d2-a3ff-fcc5d13b1da8",
+    "word": "弾く",
+    "reading": "ひく",
+    "meanings": [
+      "To play (string instrument or piano)"
+    ],
+    "notes": [],
+    "exampleJapanese": "吉村明美さんは、結婚式でピアノを弾く役を引き受けることになった",
+    "exampleEnglish": "Akemi Yoshimura ended up taking on the role of playing the piano at the wedding.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "15e0ad5d-7b94-4ed5-ac7e-7f8c15289d1b",
+    "word": "出る",
+    "reading": "でる",
+    "meanings": [
+      "To leave"
+    ],
+    "notes": [],
+    "exampleJapanese": "探検家は、未知の場所に出るために準備を整えている",
+    "exampleEnglish": "The explorer is preparing in order to head out to an unknown place.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Ichidan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "a4ee61a8-325e-40a3-b547-03bb061d9246",
+    "word": "茶色",
+    "reading": "ちゃいろ",
+    "meanings": [
+      "Brown"
+    ],
+    "notes": [],
+    "exampleJapanese": "茜は茶色のコートを着て秋の紅葉を見に散歩に出かけました",
+    "exampleEnglish": "Akane put on her brown coat and went out for a walk to see the autumn leaves.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "a675bac9-5c48-4fec-abdf-943af4f2ad43",
+    "word": "緑",
+    "reading": "みどり",
+    "meanings": [
+      "Green"
+    ],
+    "notes": [],
+    "exampleJapanese": "雨上がりの森は、鮮やかな緑に包まれ、生命力がみなぎっていた",
+    "exampleEnglish": "The forest after the rain was wrapped in vibrant greenery, brimming with life.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "4b1b66a9-99ec-4739-9fd9-717f836b72f2",
+    "word": "秋",
+    "reading": "あき",
+    "meanings": [
+      "Autumn"
+    ],
+    "notes": [],
+    "exampleJapanese": "山田さんは秋になると、紅葉を楽しむために毎年山へ行く",
+    "exampleEnglish": "Every autumn, Mr. Yamada goes to the mountains to enjoy the autumn leaves.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "0f00b6e7-bcc1-44d8-bc86-1c1321304651",
+    "word": "牛乳",
+    "reading": "ぎゅうにゅう",
+    "meanings": [
+      "Milk"
+    ],
+    "notes": [],
+    "exampleJapanese": "朝食に牛乳を飲みながら、彼は新聞を読んで過ごした",
+    "exampleEnglish": "While drinking milk for breakfast, he spent his time reading the newspaper.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "247ed5ca-e259-4e0c-8789-658d19d8a8c1",
+    "word": "料理",
+    "reading": "りょうり",
+    "meanings": [
+      "Dish",
+      "Cuisine"
+    ],
+    "notes": [],
+    "exampleJapanese": "佐々木さんは家族のために特別な料理を作って、皆を喜ばせた",
+    "exampleEnglish": "Mr. Sasaki made a special meal for his family and made everyone happy.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "6e948b7d-30be-4692-89be-572296f35d15",
+    "word": "地下鉄",
+    "reading": "ちかてつ",
+    "meanings": [
+      "Subway"
+    ],
+    "notes": [],
+    "exampleJapanese": "終電後の地下鉄に乗り込むと、隣の車両に人影が見えたが、次の駅に着く前に消えてしまった",
+    "exampleEnglish": "After getting on the subway after the last train, I saw a figure in the next carriage, but it disappeared before we reached the next station.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "0b0808dd-5754-4a4c-95ec-235173a120e4",
+    "word": "飛行機",
+    "reading": "ひこうき",
+    "meanings": [
+      "Airplane"
+    ],
+    "notes": [],
+    "exampleJapanese": "初めて飛行機に乗ったとき、雲の上の景色があまりに美しくて息を呑んだのを覚えている",
+    "exampleEnglish": "I remember being breath-taken by the beauty of the view above the clouds the first time I flew.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "66dfaf8c-d00b-4f01-a281-0d43e58a1bfb",
+    "word": "暖かい",
+    "reading": "あたたかい",
+    "meanings": [
+      "Warm (Refers to warmth that is felt directly by people either physically or emotionally)"
+    ],
+    "notes": [],
+    "exampleJapanese": "春の午後、暖かい日差しの中で猫が気持ちよさそうに昼寝をしている様子は、なんとも平和な光景だと思いませんか",
+    "exampleEnglish": "On a spring afternoon, don’t you think the sight of a cat napping so comfortably in the warm sunlight is an incredibly peaceful scene?",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "f6bc7fee-4605-4e86-844e-e801141fb25c",
+    "word": "涼しい",
+    "reading": "すずしい",
+    "meanings": [
+      "Cool (weather)"
+    ],
+    "notes": [],
+    "exampleJapanese": "ガイドは涼しい風が吹く山の中を案内してくれた",
+    "exampleEnglish": "The guide led us through the mountains where a cool breeze was blowing.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "4eb9f5cc-df1c-4771-902c-aba15eec4e5d",
+    "word": "冷たい",
+    "reading": "つめたい",
+    "meanings": [
+      "Cold (things or emotionally)"
+    ],
+    "notes": [],
+    "exampleJapanese": "大輔は、冷たい水を飲んで一息ついた",
+    "exampleEnglish": "Daisuke took a sip of cold water and caught his breath.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "805d6e38-e724-4ebd-9dfd-1f50a2c6295e",
+    "word": "遅い",
+    "reading": "おそい",
+    "meanings": [
+      "Slow",
+      "Late"
+    ],
+    "notes": [],
+    "exampleJapanese": "電車が遅れて、彼は待ち続けています",
+    "exampleEnglish": "The train is delayed, and he continues to wait.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "b624aff4-7695-46f8-9d16-2d6022ec10c1",
+    "word": "一番",
+    "reading": "いちばん",
+    "meanings": [
+      "Best"
+    ],
+    "notes": [],
+    "exampleJapanese": "山口さんはクラスで一番難しい試験に合格し、全員を驚かせました",
+    "exampleEnglish": "<p>Mr. Yamaguchi passed the most difficult exam in the class and surprised everyone.</p>",
+    "jlpt": "N5",
+    "wordType": "Expression",
+    "register": "Neutral"
+  },
+  {
+    "id": "2576c921-6c24-45b2-8b77-b641e304e717",
+    "word": "出口",
+    "reading": "でぐち",
+    "meanings": [
+      "Exit"
+    ],
+    "notes": [],
+    "exampleJapanese": "麻美は映画館の出口で友達を待っていました",
+    "exampleEnglish": "Asami was waiting for her friend at the exit of the movie theater.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "16f3cc7e-e0b9-4f87-ad0f-a3935940ac07",
+    "word": "階段",
+    "reading": "かいだん",
+    "meanings": [
+      "Stairs"
+    ],
+    "notes": [],
+    "exampleJapanese": "古い寺の石の階段を一歩ずつ登ると、頂上には静寂と美しい景色が待っていた",
+    "exampleEnglish": "As I climbed the stone steps of the old temple one by one, silence and a beautiful view awaited at the top.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "87cf431d-480e-481a-9098-796b3fe273bd",
+    "word": "川",
+    "reading": "かわ",
+    "meanings": [
+      "River"
+    ],
+    "notes": [],
+    "exampleJapanese": "激しい雨が数日間降り続いた結果、普段は穏やかな川でさえ危険なほど増水し、近隣の住民には避難勧告が出された。",
+    "exampleEnglish": "As heavy rain continued for several days, even the usually calm river rose to dangerous levels, and evacuation advisories were issued to nearby residents.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "ce7b2f47-9204-4bce-888a-f3882386e055",
+    "word": "お菓子",
+    "reading": "おかし",
+    "meanings": [
+      "Sweets"
+    ],
+    "notes": [],
+    "exampleJapanese": "鈴木さんは友達の家に遊びに行く際、お土産としてお菓子を持参しました",
+    "exampleEnglish": "Mr. Suzuki brought some sweets as a gift when he went to visit his friend’s house.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "06d76934-6125-49be-a37f-f1c54d54441b",
+    "word": "授業",
+    "reading": "じゅぎょう",
+    "meanings": [
+      "Class"
+    ],
+    "notes": [],
+    "exampleJapanese": "加藤さんは授業で新しい数学の概念を学んだ",
+    "exampleEnglish": "Mr. Kato learned a new mathematical concept in class.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "83d26c74-65c6-4d21-b0be-627c987633bb",
+    "word": "取る",
+    "reading": "とる",
+    "meanings": [
+      "To take",
+      "To get (a grade)"
+    ],
+    "notes": [],
+    "exampleJapanese": "花子は本棚から本を取るのが好きです",
+    "exampleEnglish": "Hanako likes taking books from the bookshelf.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "d5265c88-4d8b-4642-a58c-336883dcd126",
+    "word": "習う",
+    "reading": "ならう",
+    "meanings": [
+      "To learn (Usually practical learning or skill acquisition; often learning from someone)"
+    ],
+    "notes": [],
+    "exampleJapanese": "鈴木は福岡で陶芸を習うことに決めた",
+    "exampleEnglish": "Suzuki decided to learn pottery in Fukuoka.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "658e4020-f6e2-4c46-b33b-9b9d94a57f8a",
+    "word": "登る",
+    "reading": "のぼる",
+    "meanings": [
+      "To climb"
+    ],
+    "notes": [],
+    "exampleJapanese": "鈴木里奈さんは、友達と一緒に富士山に登る計画を立てた",
+    "exampleEnglish": "Rina Suzuki made a plan to climb Mount Fuji with her friends",
+    "jlpt": "N5",
+    "wordType": "Intransitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "2e52e45b-5d6a-4bec-b8eb-9920f12edd9c",
+    "word": "走る",
+    "reading": "はしる",
+    "meanings": [
+      "To run"
+    ],
+    "notes": [],
+    "exampleJapanese": "健太は公園で毎朝5キロ走ることを日課にしている",
+    "exampleEnglish": "Kenta has made it a daily routine to run 5 kilometers every morning in the park.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "431767ed-d042-409f-8127-8bdd7fc1c278",
+    "word": "練習",
+    "reading": "れんしゅう",
+    "meanings": [
+      "Practice"
+    ],
+    "notes": [],
+    "exampleJapanese": "明日香はピアノの練習を毎日欠かさず続けている",
+    "exampleEnglish": "Asuka continues practising the piano every single day without fail.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "951abe1e-496d-4310-bb6b-ccc2748f7cf5",
+    "word": "意味",
+    "reading": "いみ",
+    "meanings": [
+      "Meaning"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼の言葉の本当の意味を理解したのは、彼がいなくなった後だった",
+    "exampleEnglish": "I only understood the true meaning of his words after he was gone.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "5e669dd9-cd16-4e8b-bcf0-4f7f321fa9d6",
+    "word": "質問",
+    "reading": "しつもん",
+    "meanings": [
+      "Question (Practical, everyday word)"
+    ],
+    "notes": [],
+    "exampleJapanese": "佐藤は会議中に多くの質問を投げかけて、議論を活発にした",
+    "exampleEnglish": "Sato asked many questions during the meeting, which helped stimulate the discussion.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "26dc3c6c-121b-4d03-87de-c7b97cb31ee3",
+    "word": "風邪",
+    "reading": "かぜ",
+    "meanings": [
+      "Cold (illness)"
+    ],
+    "notes": [],
+    "exampleJapanese": "中村さんは風邪をひいてしまい、仕事を休むことになった",
+    "exampleEnglish": "Mr. Nakamura caught a cold and ended up having to take time off work.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "d03142fc-3fee-46eb-a2d8-385183e8f9fd",
+    "word": "卵",
+    "reading": "たまご",
+    "meanings": [
+      "Egg"
+    ],
+    "notes": [],
+    "exampleJapanese": "葵は朝食に卵を焼いていた",
+    "exampleEnglish": "Aoi was frying eggs for breakfast.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "3b793ed3-ce11-4d79-ba52-fffd57fa1637",
+    "word": "服",
+    "reading": "ふく",
+    "meanings": [
+      "Clothes (Casual everyday word)"
+    ],
+    "notes": [],
+    "exampleJapanese": "服を選ぶために美咲がショッピングモールで新しい洋服店を見つけました",
+    "exampleEnglish": "Misaki found a new clothing store at the shopping mall in order to choose some clothes.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "1bdedbb0-17c1-457b-8487-7af90f1950dc",
+    "word": "切符",
+    "reading": "きっぷ",
+    "meanings": [
+      "Ticket (Everyday word for a transport ticket)"
+    ],
+    "notes": [],
+    "exampleJapanese": "駅の改札で切符を握りしめながら、「この一枚でどこまで遠くに行けるだろう」とふと考えた",
+    "exampleEnglish": "While tightly gripping my ticket at the station gate, I suddenly wondered, “How far could I go with this single ticket?”",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "276f57fa-8bb0-4c41-84df-7cb040b751a8",
+    "word": "お手洗い",
+    "reading": "おてあらい",
+    "meanings": [
+      "Restroom"
+    ],
+    "notes": [],
+    "exampleJapanese": "会議の途中でお手洗いに行くことにした",
+    "exampleEnglish": "I decided to go to the toilet during the meeting.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Formal"
+  },
+  {
+    "id": "44a643b1-8de3-430a-9afb-22d5c594d77e",
+    "word": "広い",
+    "reading": "ひろい",
+    "meanings": [
+      "Wide"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼らは広い庭でバーベキューを楽しんだ",
+    "exampleEnglish": "They enjoyed a barbecue in a spacious garden.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "d21fdb49-f741-4714-b278-d7427f46ace3",
+    "word": "痛い",
+    "reading": "いたい",
+    "meanings": [
+      "Painful (Mainly refers to physical pain)"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼女は新潟で転んで膝が痛いと訴えたが、友達が優しく手当てしてくれた",
+    "exampleEnglish": "She said her knee hurt after falling in Niigata, but her friend gently took care of it for her.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "61d992d0-f500-4ce0-be01-206407148e23",
+    "word": "甘い",
+    "reading": "あまい",
+    "meanings": [
+      "Sweet"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼女は甘いデザートを食べるのが大好きで、特にチョコレートケーキに目がない",
+    "exampleEnglish": "She loves eating sweet desserts, and especially can’t resist chocolate cake.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "690f48a7-ac2e-4528-a206-66919d2b0cdc",
+    "word": "多い",
+    "reading": "おおい",
+    "meanings": [
+      "Many"
+    ],
+    "notes": [],
+    "exampleJapanese": "都会の夜は人が多いけれど、どこか孤独を感じるのが不思議だ",
+    "exampleEnglish": "It’s strange how, even though the city nights are full of people, you somehow still feel lonely.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "8a043f22-7953-4b92-805e-7daba10bbb42",
+    "word": "歩く",
+    "reading": "あるく",
+    "meanings": [
+      "To walk"
+    ],
+    "notes": [],
+    "exampleJapanese": "陽介は毎朝、健康のために公園を散歩して歩いている",
+    "exampleEnglish": "Yosuke takes a walk in the park every morning for his health.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "97119ee2-5443-474f-8433-c5bc1075b308",
+    "word": "無くす",
+    "reading": "なくす",
+    "meanings": [
+      "To lose (something)"
+    ],
+    "notes": [],
+    "exampleJapanese": "木村さんは財布を無くしてしまい、駅で探していた",
+    "exampleEnglish": "Mr. Kimura had lost his wallet and was looking for it at the station.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "ae5345a9-734a-4fee-b2d7-402da083b416",
+    "word": "多分",
+    "reading": "たぶん",
+    "meanings": [
+      "Probably (Everyday word for uncertainty or likelihood)"
+    ],
+    "notes": [],
+    "exampleJapanese": "山本さんは多分、来週のイベントには参加できないだろうと言っています",
+    "exampleEnglish": "Mr. Yamamoto says that he probably won’t be able to participate in next week’s event.",
+    "jlpt": "N5",
+    "wordType": "Adverb",
+    "register": "Neutral"
+  },
+  {
+    "id": "39008daf-1351-4eb9-860c-1e5938fdc934",
+    "word": "大人",
+    "reading": "おとな",
+    "meanings": [
+      "Adult (Means someone who is grown-up or mature. Used in everyday speech or to describe behaviour, attitude or appearance)"
+    ],
+    "notes": [],
+    "exampleJapanese": "真由美は大人になることの責任を感じ始めている",
+    "exampleEnglish": "Mayumi is beginning to feel the responsibility of becoming an adult.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "09cade79-8e58-4154-8568-38eff95a883c",
+    "word": "紅茶",
+    "reading": "こうちゃ",
+    "meanings": [
+      "Black tea"
+    ],
+    "notes": [],
+    "exampleJapanese": "シェフの明美さんはお客様に特別な紅茶を用意しました",
+    "exampleEnglish": "Chef Akemi prepared a special tea for the customers.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "d2f48535-bfc4-4d9e-bac9-c8a0ac251ad7",
+    "word": "体",
+    "reading": "からだ",
+    "meanings": [
+      "Body"
+    ],
+    "notes": [],
+    "exampleJapanese": "高橋舞さんは毎朝体を動かすためにヨガを習慣にしている",
+    "exampleEnglish": "Mai Takahashi has made yoga a daily habit in order to keep her body active every morning.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "fa866ab3-bd78-4768-9413-83a964b41803",
+    "word": "言葉",
+    "reading": "ことば",
+    "meanings": [
+      "Words (Broad and flexible. Can mean a single word; a phrase or expression; or the spoken language itself)"
+    ],
+    "notes": [],
+    "exampleJapanese": "美咲は優しい言葉で友達を励ました",
+    "exampleEnglish": "Misaki encouraged her friend with kind words.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "d407605b-8242-476a-b59a-9f2a9980817b",
+    "word": "辛い",
+    "reading": "からい",
+    "meanings": [
+      "Spicy",
+      "Hard (painful)"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼女は辛い食べ物が好きで、いつも特辛ラーメンを注文する",
+    "exampleEnglish": "She likes spicy food and always orders extra-spicy ramen.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "bf5c18a4-74b4-45c1-8b79-0b6575e31726",
+    "word": "磨く",
+    "reading": "みがく",
+    "meanings": [
+      "To polish",
+      "To brush"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は毎日ギターの技術を磨き続け、ついにプロデビューを果たした",
+    "exampleEnglish": "He continued improving his guitar skills every day and finally made his professional debut.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "2528a5b6-ef55-4a04-bf5c-8620c43d2a86",
+    "word": "全部",
+    "reading": "ぜんぶ",
+    "meanings": [
+      "All",
+      "Everything (Refers to objects, actions, or abstract quantities. Not for human beings)"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼女は旅行の計画を立てるために、全部の情報を集めました",
+    "exampleEnglish": "She gathered all the information in order to plan her trip.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "ab4783b3-ce52-4fe8-aeed-3c339f15535d",
+    "word": "奥さん",
+    "reading": "おくさん",
+    "meanings": [
+      "(Someone else's) Wife"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼の奥さんはとても優しく、みんなに好かれている",
+    "exampleEnglish": "His wife is very kind and well liked by everyone.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Honorific"
+  },
+  {
+    "id": "bef32603-d28f-4e5c-9645-0a787787d16c",
+    "word": "伯母さん",
+    "reading": "おばさん",
+    "meanings": [
+      "Aunt"
+    ],
+    "notes": [],
+    "exampleJapanese": "山本さんの伯母さんは料理が得意で、いつも美味しい料理を作る",
+    "exampleEnglish": "Mr. Yamamoto’s aunt is good at cooking and always makes delicious food.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Honorific"
+  },
+  {
+    "id": "d6422356-2ff1-48dc-9235-7f8e7a773566",
+    "word": "両親",
+    "reading": "りょうしん",
+    "meanings": [
+      "Parents"
+    ],
+    "notes": [],
+    "exampleJapanese": "医者は患者の両親に治療の進展を説明しました",
+    "exampleEnglish": "The doctor explained the progress of the treatment to the patient’s parents.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "494681c3-920c-4009-b893-08fbbd3feee4",
+    "word": "お皿",
+    "reading": "おさら",
+    "meanings": [
+      "Dish (plate)"
+    ],
+    "notes": [],
+    "exampleJapanese": "シェフは新しいデザインのお皿を使って料理を盛り付けた",
+    "exampleEnglish": "The chef plated the dish using a newly designed plate.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "741e97cc-aeea-4ba1-8068-f1e0c88d1997",
+    "word": "欲しい",
+    "reading": "ほしい",
+    "meanings": [
+      "Wanting"
+    ],
+    "notes": [],
+    "exampleJapanese": "コンサルタントは新しいプロジェクトに必要なリソースが欲しいとクライアントに伝えた",
+    "exampleEnglish": "The consultant told the client that they wanted the resources necessary for the new project.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "669463e5-9ddb-45c1-9829-3bc80f6c3141",
+    "word": "上げる",
+    "reading": "あげる",
+    "meanings": [
+      "To give (to others)",
+      "To raise (Physically or things like price etc)"
+    ],
+    "notes": [],
+    "exampleJapanese": "翔太は友達の誕生日にプレゼントをあげた",
+    "exampleEnglish": "Shota gave a present to his friend for their birthday",
+    "jlpt": "N5",
+    "wordType": "Transitive Ichidan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "a1aac583-54fb-404b-b588-af66ffc2dcc2",
+    "word": "丁度",
+    "reading": "ちょうど",
+    "meanings": [
+      "Just (Used in describing timing, amount, size and fit. It is a neutral word often used for precision or coincidence)"
+    ],
+    "notes": [],
+    "exampleJapanese": "科学者は、実験がちょうど予定通りに進んでいることを確認した",
+    "exampleEnglish": "The scientist confirmed that the experiment was proceeding exactly as planned.",
+    "jlpt": "N5",
+    "wordType": "Adverb",
+    "register": "Neutral"
+  },
+  {
+    "id": "ae1b2f88-95e0-4de7-a9fe-489c971ab7da",
+    "word": "さあ",
+    "reading": "さあ",
+    "meanings": [
+      "Come on",
+      "Now"
+    ],
+    "notes": [],
+    "exampleJapanese": "コーチは、選手たちに「さあ、集中してプレーしよう！」と声をかけた",
+    "exampleEnglish": "The coach encouraged the players, saying, \"Alright, let's focus and play!\"",
+    "jlpt": "N5",
+    "wordType": "Adverb",
+    "register": "Neutral"
+  },
+  {
+    "id": "978286e3-1587-4e97-8fec-f6956236840c",
+    "word": "絵",
+    "reading": "え",
+    "meanings": [
+      "Picture (Emphasises something drawn or painted by hand)"
+    ],
+    "notes": [],
+    "exampleJapanese": "画家は、自分の感情を表現するために色鮮やかな絵を描いている",
+    "exampleEnglish": "The artist paints vibrant pictures to express his emotions.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "ebc8d67d-6914-43ac-8921-e722a5eff47f",
+    "word": "地図",
+    "reading": "ちず",
+    "meanings": [
+      "Map"
+    ],
+    "notes": [],
+    "exampleJapanese": "藤井翔太さんは古い地図を参考にして、隠された山道を探し出した",
+    "exampleEnglish": "Shota Fujii used an old map to find a hidden mountain path.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "a8ecfc64-45dc-464b-b3c3-7466bff7e9d8",
+    "word": "教室",
+    "reading": "きょうしつ",
+    "meanings": [
+      "Classroom"
+    ],
+    "notes": [],
+    "exampleJapanese": "教師は、教室の中で生徒たちが快適に学べるように配置を工夫した",
+    "exampleEnglish": "The teacher arranged the classroom layout so that the students could learn comfortably inside the classroom.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "622f50e0-cfe2-440c-ae1f-87b5494baa88",
+    "word": "建物",
+    "reading": "たてもの",
+    "meanings": [
+      "Building"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼女は東京の歴史的な建物を訪れて、その美しさに感動した",
+    "exampleEnglish": "She visited historic buildings in Tokyo and was moved by their beauty.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "e6bf6eec-bf5e-4d0d-b269-dacd626680bd",
+    "word": "庭",
+    "reading": "にわ",
+    "meanings": [
+      "Garden"
+    ],
+    "notes": [],
+    "exampleJapanese": "山本さんは自宅の庭で花を育てるのが趣味です",
+    "exampleEnglish": "Mr. Yamamoto’s hobby is growing flowers in his home garden.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "75da7db6-21f8-4f40-9f1c-2da42fecccaf",
+    "word": "売る",
+    "reading": "うる",
+    "meanings": [
+      "To sell"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は自分の作品をオンラインで売ることにしました",
+    "exampleEnglish": "He decided to sell his work online.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "b5c44e48-d60b-450f-ab20-dede2ebd88a6",
+    "word": "着く",
+    "reading": "つく",
+    "meanings": [
+      "To arrive (At a place. Very concrete and literal)"
+    ],
+    "notes": [],
+    "exampleJapanese": "電車が駅に着くと、雨が降り始めた",
+    "exampleEnglish": "As soon as the train arrived at the station, it started to rain.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "de001d8a-a2db-48e6-abab-60a4c10bdec5",
+    "word": "もう一度",
+    "reading": "もういちど",
+    "meanings": [
+      "One more time"
+    ],
+    "notes": [],
+    "exampleJapanese": "消防士はもう一度安全装置を確認しましたが、すでに現場の温度と煙の濃度は限界に達しており、即座の判断が生死を分ける状況となっていた。",
+    "exampleEnglish": "The firefighter checked the safety equipment once again, but by then the temperature and smoke density at the scene had already reached critical levels, making immediate decisions a matter of life and death.",
+    "jlpt": "N5",
+    "wordType": "Adverb",
+    "register": "Neutral"
+  },
+  {
+    "id": "18a69adc-c9a4-433a-addf-bb0250a08435",
+    "word": "砂糖",
+    "reading": "さとう",
+    "meanings": [
+      "Sugar"
+    ],
+    "notes": [],
+    "exampleJapanese": "料理研究家の村上彩子さんは、健康を意識して砂糖の代わりに蜂蜜を使ったレシピを提案しています",
+    "exampleEnglish": "Cooking expert Ayako Murakami suggests recipes that use honey instead of sugar with health in mind.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "321c331f-a672-4053-9e62-7578c061f2b0",
+    "word": "道",
+    "reading": "みち",
+    "meanings": [
+      "Way",
+      "Road"
+    ],
+    "notes": [],
+    "exampleJapanese": "山道を歩いていると、美しい景色が広がっていました",
+    "exampleEnglish": "As I walked along the mountain path, a beautiful landscape spread out before me.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "ae1e312e-77ce-42b9-9bb7-bfe41995eed0",
+    "word": "汚い",
+    "reading": "きたない",
+    "meanings": [
+      "Dirty"
+    ],
+    "notes": [],
+    "exampleJapanese": "公園の遊具は汚いので、子供たちが遊ぶのをためらっている",
+    "exampleEnglish": "The playground equipment in the park is dirty, so the children are hesitant to play on it.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "86f141ae-764b-45ee-a58b-1c9d176a0fde",
+    "word": "困る",
+    "reading": "こまる",
+    "meanings": [
+      "To be troubled"
+    ],
+    "notes": [],
+    "exampleJapanese": "明美は沖縄で迷子になって困ってしまった",
+    "exampleEnglish": "Akemi got lost in Okinawa and ended up in trouble.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "ada6d928-0762-4568-a651-bd6ea21fe537",
+    "word": "貸す",
+    "reading": "かす",
+    "meanings": [
+      "To lend"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は友人に本を貸すことにして、読んだ後の感想を聞くことにした",
+    "exampleEnglish": "He decided to lend the book to his friend and then hear their thoughts after they had read it.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "593a3a16-b3af-4694-9691-28b493873110",
+    "word": "入れる",
+    "reading": "いれる",
+    "meanings": [
+      "To put in"
+    ],
+    "notes": [],
+    "exampleJapanese": "裕太は箱におもちゃを入れました",
+    "exampleEnglish": "Yuta put the toy(s) in the box",
+    "jlpt": "N5",
+    "wordType": "Transitive Ichidan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "4202e4b7-b519-4303-92b1-f3feafc7ead2",
+    "word": "見せる",
+    "reading": "みせる",
+    "meanings": [
+      "To show (Something visible or concrete. Literally letting someone see with their own eyes)"
+    ],
+    "notes": [],
+    "exampleJapanese": "彩香は旅行の写真を友達に見せました",
+    "exampleEnglish": "Ayaka showed her travel photos to her friends",
+    "jlpt": "N5",
+    "wordType": "Transitive Ichidan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "744decfe-bc75-4b4f-a2a5-99f5c400ead6",
+    "word": "鍵",
+    "reading": "かぎ",
+    "meanings": [
+      "Key"
+    ],
+    "notes": [],
+    "exampleJapanese": "幸太は玄関の鍵を忘れてしまった",
+    "exampleEnglish": "Mr. Nakamura caught a cold and ended up having to take time off work.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "40c0017d-92c5-4357-921f-bf1147832d73",
+    "word": "紙",
+    "reading": "かみ",
+    "meanings": [
+      "Paper"
+    ],
+    "notes": [],
+    "exampleJapanese": "由美はメモを取るために紙を使いました",
+    "exampleEnglish": "Yumi used paper to take notes.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "29ae5ff8-5ef3-4bfe-8537-be34d95edc0c",
+    "word": "危ない",
+    "reading": "あぶない",
+    "meanings": [
+      "Dangerous (Emotional warning or a sense of immediacy)"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は制限時間ぎりぎりで問題を解き終えたが、その内容には誤りが多く、合格はかなり危ない状況だった。",
+    "exampleEnglish": "He finished solving the problems just before the time limit, but there were many mistakes in his answers, so passing was in a very precarious state.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "2338fe1a-66d6-4ca0-8ae7-b0d70c5bf6dd",
+    "word": "少ない",
+    "reading": "すくない",
+    "meanings": [
+      "Few"
+    ],
+    "notes": [],
+    "exampleJapanese": "美咲は少ないお金で上手にやりくりしています",
+    "exampleEnglish": "Misaki manages well on a limited budget.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "21c62189-5a79-4d57-80e7-6c08bf5c7079",
+    "word": "強い",
+    "reading": "つよい",
+    "meanings": [
+      "Strong"
+    ],
+    "notes": [],
+    "exampleJapanese": "佐藤さんは強い風の中で必死に歩き続けた",
+    "exampleEnglish": "Mr. Sato kept walking with all his effort in the strong wind.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "5f37504e-5134-4885-bdbd-485e3d13bc06",
+    "word": "脱ぐ",
+    "reading": "ぬぐ",
+    "meanings": [
+      "To take off (clothes)"
+    ],
+    "notes": [],
+    "exampleJapanese": "恵は部屋に入るとコートを脱いだ",
+    "exampleEnglish": "When Megumi entered the room, she took off her coat.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "c4bbfcc3-d89d-4abc-8ae4-0165612f2de6",
+    "word": "冷蔵庫",
+    "reading": "れいぞうこ",
+    "meanings": [
+      "Refrigerator"
+    ],
+    "notes": [],
+    "exampleJapanese": "涼子は、冷蔵庫から新鮮な野菜を取り出してサラダを作った",
+    "exampleEnglish": "<p>Ryoko took fresh vegetables from the refrigerator and made a salad.</p>",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "2fb4273c-02e7-4295-baca-87f4e082477a",
+    "word": "醤油",
+    "reading": "しょうゆ",
+    "meanings": [
+      "Soy sauce"
+    ],
+    "notes": [],
+    "exampleJapanese": "京都府の伝統的な料理には、手作りの醤油が欠かせない",
+    "exampleEnglish": "Traditional cuisine in Kyoto Prefecture wouldn’t be complete without handmade soy sauce.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "84688635-2f37-4e43-980e-105b747984bf",
+    "word": "外",
+    "reading": "そと",
+    "meanings": [
+      "Outside"
+    ],
+    "notes": [],
+    "exampleJapanese": "子供たちは外で遊びながら、元気に笑い声をあげていました",
+    "exampleEnglish": "The children were playing outside, laughing cheerfully.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "f25ba8af-f419-46e0-9824-14e8c164d6bc",
+    "word": "明るい",
+    "reading": "あかるい",
+    "meanings": [
+      "Bright"
+    ],
+    "notes": [],
+    "exampleJapanese": "朝の光が窓から差し込むと、部屋全体が明るい空気に包まれる",
+    "exampleEnglish": "When the morning light streams in through the window, the whole room becomes enveloped in a bright, uplifting atmosphere.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "dd7a223b-af42-4582-84ee-40914e0df8e3",
+    "word": "暗い",
+    "reading": "くらい",
+    "meanings": [
+      "Dark (gloomy)"
+    ],
+    "notes": [],
+    "exampleJapanese": "洞窟の中は暗く、探検者たちは慎重に足元を確かめながら進んだ",
+    "exampleEnglish": "The inside of the cave was dark, and the explorers carefully checked their footing as they moved forward.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "03bf59f6-ee9e-4460-8188-824a1e929400",
+    "word": "大切",
+    "reading": "たいせつ",
+    "meanings": [
+      "Important (Emphasises emotional value)"
+    ],
+    "notes": [],
+    "exampleJapanese": "美咲にとって友達は大切な存在だ",
+    "exampleEnglish": "For Misaki, friends are an important presence.",
+    "jlpt": "N5",
+    "wordType": "な-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "6c832ee5-0661-44fb-83fb-551de81daf31",
+    "word": "開く (あく)",
+    "reading": "あく",
+    "meanings": [
+      "To open"
+    ],
+    "notes": [],
+    "exampleJapanese": "音楽家はコンサートのために楽器のケースを開きました",
+    "exampleEnglish": "The musician opened the instrument case for the concert.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "8929fc95-de8f-4f43-ba2b-bf9eeaaf070c",
+    "word": "閉まる",
+    "reading": "しまる",
+    "meanings": [
+      "To close"
+    ],
+    "notes": [],
+    "exampleJapanese": "自動車のドアは鍵をかけると閉まります",
+    "exampleEnglish": "The car door locks when you lock it.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "9914847e-13aa-4d94-b2f8-658fd613b80e",
+    "word": "押す",
+    "reading": "おす",
+    "meanings": [
+      "To push",
+      "To press"
+    ],
+    "notes": [],
+    "exampleJapanese": "鈴木さんはドアを押して、部屋に入った",
+    "exampleEnglish": "Mr. Suzuki pushed the door and entered the room.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "f5d9f018-0c5f-40ed-9d5d-afc20611f296",
+    "word": "咲く",
+    "reading": "さく",
+    "meanings": [
+      "To bloom"
+    ],
+    "notes": [],
+    "exampleJapanese": "桜井さんの庭で美しい花が咲き始め、近所の人々が見に訪れた",
+    "exampleEnglish": "Beautiful flowers began to bloom in Mr. Sakurai’s garden, and neighbors came to see them.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "9d2d1120-5b2f-4e3e-afb2-525ea314a642",
+    "word": "頼む",
+    "reading": "たのむ",
+    "meanings": [
+      "To ask (This is specifically used in contexts of asking a favour or requesting helping. It is asking someone to do something. Often has an emotional tone)"
+    ],
+    "notes": [],
+    "exampleJapanese": "山本さんは忙しいときに友達に手伝いを頼むことが多い",
+    "exampleEnglish": "Mr. Yamamoto often asks his friends for help when he is busy.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "e5e3a2e7-e486-4e8b-af2d-3258f9be3dda",
+    "word": "消える",
+    "reading": "きえる",
+    "meanings": [
+      "To disappear&nbsp;"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼女は目の前で消える魔法のトリックに驚いた",
+    "exampleEnglish": "She was amazed by the disappearing magic trick right in front of her.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Ichidan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "d9be57cd-c10b-4e8a-93b9-e23ccabd6018",
+    "word": "こちら",
+    "reading": "こちら",
+    "meanings": [
+      "This way (Indicates direction, location, side near the speaker)"
+    ],
+    "notes": [],
+    "exampleJapanese": "こちらの公園では、毎週末にイベントが開催される",
+    "exampleEnglish": "Events are held in this park every weekend.",
+    "jlpt": "N5",
+    "wordType": "Pronoun",
+    "register": "Formal"
+  },
+  {
+    "id": "dd6a33b3-95b2-4b95-b6d6-a1a2ebe2b681",
+    "word": "話",
+    "reading": "はなし",
+    "meanings": [
+      "Story",
+      "Talk"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼の話はどこか現実味がなく、それでもなぜか引き込まれるものがあった",
+    "exampleEnglish": "There was something unreal about his story, yet for some reason it was still captivating.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "39073f4a-e59f-4748-88c9-f892f8dde28d",
+    "word": "呼ぶ",
+    "reading": "よぶ",
+    "meanings": [
+      "To call (Someone's name or asking them to come to you)"
+    ],
+    "notes": [],
+    "exampleJapanese": "遠藤さんは助けが必要な時、友達をすぐに呼んだ",
+    "exampleEnglish": "When Endo needed help, he immediately called his friends.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "a8808f50-e5b9-4dd0-82b1-c60bc7e8b88a",
+    "word": "掛ける",
+    "reading": "かける",
+    "meanings": [
+      "To hang",
+      "To apply",
+      "To put onto (Incredibly broad verb with meaning changing by context)"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は料理に香辛料をかけることで、風味を引き立てた",
+    "exampleEnglish": "He enhanced the flavor by adding spices to the dish.",
+    "jlpt": "N5",
+    "wordType": "Transitive Ichidan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "233f91b8-f309-40cf-b5da-104394aaaf16",
+    "word": "晴れる",
+    "reading": "はれる",
+    "meanings": [
+      "To become sunny"
+    ],
+    "notes": [],
+    "exampleJapanese": "空がようやく晴れて、庭の紫陽花が朝露に輝いて見えた",
+    "exampleEnglish": "The sky finally cleared, and the hydrangeas in the garden sparkled with morning dew.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Ichidan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "3737eaa5-7604-4773-9951-75ceaad3083a",
+    "word": "一昨日",
+    "reading": "おととい",
+    "meanings": [
+      "Day before yesterday"
+    ],
+    "notes": [],
+    "exampleJapanese": "一昨日の夢がまだ頭から離れなくて、あの奇妙な風景の意味を考え続けている",
+    "exampleEnglish": "I still can’t get the dream from the day before yesterday out of my head, and I keep thinking about the meaning of that strange scenery.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "8dc943b1-a49f-4397-b261-c8a5ec6b5782",
+    "word": "それで",
+    "reading": "それで",
+    "meanings": [
+      "And",
+      "Then"
+    ],
+    "notes": [],
+    "exampleJapanese": "翔太は試験に合格した。それで彼は来年から教師になることが決まった",
+    "exampleEnglish": "Shota passed the exam, so it was decided that he will become a teacher next year.",
+    "jlpt": "N5",
+    "wordType": "Adverb",
+    "register": "Neutral"
+  },
+  {
+    "id": "1ce1567c-2a12-48a8-ae58-109f0f9664ab",
+    "word": "まだ",
+    "reading": "まだ",
+    "meanings": [
+      "Still",
+      "Not yet (Expresses continuity or incompletion)"
+    ],
+    "notes": [],
+    "exampleJapanese": "まだ準備が終わっていないので、料理人の陽菜が厨房で急いでいます",
+    "exampleEnglish": "The preparations still aren’t finished, so the chef Hina is hurrying around in the kitchen.",
+    "jlpt": "N5",
+    "wordType": "Adverb",
+    "register": "Neutral"
+  },
+  {
+    "id": "a22ea61b-77c0-426e-bba1-d7a594249cc4",
+    "word": "動物",
+    "reading": "どうぶつ",
+    "meanings": [
+      "Animal"
+    ],
+    "notes": [],
+    "exampleJapanese": "美咲は、子供の頃から動物が大好きで、動物園に行くのが楽しみだ",
+    "exampleEnglish": "Misaki has loved animals since childhood and looks forward to going to the zoo.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "fc7edb53-32c9-4fae-99d5-35eeeadc1220",
+    "word": "あちら",
+    "reading": "あちら",
+    "meanings": [
+      "That (one)",
+      "Over there"
+    ],
+    "notes": [],
+    "exampleJapanese": "あちらにあるレストランは、評判の良い料理を提供している",
+    "exampleEnglish": "The restaurant over there serves highly rated food.",
+    "jlpt": "N5",
+    "wordType": "Pronoun",
+    "register": "Formal"
+  },
+  {
+    "id": "29e44ca7-d659-48fb-a948-7faa2904da94",
+    "word": "角 (かど)",
+    "reading": "かど",
+    "meanings": [
+      "Corner (Physical corner of a street, table, room etc)"
+    ],
+    "notes": [],
+    "exampleJapanese": "公園の角にあるベンチで友達と待ち合わせた",
+    "exampleEnglish": "I arranged to meet my friend at the bench on the corner of the park.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "c8c11e32-545e-4354-a59f-b85ac66e6f3e",
+    "word": "重い",
+    "reading": "おもい",
+    "meanings": [
+      "Heavy"
+    ],
+    "notes": [],
+    "exampleJapanese": "長野県の山を登るとき、彼は重いバックパックを背負っていた",
+    "exampleEnglish": "While climbing the mountains of Nagano Prefecture, he was carrying a heavy backpack on his back.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "cfda79dd-3695-4388-88a2-ff19c8903e11",
+    "word": "軽い",
+    "reading": "かるい",
+    "meanings": [
+      "Light (Suggests low effort, intensity or casualness)"
+    ],
+    "notes": [],
+    "exampleJapanese": "小林直樹は軽いランニングを日課にして健康を維持している",
+    "exampleEnglish": "Naoki Kobayashi maintains his health by making light jogging a part of his daily routine.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "859b4707-25ab-4436-8870-4248b40a45c9",
+    "word": "曲がる",
+    "reading": "まがる",
+    "meanings": [
+      "To bend",
+      "To curve (Focuses on the change in direction or shape itself)"
+    ],
+    "notes": [],
+    "exampleJapanese": "大輔は次の角を右に曲がるように指示された",
+    "exampleEnglish": "Daisuke was instructed to turn right at the next corner.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "e440832d-5846-46fa-98a9-78dbd962a68a",
+    "word": "また",
+    "reading": "また",
+    "meanings": [
+      "Again (Normal everyday word for again)"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼女は東京でまた友達と会う予定だ",
+    "exampleEnglish": "She plans to meet her friends again in Tokyo.",
+    "jlpt": "N5",
+    "wordType": "Adverb",
+    "register": "Neutral"
+  },
+  {
+    "id": "4b11ee42-7e6e-4564-bf1c-6c5e6f25831f",
+    "word": "遠い",
+    "reading": "とおい",
+    "meanings": [
+      "Distant"
+    ],
+    "notes": [],
+    "exampleJapanese": "田中さんは遠い場所に住んでいるため、通勤に時間がかかります",
+    "exampleEnglish": "Mr. Tanaka lives far away, so commuting takes a lot of time.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "c0ff3ade-acac-4a9a-a763-d75eddd99f70",
+    "word": "置く",
+    "reading": "おく",
+    "meanings": [
+      "To put"
+    ],
+    "notes": [],
+    "exampleJapanese": "そのデザイナーは、限られた空間でも圧迫感を与えないように動線や照明まで細かく計算した上で、新しいインテリアを設計し、部屋に統一感のあるスタイリッシュな家具を配置した。",
+    "exampleEnglish": "The designer carefully calculated even the room’s flow and lighting so that the limited space would not feel cramped, then designed a new interior and arranged stylish furniture with a unified aesthetic throughout the room.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "e00a6ca1-c5b8-422e-9326-e0b7aafa5f6b",
+    "word": "貼る",
+    "reading": "はる",
+    "meanings": [
+      "To paste (put)"
+    ],
+    "notes": [],
+    "exampleJapanese": "香織は壁に家族の写真を貼って温かい雰囲気を作った",
+    "exampleEnglish": "Kaori put family photos on the wall to create a warm atmosphere.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "c6880f80-674a-4648-a205-9bcc5c2793df",
+    "word": "煩い",
+    "reading": "うるさい",
+    "meanings": [
+      "Noisy (Carries a strong sense of irritation or annoyance)"
+    ],
+    "notes": [],
+    "exampleJapanese": "隣の部屋からの音がうるさくて、勉強に集中できなかった",
+    "exampleEnglish": "The noise from the next room was so loud that I couldn’t concentrate on my studies.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "5a6fe06a-417d-4aad-bb91-2490f1dcb389",
+    "word": "靴下",
+    "reading": "くつした",
+    "meanings": [
+      "Socks"
+    ],
+    "notes": [],
+    "exampleJapanese": "田中さんの娘は冬の寒さ対策に、温かい靴下をたくさん買い揃えている",
+    "exampleEnglish": "Mr. Tanaka’s daughter has bought a lot of warm socks to prepare for the winter cold.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "c3d56b9a-57b7-4a8a-9666-8edba6a753d2",
+    "word": "違う",
+    "reading": "ちがう",
+    "meanings": [
+      "To be different (Casual, conversational verb that can be used in simple writing)"
+    ],
+    "notes": [],
+    "exampleJapanese": "その意見は私の考えとは違うので、もう少し詳しく聞かせてください",
+    "exampleEnglish": "That opinion is different from mine, so please tell me a little more about it in detail.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "01b870e5-053b-4ec3-89b2-5bb6a38395c2",
+    "word": "動かす",
+    "reading": "うごかす",
+    "meanings": [
+      "To move"
+    ],
+    "notes": [],
+    "exampleJapanese": "香織は、家具を動かして部屋のレイアウトを変えた",
+    "exampleEnglish": "Kaori moved the furniture and changed the room's layout",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "48d5a606-5759-44f0-ac5f-601619a35e85",
+    "word": "優しい",
+    "reading": "やさしい",
+    "meanings": [
+      "Gentle (About emotional softness or sensitivity. Someone who doesn't snap at people who treats other with warmth)"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼女の優しい声は、寒い冬の朝に差し込む柔らかな陽だまりのようだった",
+    "exampleEnglish": "Her gentle voice was like a soft patch of sunlight streaming in on a cold winter morning.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "14c58792-f463-49a9-9fd5-19b44e730c8a",
+    "word": "動く",
+    "reading": "うごく",
+    "meanings": [
+      "To move (Something moves on its own or changes position/state naturally)"
+    ],
+    "notes": [],
+    "exampleJapanese": "健太は、壊れたロボットを修理して、ようやく動くようにした",
+    "exampleEnglish": "Kenta repaired the broken robot and finally got it working again.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "5f7d1c9b-4a84-4d63-a8e0-2c7d5b1f3a64",
+    "word": "移る",
+    "reading": "うつる",
+    "meanings": [
+      "To move",
+      "To transfer (Focuses on change of place, position or situation; not just motion)"
+    ],
+    "notes": [],
+    "exampleJapanese": "山口さんは会社の新しい部署に移ることを決めた",
+    "exampleEnglish": "Mr. Yamaguchi decided to transfer to a new department in the company.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "2c7d5b1f-9a84-4d90-a6e0-3f7d5c1b2a64",
+    "word": "暑い",
+    "reading": "あつい",
+    "meanings": [
+      "Hot (weather only)"
+    ],
+    "notes": [],
+    "exampleJapanese": "今日はとても暑いので、冷たい飲み物が欲しい",
+    "exampleEnglish": "It's very hot today, so I want a cold drink.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "5fda2e46-3b53-4279-84c1-cee0d0328608",
+    "word": "熱い",
+    "reading": "あつい",
+    "meanings": [
+      "Hot (thing)"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼の言葉は熱い炎のようで、触れれば心が燃え尽きそうなほどだった",
+    "exampleEnglish": "His words were like a blazing flame—so intense that touching them felt as if they could burn your very soul.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "eea6dc8d-bb0c-4c12-b5a4-863f8e75c376",
+    "word": "円い",
+    "reading": "まるい",
+    "meanings": [
+      "Round (disc-shaped)"
+    ],
+    "notes": [],
+    "exampleJapanese": "古びた寺の庭に置かれた円い石は、静かな月夜にひそかに輝いているように見えた",
+    "exampleEnglish": "A round stone placed in the garden of the old temple seemed to shine quietly under the stillness of the moonlit night.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "c3216c6a-b6e2-431e-a1a8-4a2435ad7947",
+    "word": "綺麗",
+    "reading": "きれい",
+    "meanings": [
+      "Beautiful",
+      "Clean (Everyday versatile word that focuses on appearance rather than strict hygiene)"
+    ],
+    "notes": [],
+    "exampleJapanese": "夕暮れに染まる湖面があまりに綺麗で、時間が止まったように感じた",
+    "exampleEnglish": "The lake surface, dyed in the colors of dusk, was so beautiful that it felt as if time had stopped.",
+    "jlpt": "N5",
+    "wordType": "な-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "dca0a900-afc8-4d22-af92-eac78d57ae7c",
+    "word": "帰す",
+    "reading": "かえす",
+    "meanings": [
+      "To send (someone) back"
+    ],
+    "notes": [],
+    "exampleJapanese": "母はどんなに遅くなっても、「友達を家に帰すまではあんたも帰ってくるんじゃないよ」と言っていた",
+    "exampleEnglish": "No matter how late it got, my mother used to say, “Don’t come home until you’ve seen your friend safely home.”",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "e32f737e-c5c3-4034-a056-7a48bd9b62e5",
+    "word": "入り口",
+    "reading": "いりぐち",
+    "meanings": [
+      "Entrance (Can be used literally for physical spaces or figuratively for beginnings or points of access)"
+    ],
+    "notes": [],
+    "exampleJapanese": "その建物の入り口は歴史的な装飾が施されており、初めて訪れる人々に強い印象を与えるよう設計されていた。",
+    "exampleEnglish": "The entrance of the building was decorated with historical ornaments and designed to leave a strong impression on first-time visitors.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "61410a44-0ffa-41ae-8c98-adad270000e0",
+    "word": "皆さん",
+    "reading": "みなさん",
+    "meanings": [
+      "Everyone (Polite. Specifically refers to a group of people)"
+    ],
+    "notes": [],
+    "exampleJapanese": "皆さんがそれぞれ異なる背景や価値観を持っているからこそ、この議論には単純な結論では片づけられない深みがあるのです。",
+    "exampleEnglish": "Precisely because all of you have different backgrounds and values, this discussion has a depth that cannot be reduced to a simple conclusion.",
+    "jlpt": "N5",
+    "wordType": "Pronoun",
+    "register": "Formal"
+  },
+  {
+    "id": "228e5ead-c729-4483-bfbb-81b53a65791d",
+    "word": "結婚",
+    "reading": "けっこん",
+    "meanings": [
+      "Marriage"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼らは周囲から何度も結婚を急かされていたものの、お互いが本当に納得できる形を大切にしたいと考えていた。",
+    "exampleEnglish": "Although people around them repeatedly pressured them to get married, they wanted to prioritize a form of marriage that both of them could truly feel satisfied with.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "add7579e-1673-440c-a69f-1ee61b6bd2e7",
+    "word": "難しい",
+    "reading": "むずかしい",
+    "meanings": [
+      "Difficult (Usually refers to something being intellectually, technically or practically difficult)"
+    ],
+    "notes": [],
+    "exampleJapanese": "その問題は専門家の間でも意見が大きく分かれており、単純な理想論だけでは解決するのが難しいと考えられている。",
+    "exampleEnglish": "Opinions on that issue are greatly divided even among experts, and it is considered difficult to solve through simple idealism alone.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "7c5d1b9f-4a84-4d90-a6e0-2f7c5d1b3a64",
+    "word": "あなた",
+    "reading": "あなた",
+    "meanings": [
+      "You"
+    ],
+    "notes": [],
+    "exampleJapanese": "その議論では、相手の意見をただ否定するのではなく、あなた自身の立場を明確にしながら建設的に説明することが重要だとされた。",
+    "exampleEnglish": "In that discussion, it was emphasized that rather than simply rejecting the other person’s opinion, it is important to clearly state your own position and explain it constructively.",
+    "jlpt": "N5",
+    "wordType": "Pronoun",
+    "register": "Neutral"
+  },
+  {
+    "id": "2f7c5d1b-9a84-4d90-a6e0-3f7d5c1b2a64",
+    "word": "使う",
+    "reading": "つかう",
+    "meanings": [
+      "To use (General, everyday word)"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は限られた予算をできるだけ有効に使うために、本当に必要な設備だけを慎重に選んで購入した。",
+    "exampleEnglish": "In order to use the limited budget as effectively as possible, he carefully selected and purchased only the equipment that was truly necessary.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "7441916b-c2a5-49ee-959d-9d3c1c476585",
+    "word": "男",
+    "reading": "おとこ",
+    "meanings": [
+      "Male",
+      "Man (The most basic and broad word for man but often feels direct and casual)"
+    ],
+    "notes": [],
+    "exampleJapanese": "男は誰にも告げずに夜明け前の街を歩き続け、自分がこれまで積み重ねてきた選択の意味を静かに反芻していた。",
+    "exampleEnglish": "The man walked through the city before dawn without telling anyone, quietly reflecting on the meaning of the choices he had made up to that point.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "95d70b0c-8597-4d95-b056-5454beafad58",
+    "word": "女",
+    "reading": "おんな",
+    "meanings": [
+      "Woman (Can be neutral, rude or symbolic depending on the context)"
+    ],
+    "notes": [],
+    "exampleJapanese": "その女は静かに微笑みながら相手の話を聞いていたが、その瞳の奥には誰にも容易には理解できない複雑な感情が潜んでいるようだった。",
+    "exampleEnglish": "The woman listened to the other person with a quiet smile, yet deep within her eyes there seemed to lurk complex emotions that no one could easily understand.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "0974416b-0efd-4c6e-a2b6-3aee06b09a4c",
+    "word": "たくさん",
+    "reading": "たくさん",
+    "meanings": [
+      "Many (Refers to number or amount)"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は旅先でたくさんの人々と出会い、それぞれ異なる価値観や人生観に触れることで、自分自身の考え方も少しずつ変わっていった。",
+    "exampleEnglish": "During his travels, he met many people, and through encountering different values and ways of life, his own way of thinking gradually began to change as well.",
+    "jlpt": "N5",
+    "wordType": "Adverb",
+    "register": "Neutral"
+  },
+  {
+    "id": "a5172a8e-6037-4163-a8e7-6038dfb0ab97",
+    "word": "色々",
+    "reading": "いろいろ",
+    "meanings": [
+      "Many (kinds of) (Casual and conversational)"
+    ],
+    "notes": [],
+    "exampleJapanese": "留学生活を通じて色々な国の人々と交流したことで、彼は自分が当然だと思っていた価値観が決して普遍的ではないことに気づかされた。",
+    "exampleEnglish": "Through interacting with people from many different countries during his study abroad experience, he came to realize that the values he had taken for granted were by no means universal.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "7c6f1ec8-abe7-4650-aee7-3156206d165b",
+    "word": "お父さん",
+    "reading": "おとうさん",
+    "meanings": [
+      "Dad (Most emotionally natural and commonly spoken word for dad)"
+    ],
+    "notes": [],
+    "exampleJapanese": "久しぶりに実家へ帰った娘がお父さんに肩を揉んであげると、彼は照れくさそうに笑いながら「もうそんな年になったのか」と呟いた。",
+    "exampleEnglish": "When the daughter, returning home for the first time in a long while, gave her dad a shoulder massage, he smiled bashfully and murmured, “So you’ve gotten to that age already.”",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Honorific"
+  },
+  {
+    "id": "db766061-41dc-48cd-ad9a-068d665ea07d",
+    "word": "美味しい",
+    "reading": "おいしい",
+    "meanings": [
+      "Delicious (Standard, polite word for something that tastes good)"
+    ],
+    "notes": [],
+    "exampleJapanese": "長い旅の途中で立ち寄った小さな食堂で食べた素朴な料理は、豪華ではなかったものの、不思議なくらいおいしく感じられた。",
+    "exampleEnglish": "The simple meal eaten at a small diner during the journey was not luxurious, yet it tasted surprisingly delicious.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "6a79d7ef-cf6b-431c-9137-e05e529e35ca",
+    "word": "よく",
+    "reading": "よく",
+    "meanings": [
+      "Often (Most common and natural way to say often in everyday Japanese)"
+    ],
+    "notes": [],
+    "exampleJapanese": "長年にわたる内戦を終結させるためには、単なる停戦合意だけでなく、各勢力による段階的な武装解除を進めることが不可欠だと考えられている。",
+    "exampleEnglish": "It is believed that in order to bring an end to the long-lasting civil war, not only a ceasefire agreement but also the gradual disarmament of each faction is indispensable.",
+    "jlpt": "N5",
+    "wordType": "Adverb",
+    "register": "Neutral"
+  },
+  {
+    "id": "6c70c157-6279-4325-90de-6617976fdcd2",
+    "word": "死ぬ",
+    "reading": "しぬ",
+    "meanings": [
+      "To die (Very blunt or harsh)"
+    ],
+    "notes": [],
+    "exampleJapanese": "医師は家族に対して、患者の容体が急速に悪化しており、このままでは助かる可能性が極めて低く、死ぬリスクが高いと率直に説明した。",
+    "exampleEnglish": "The doctor explained frankly to the family that the patient’s condition was rapidly deteriorating and that without intervention the risk of death was extremely high.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "9d5c1f7b-4a84-4d63-a8e0-2f7c5d1b3a64",
+    "word": "悪い",
+    "reading": "わるい",
+    "meanings": [
+      "Bad"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼の行いは決して悪い意図からではなかったものの、結果として多くの人に誤解や混乱を与えてしまった。",
+    "exampleEnglish": "His actions were not driven by bad intentions, but they ultimately caused misunderstanding and confusion among many people.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "a28196bf-27a6-4d97-b2ea-26ef68893275",
+    "word": "自分",
+    "reading": "じぶん",
+    "meanings": [
+      "Myself",
+      "Yourself",
+      "Oneself (General reflexive self)"
+    ],
+    "notes": [],
+    "exampleJapanese": "自分の価値観が周囲の期待と衝突する中で、それでもなお選択を貫こうとする姿勢こそが、彼の成長を象徴していた。",
+    "exampleEnglish": "The way he tried to stick to his choices even when his own values clashed with the expectations of those around him symbolised his personal growth.",
+    "jlpt": "N5",
+    "wordType": "Pronoun",
+    "register": "Neutral"
+  },
+  {
+    "id": "c460bb43-a311-4af7-aba0-41b8a8c7f630",
+    "word": "去年",
+    "reading": "きょねん",
+    "meanings": [
+      "Last year (Casual, everyday form)"
+    ],
+    "notes": [],
+    "exampleJapanese": "去年は将来に対する不安ばかり感じていたが、環境が大きく変わった今では、あの頃よりは前向きに物事を考えられるようになった。",
+    "exampleEnglish": "Last year, I felt nothing but anxiety about the future, but now that my circumstances have changed significantly, I’ve become able to think more positively than I could back then.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "b2dea6a3-40cb-4fff-92f1-390dd88de3a1",
+    "word": "青",
+    "reading": "あお",
+    "meanings": [
+      "Blue"
+    ],
+    "notes": [],
+    "exampleJapanese": "子どもの頃に祖父が「青は単なる色ではなく、未熟さや静けさまで含んだ感覚なんだ」と語っていた意味を、大人になった今になってようやく理解できるようになった。",
+    "exampleEnglish": "As a child, my grandfather used to say, “Blue isn’t merely a colour; it’s a feeling that even contains immaturity and calmness,” and only now that I’ve become an adult have I finally begun to understand what he meant.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "abb573c1-bc1e-4000-ba0f-9b7677233151",
+    "word": "赤",
+    "reading": "あか",
+    "meanings": [
+      "Red"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は政治家たちの腐敗を暴露した記事を書いたせいで「赤」のレッテルを貼られ、長年にわたって社会的な孤立を余儀なくされた。",
+    "exampleEnglish": "Because he wrote an article exposing the corruption of politicians, he was branded as “a red” and was forced into social isolation for many years.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "e96358ce-e826-49d3-9500-cd6ade8f6079",
+    "word": "開く (ひらく)",
+    "reading": "ひらく",
+    "meanings": [
+      "To open (Carries a sense of something opening outward, spreading or becoming emotionally accessible)"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼女は長い沈黙のあとでようやく口を開き、自分がこれまで誰にも打ち明けられなかった秘密を静かに語り始めた。",
+    "exampleEnglish": "After a long silence, she finally opened her mouth and quietly began to speak about the secret she had never been able to tell anyone before.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "b4549412-8788-4a6b-82ba-d1e34c814bd3",
+    "word": "開ける",
+    "reading": "あける",
+    "meanings": [
+      "To open (Focuses on intentionally opening a physical object)"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は凍えるような寒さの中で震える手を必死に動かしながら、何度も失敗した末にようやく古びた倉庫の扉を開けた。",
+    "exampleEnglish": "Shivering in the freezing cold, he desperately moved his trembling hands and, after many failed attempts, finally opened the door to the old warehouse.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "f110cda6-1997-4874-9a9e-6c59e2da2894",
+    "word": "朝",
+    "reading": "あさ",
+    "meanings": [
+      "Morning"
+    ],
+    "notes": [],
+    "exampleJapanese": "都会の騒がしさがまだ完全には目を覚ましていない朝の時間帯に川沿いを歩くと、不思議なほど心が落ち着くことがある。",
+    "exampleEnglish": "When you walk along the riverside in the morning, before the noise of the city has fully awakened, your mind can become strangely calm.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "60abbcb5-d383-40ab-b721-f0a3dc9c0c09",
+    "word": "足",
+    "reading": "あし",
+    "meanings": [
+      "Leg",
+      "Foot"
+    ],
+    "notes": [],
+    "exampleJapanese": "何時間も山道を歩き続けたせいで足の感覚がほとんどなくなっていたが、彼は頂上から見える景色をどうしても自分の目で見たかった。",
+    "exampleEnglish": "Because he had continued walking along the mountain trail for hours, he had almost lost all feeling in his legs, but he absolutely wanted to see the view from the summit with his own eyes.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "d9a1d7ea-5e1a-4e11-8e62-a069db683e75",
+    "word": "明日",
+    "reading": "あした",
+    "meanings": [
+      "Tomorrow"
+    ],
+    "notes": [],
+    "exampleJapanese": "明日になれば状況が自然に良くなると信じ込んで何もしないままでいると、気づかないうちに問題がさらに深刻になっていることがある。",
+    "exampleEnglish": "If you convince yourself that things will naturally improve tomorrow and do nothing, problems can sometimes become even more serious before you realise it.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "3c7d5b1f-9a84-4d90-a6e0-2f7c5d1b3a64",
+    "word": "遊ぶ",
+    "reading": "あそぶ",
+    "meanings": [
+      "To play"
+    ],
+    "notes": [],
+    "exampleJapanese": "子どもの頃にはただ無邪気に遊ぶことしか考えていなかった公園に、大人になってから再び足を運ぶと、時間の流れの残酷さを妙に強く感じることがある。",
+    "exampleEnglish": "When you return as an adult to the park where, as a child, you only ever thought about innocently playing, you can sometimes feel the cruelty of the passage of time in a strangely powerful way.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "400ba964-d627-42b0-ba5e-d82332cddc90",
+    "word": "新しい",
+    "reading": "あたらしい",
+    "meanings": [
+      "New"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は新しい環境に適応するために毎晩遅くまで日本語を勉強していたが、それでも職場では自分の意見をうまく伝えられずに苦しんでいた。",
+    "exampleEnglish": "Although he was studying Japanese late every night in order to adapt to his new environment, he still struggled to express his opinions properly at work.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "f3d43f42-7e0a-4cbb-b30e-fe118ace8db6",
+    "word": "あっち",
+    "reading": "あっち",
+    "meanings": [
+      "Over there (Away from you in both place and direction)"
+    ],
+    "notes": [],
+    "exampleJapanese": "授業が終わったあと、先生は「あっちの建物に資料を置いてあるから、必要なら自由に取っていってください」と学生たちに説明した。",
+    "exampleEnglish": "After the class ended, the teacher explained to the students, “The materials are in that building over there, so please feel free to take them if you need them.”",
+    "jlpt": "N5",
+    "wordType": "Pronoun",
+    "register": "Casual"
+  },
+  {
+    "id": "a7ca7bd6-1789-4975-8588-f1f8888a2fa9",
+    "word": "後（あと)",
+    "reading": "あと",
+    "meanings": [
+      "After (Time)",
+      "Left (Remaining amount)"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼女は長い会議が終わった後、誰もいないオフィスに一人で残り、静かな窓際でコーヒーを飲みながら今後の計画について考えていた。",
+    "exampleEnglish": "After the long meeting ended, she remained alone in the empty office, drinking coffee by the quiet window while thinking about her future plans.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "4ceda469-49db-447d-bb79-066b0c8ca111",
+    "word": "あの",
+    "reading": "あの",
+    "meanings": [
+      "That (Over there)"
+    ],
+    "notes": [],
+    "exampleJapanese": "あのレストランは値段が高いことで有名だが、料理だけでなく店員の対応まで素晴らしいので、特別な日に行く価値は十分にある。",
+    "exampleEnglish": "That restaurant is famous for being expensive, but not only is the food excellent, even the staff’s service is wonderful, so it is definitely worth going to on a special occasion.",
+    "jlpt": "N5",
+    "wordType": "Pronoun",
+    "register": "Neutral"
+  },
+  {
+    "id": "f3a95e75-76f4-4efc-b131-7bce0015ac7e",
+    "word": "あの",
+    "reading": "あの",
+    "meanings": [
+      "Um (Filler word)"
+    ],
+    "notes": [],
+    "exampleJapanese": "「あの、もしご迷惑でなければ、この書類の書き方を少し教えていただけませんか」と彼は緊張した様子で受付の人に尋ねた。",
+    "exampleEnglish": "“Um, if it’s not too much trouble, could you please explain a little how to fill out this document?” he asked the receptionist nervously.",
+    "jlpt": "N5",
+    "wordType": "Expression",
+    "register": "Neutral"
+  },
+  {
+    "id": "942b7ffe-52cd-457f-aa2e-c7bede7d356c",
+    "word": "アパート",
+    "reading": "アパート",
+    "meanings": [
+      "Apartment"
+    ],
+    "notes": [],
+    "exampleJapanese": "駅から少し離れた古いアパートに住んでいるものの、近くに静かな公園や安いスーパーがあるので、彼はその地域をかなり気に入っている。",
+    "exampleEnglish": "Although he lives in an old apartment a little far from the station, there is a quiet park and a cheap supermarket nearby, so he likes the area quite a lot.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "3ed9f9fb-801b-4319-adee-d3965e23cead",
+    "word": "あまり",
+    "reading": "あまり",
+    "meanings": [
+      "Not very (With negative verb or adjective)",
+      "Too much (Less common)"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は感情をあまり表に出さないタイプなので、初めて会った人には冷たい印象を与えてしまうことが多い。",
+    "exampleEnglish": "Because he is the type of person who does not show his emotions very much, he often gives a cold impression to people who meet him for the first time.",
+    "jlpt": "N5",
+    "wordType": "Adverb",
+    "register": "Neutral"
+  },
+  {
+    "id": "65b7439d-8f1b-4b25-8e7d-b82abb0fa81d",
+    "word": "雨",
+    "reading": "あめ",
+    "meanings": [
+      "Rain"
+    ],
+    "notes": [],
+    "exampleJapanese": "突然激しい雨が降り始めたせいで、試合は途中で中止になり、観客たちは急いで近くの建物へ避難した。",
+    "exampleEnglish": "Because heavy rain suddenly started pouring down, the match was cancelled halfway through, and the spectators hurried to nearby buildings for shelter.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "4d50fc7d-094c-4f44-b05d-2c647dc0efb0",
+    "word": "ある",
+    "reading": "ある",
+    "meanings": [
+      "To exist (Non-living things)"
+    ],
+    "notes": [],
+    "exampleJapanese": "この町には百年以上の歴史がある建物が今でも数多く残っており、観光客だけでなく地元の人々にも大切にされている。",
+    "exampleEnglish": "In this town, many buildings with over a hundred years of history still remain, and they are cherished not only by tourists but also by the local residents.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "8d3f5a1b-7c64-4f92-b1e0-5a7c9d2e4f61",
+    "word": "あれ",
+    "reading": "あれ",
+    "meanings": [
+      "That (over there)",
+      "That (refers to something already known)"
+    ],
+    "notes": [],
+    "exampleJapanese": "あれほど努力していたにもかかわらず結果が出なかったことで、彼は自分のやり方そのものを疑い始めてしまった。",
+    "exampleEnglish": "Despite having worked that hard, the fact that he got no results made him begin to doubt his entire approach.",
+    "jlpt": "N5",
+    "wordType": "Pronoun",
+    "register": "Neutral"
+  },
+  {
+    "id": "1c7d9e5a-3f84-4b62-a9e1-6d2f5b7c8a41",
+    "word": "いい | 良い",
+    "reading": "いい | よい",
+    "meanings": [
+      "Good"
+    ],
+    "notes": [],
+    "exampleJapanese": "この映画は映像が美しいだけではなく、登場人物の心理描写も非常にいいので、何年経っても多くの人に愛され続けている。",
+    "exampleEnglish": "This film is not only visually beautiful, but its portrayal of the characters’ psychology is also very good, so it continues to be loved by many people even after many years.",
+    "jlpt": "N5",
+    "wordType": "い-adjective",
+    "register": "Neutral"
+  },
+  {
+    "id": "5b2f7d1c-8a64-4f93-b1e0-7c9d2e4f6a31",
+    "word": "言う",
+    "reading": "いう",
+    "meanings": [
+      "To say",
+      "To tell"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は周囲に何を言われようとも、自分が正しいと信じた道を最後まで進むつもりだった。",
+    "exampleEnglish": "No matter what people around him said, he intended to follow the path he believed was right until the very end.",
+    "jlpt": "N5",
+    "wordType": "Transitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "9a5d3f1b-7c84-4b62-a9e1-2f7d5c8a4e61",
+    "word": "いかが",
+    "reading": "いかが",
+    "meanings": [
+      "How"
+    ],
+    "notes": [],
+    "exampleJapanese": "「新しい職場にはもう慣れましたか。実際に働いてみて、雰囲気はいかがですか」と先輩が優しく尋ねた。",
+    "exampleEnglish": "“Have you gotten used to your new workplace yet? Now that you’ve actually worked there, how is the atmosphere?” the senior colleague asked kindly.",
+    "jlpt": "N5",
+    "wordType": "Adverb",
+    "register": "Neutral"
+  },
+  {
+    "id": "2e7c5d1f-4a93-4b62-a9e1-8d3f5a7c6b41",
+    "word": "行く",
+    "reading": "いく",
+    "meanings": [
+      "To go"
+    ],
+    "notes": [],
+    "exampleJapanese": "大学を卒業した後、彼は安定した仕事に行く代わりに、海外で自分の可能性を試す道を選んだ。",
+    "exampleEnglish": "After graduating from university, instead of going into a stable job, he chose a path where he could test his potential abroad.",
+    "jlpt": "N5",
+    "wordType": "Intransitive Godan Verb",
+    "register": "Neutral"
+  },
+  {
+    "id": "7f1b5c9d-3a84-4f92-b1e0-5d2e7c8a4f61",
+    "word": "池",
+    "reading": "いけ",
+    "meanings": [
+      "Pond"
+    ],
+    "notes": [],
+    "exampleJapanese": "朝早く公園の池の近くを歩いていると、水面に映った静かな空の景色があまりにも美しくて、思わず立ち止まってしまった。",
+    "exampleEnglish": "While walking near the pond in the park early in the morning, the reflection of the quiet sky on the water was so beautiful that I instinctively stopped walking.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "4c9d2e7f-1a84-4b62-a9e1-5f7c3d8a6b41",
+    "word": "医者",
+    "reading": "いしゃ",
+    "meanings": [
+      "(Medical) Doctor"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は幼い頃から医者になることを目指して努力してきたが、実際に病院で働き始めてからは、知識だけでは解決できない問題の多さに驚かされた。",
+    "exampleEnglish": "He had worked hard since childhood aiming to become a doctor, but after actually starting work at a hospital, he was surprised by how many problems could not be solved by knowledge alone.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "6a3f5d1b-8c64-4f92-b1e0-2e7c9d5a4f61",
+    "word": "一",
+    "reading": "いち",
+    "meanings": [
+      "One"
+    ],
+    "notes": [],
+    "exampleJapanese": "その問題については一つの視点だけで判断するのではなく、歴史的背景や経済的な影響も含めて考える必要がある。",
+    "exampleEnglish": "Regarding that issue, it is necessary not to judge it from only one perspective, but also to consider the historical background and economic impact.",
+    "jlpt": "N5",
+    "wordType": "Number",
+    "register": "Neutral"
+  },
+  {
+    "id": "3d7f5a1c-9b64-4f92-a1e0-7c2d5e8a4f61",
+    "word": "二",
+    "reading": "に",
+    "meanings": [
+      "2"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼女は二年間海外で生活していたため、日本に帰国したあともしばらくは文化の違いに戸惑っていた。",
+    "exampleEnglish": "Because she had lived abroad for two years, even after returning to Japan she remained confused by the cultural differences for a while.",
+    "jlpt": "N5",
+    "wordType": "Number",
+    "register": "Neutral"
+  },
+  {
+    "id": "5e1c7d9f-4a62-4f93-b1e0-8c3d5a7f2b41",
+    "word": "三",
+    "reading": "さん",
+    "meanings": [
+      "3"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は三回も同じ説明を聞いたにもかかわらず、結局その機械の使い方を完全には理解できなかった。",
+    "exampleEnglish": "Even though he heard the same explanation three times, he ultimately still could not fully understand how to use the machine.",
+    "jlpt": "N5",
+    "wordType": "Number",
+    "register": "Neutral"
+  },
+  {
+    "id": "2f8c5a1d-7b64-4e92-a1d0-5c7e9f2a4b61",
+    "word": "四",
+    "reading": "し",
+    "meanings": [
+      "Four"
+    ],
+    "notes": [],
+    "exampleJapanese": "四年前に偶然出会った人とのつながりが、今では彼の人生を大きく変えるほど重要なものになっている。",
+    "exampleEnglish": "A connection with someone he happened to meet four years ago has now become important enough to greatly change his life.",
+    "jlpt": "N5",
+    "wordType": "Number",
+    "register": "Neutral"
+  },
+  {
+    "id": "7a1d5c8f-3b64-4e92-a1d0-9f2c5a7b4e61",
+    "word": "五",
+    "reading": "ご",
+    "meanings": [
+      "5"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼女は五時間以上も休まずに研究発表の準備を続けていたため、終わった頃にはほとんど声が出なくなっていた。",
+    "exampleEnglish": "Because she had continued preparing for her research presentation for more than five hours without resting, she could barely speak by the time she finished.",
+    "jlpt": "N5",
+    "wordType": "Number",
+    "register": "Neutral"
+  },
+  {
+    "id": "5e9a2c1f-8b64-4d92-a1d0-7c5f2a4b6e31",
+    "word": "六",
+    "reading": "ろく",
+    "meanings": [
+      "6"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は六か国語を話せるだけでなく、それぞれの文化や歴史についても深い知識を持っている。",
+    "exampleEnglish": "Not only can he speak six languages, but he also has deep knowledge about each country’s culture and history.",
+    "jlpt": "N5",
+    "wordType": "Number",
+    "register": "Neutral"
+  },
+  {
+    "id": "8c2f5a1d-4b64-4e92-a1d0-5f7a9c2b6e41",
+    "word": "七",
+    "reading": "しち",
+    "meanings": [
+      "7"
+    ],
+    "notes": [],
+    "exampleJapanese": "七年前には想像もしていなかった場所で今の自分が生活していることを考えると、人生は本当に予測できないものだと思う。",
+    "exampleEnglish": "When I think about how I am now living in a place I could never have imagined seven years ago, I feel that life is truly unpredictable.",
+    "jlpt": "N5",
+    "wordType": "Number",
+    "register": "Neutral"
+  },
+  {
+    "id": "1b7e5c2f-9a64-4d92-a1d0-8f2c5a4b7e61",
+    "word": "八",
+    "reading": "はち",
+    "meanings": [
+      "8"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は八か月もの間ほとんど休みなく働き続けていたため、最近になってようやく自分の疲れの深さに気づき始めた。",
+    "exampleEnglish": "Because he had continued working for as long as eight months with almost no rest, he only recently began to realize how deeply exhausted he really was.",
+    "jlpt": "N5",
+    "wordType": "Number",
+    "register": "Neutral"
+  },
+  {
+    "id": "4f2a5c1d-7b64-4e92-a1d0-9c5f2a7b6e31",
+    "word": "九",
+    "reading": "きゅう",
+    "meanings": [
+      "9"
+    ],
+    "notes": [],
+    "exampleJapanese": "九割以上の学生がその授業を難しいと感じていたにもかかわらず、教授は説明の仕方をほとんど変えようとしなかった。",
+    "exampleEnglish": "Even though more than 90 percent of the students felt that class was difficult, the professor hardly tried to change the way he explained things.",
+    "jlpt": "N5",
+    "wordType": "Number",
+    "register": "Neutral"
+  },
+  {
+    "id": "6e1c5a2f-8b64-4d92-a1d0-7f2c5a4b9e31",
+    "word": "十 (じゅう)",
+    "reading": "じゅう",
+    "meanings": [
+      "10"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は十年以上その会社で働いているが、今でも新しい技術を学ぶことに強い興味を持ち続けている。",
+    "exampleEnglish": "He has worked at that company for more than ten years, but he still continues to have a strong interest in learning new technologies.",
+    "jlpt": "N5",
+    "wordType": "Number",
+    "register": "Neutral"
+  },
+  {
+    "id": "9a5f2c1d-4b64-4e92-a1d0-6c7e5a2b4f31",
+    "word": "一日 (いちにち)",
+    "reading": "いちにち",
+    "meanings": [
+      "The whole day"
+    ],
+    "notes": [],
+    "exampleJapanese": "一日中パソコンの前で作業をしていたせいで、夜になる頃には目の疲れだけでなく肩の痛みまでひどくなっていた。",
+    "exampleEnglish": "Because I had been working in front of a computer all day long, by nighttime not only had my eyes become tired, but my shoulder pain had also worsened.",
+    "jlpt": "N5",
+    "wordType": "Expression",
+    "register": "Neutral"
+  },
+  {
+    "id": "3c7e5a1d-8b64-4d92-a1d0-5f2c9a4b6e31",
+    "word": "いつ",
+    "reading": "いつ",
+    "meanings": [
+      "When"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼がいつ帰国するのか誰にも分からなかったため、友人たちは連絡を待ちながら不安な日々を過ごしていた。",
+    "exampleEnglish": "Because nobody knew when he would return to Japan, his friends spent anxious days waiting for contact from him.",
+    "jlpt": "N5",
+    "wordType": "Pronoun",
+    "register": "Neutral"
+  },
+  {
+    "id": "5b2f9c1d-7a64-4e92-a1d0-8c5f2a4b6e31",
+    "word": "五日",
+    "reading": "いつか",
+    "meanings": [
+      "5 Days",
+      "The 5th (Day of the month)"
+    ],
+    "notes": [],
+    "exampleJapanese": "締め切りまであと五日しか残っていないにもかかわらず、彼らの計画はまだ半分も完成していなかった。",
+    "exampleEnglish": "Even though there were only five days left until the deadline, their plan was still not even halfway complete.",
+    "jlpt": "N5",
+    "wordType": "Expression",
+    "register": "Neutral"
+  },
+  {
+    "id": "3e7b5a1d-8c64-4f92-a1d0-5b2c9e4f6a31",
+    "word": "一緒",
+    "reading": "いっしょ",
+    "meanings": [
+      "Together"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼とは大学時代から長い間一緒に研究を続けてきたので、今では言葉にしなくてもお互いの考えがある程度分かるようになっている。",
+    "exampleEnglish": "Because we have continued doing research together since our university days for such a long time, we can now understand each other’s thoughts to some extent even without putting them into words.",
+    "jlpt": "N5",
+    "wordType": "Noun",
+    "register": "Neutral"
+  },
+  {
+    "id": "7c1f5a2d-4b64-4e92-a1d0-8e2c5a7b9f31",
+    "word": "五つ",
+    "reading": "いつつ",
+    "meanings": [
+      "5 (Things)"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼女は五つの候補の中から最も現実的だと思われる案を選び、その理由を全員の前で丁寧に説明した。",
+    "exampleEnglish": "Out of the five options, she chose the proposal that seemed the most realistic and carefully explained her reasoning in front of everyone.",
+    "jlpt": "N5",
+    "wordType": "Number",
+    "register": "Neutral"
+  },
+  {
+    "id": "5a2f7c1d-9b64-4e92-a1d0-3e5c8a4f6b21",
+    "word": "一つ",
+    "reading": "ひとつ",
+    "meanings": [
+      "1 (Thing)"
+    ],
+    "notes": [],
+    "exampleJapanese": "成功するためには才能だけに頼るのではなく、一つ一つの小さな努力を長い時間積み重ねていくことが重要だ。",
+    "exampleEnglish": "To succeed, it is important not to rely only on talent, but to steadily build up small efforts one by one over a long period of time.",
+    "jlpt": "N5",
+    "wordType": "Number",
+    "register": "Neutral"
+  },
+  {
+    "id": "8f1c5a2d-7b64-4e92-a1d0-4c9e5a7b2f31",
+    "word": "二つ",
+    "reading": "ふたつ",
+    "meanings": [
+      "2 (Things)"
+    ],
+    "notes": [],
+    "exampleJapanese": "この問題には二つの大きな原因があると考えられており、そのどちらも簡単には解決できない。",
+    "exampleEnglish": "It is believed that there are two major causes behind this problem, and neither of them can be solved easily.",
+    "jlpt": "N5",
+    "wordType": "Number",
+    "register": "Neutral"
+  },
+  {
+    "id": "2d7e5a1c-8b64-4f92-a1d0-6c5a9e4f2b31",
+    "word": "三つ",
+    "reading": "みっつ",
+    "meanings": [
+      "3 (Things)"
+    ],
+    "notes": [],
+    "exampleJapanese": "教授は学生たちに三つの質問を出したうえで、それぞれについて自分の意見を論理的に説明するよう求めた。",
+    "exampleEnglish": "The professor gave the students three questions and then asked them to explain their opinions on each of them logically.",
+    "jlpt": "N5",
+    "wordType": "Number",
+    "register": "Neutral"
+  },
+  {
+    "id": "6b1f5c2d-9a64-4e92-a1d0-5e7c2a4f8b31",
+    "word": "四つ",
+    "reading": "よっつ",
+    "meanings": [
+      "4 (Things)"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は四つの会社から内定をもらっていたが、給料よりも仕事内容を重視して最終的な決断をした。",
+    "exampleEnglish": "He had received job offers from four companies, but he made his final decision by prioritizing the actual work over the salary.",
+    "jlpt": "N5",
+    "wordType": "Number",
+    "register": "Neutral"
+  },
+  {
+    "id": "4e2c5a1d-7b64-4f92-a1d0-9c5e7a2f6b31",
+    "word": "六つ",
+    "reading": "むっつ",
+    "meanings": [
+      "6 (Things)"
+    ],
+    "notes": [],
+    "exampleJapanese": "その研究チームは六つの異なる方法を比較した結果、最も効率的だと思われる手法を採用することに決めた。",
+    "exampleEnglish": "After comparing six different methods, the research team decided to adopt the approach that seemed the most efficient.",
+    "jlpt": "N5",
+    "wordType": "Number",
+    "register": "Neutral"
+  },
+  {
+    "id": "9c1f5a2d-4b64-4e92-a1d0-7e5c2a4f8b31",
+    "word": "七つ",
+    "reading": "ななつ",
+    "meanings": [
+      "7 (Things)"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼女は七つもの言語を独学で学んできたが、それでもなお自分にはまだ足りない部分が多いと感じている。",
+    "exampleEnglish": "She has learned as many as seven languages on her own, yet she still feels that there are many things she lacks.",
+    "jlpt": "N5",
+    "wordType": "Number",
+    "register": "Neutral"
+  },
+  {
+    "id": "5f2c7a1d-8b64-4e92-a1d0-3c9e5a4f6b21",
+    "word": "八つ",
+    "reading": "やっつ",
+    "meanings": [
+      "8 (Things)"
+    ],
+    "notes": [],
+    "exampleJapanese": "彼は八つの選択肢をすべて慎重に検討したあとで、最も危険が少ないと思われる案を選んだ。",
+    "exampleEnglish": "After carefully considering all eight options, he chose the plan that seemed to involve the least risk.",
+    "jlpt": "N5",
+    "wordType": "Number",
+    "register": "Neutral"
+  },
+  {
+    "id": "1a5e7c2d-9b64-4f92-a1d0-6c2f5a4b8e31",
+    "word": "九つ",
+    "reading": "ここのつ",
+    "meanings": [
+      "9 (Things)"
+    ],
+    "notes": [],
+    "exampleJapanese": "その作家は九つの短編小説を書き終えた時点で、ようやく自分の表現したいテーマがはっきり見えてきたと語っていた。",
+    "exampleEnglish": "The author said that only after finishing nine short stories did the theme he truly wanted to express finally become clear to him.",
+    "jlpt": "N5",
+    "wordType": "Number",
+    "register": "Neutral"
+  }
+]

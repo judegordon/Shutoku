@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  shutoku
-//
-//  Created by Jude on 21/05/2026.
-//
-
 import SwiftUI
 import SwiftData
 

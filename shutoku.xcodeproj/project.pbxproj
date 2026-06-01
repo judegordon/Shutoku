@@ -29,20 +29,42 @@
 		8586C0D92FBF6F9B00E659BE /* shutokuUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = shutokuUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		85C6890E2FC06394008A97C2 /* Exceptions for "shutoku" folder in "shutoku" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				shutokuTests/shutokuTests.swift,
+				shutokuUITests/shutokuUITests.swift,
+				shutokuUITests/shutokuUITestsLaunchTests.swift,
+			);
+			target = 8586C0BC2FBF6F9900E659BE /* shutoku */;
+		};
+		85C6890F2FC06394008A97C2 /* Exceptions for "shutoku" folder in "shutokuTests" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				shutokuTests/shutokuTests.swift,
+			);
+			target = 8586C0CE2FBF6F9B00E659BE /* shutokuTests */;
+		};
+		85C689102FC06394008A97C2 /* Exceptions for "shutoku" folder in "shutokuUITests" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				shutokuUITests/shutokuUITests.swift,
+				shutokuUITests/shutokuUITestsLaunchTests.swift,
+			);
+			target = 8586C0D82FBF6F9B00E659BE /* shutokuUITests */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		8586C0BF2FBF6F9900E659BE /* shutoku */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				85C6890E2FC06394008A97C2 /* Exceptions for "shutoku" folder in "shutoku" target */,
+				85C6890F2FC06394008A97C2 /* Exceptions for "shutoku" folder in "shutokuTests" target */,
+				85C689102FC06394008A97C2 /* Exceptions for "shutoku" folder in "shutokuUITests" target */,
+			);
 			path = shutoku;
-			sourceTree = "<group>";
-		};
-		8586C0D22FBF6F9B00E659BE /* shutokuTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = shutokuTests;
-			sourceTree = "<group>";
-		};
-		8586C0DC2FBF6F9B00E659BE /* shutokuUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = shutokuUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -76,8 +98,6 @@
 			isa = PBXGroup;
 			children = (
 				8586C0BF2FBF6F9900E659BE /* shutoku */,
-				8586C0D22FBF6F9B00E659BE /* shutokuTests */,
-				8586C0DC2FBF6F9B00E659BE /* shutokuUITests */,
 				8586C0BE2FBF6F9900E659BE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -130,9 +150,6 @@
 			dependencies = (
 				8586C0D12FBF6F9B00E659BE /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				8586C0D22FBF6F9B00E659BE /* shutokuTests */,
-			);
 			name = shutokuTests;
 			packageProductDependencies = (
 			);
@@ -152,9 +169,6 @@
 			);
 			dependencies = (
 				8586C0DB2FBF6F9B00E659BE /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				8586C0DC2FBF6F9B00E659BE /* shutokuUITests */,
 			);
 			name = shutokuUITests;
 			packageProductDependencies = (
@@ -396,8 +410,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"shutoku/Preview Content\"";
+				DEVELOPMENT_TEAM = 92G94S66BJ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Shutoku;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -408,7 +424,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = systemsatlasproject.shutoku;
+				PRODUCT_BUNDLE_IDENTIFIER = com.systemsatlasproject.shutoku;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -424,8 +440,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"shutoku/Preview Content\"";
+				DEVELOPMENT_TEAM = 92G94S66BJ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Shutoku;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -436,7 +454,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = systemsatlasproject.shutoku;
+				PRODUCT_BUNDLE_IDENTIFIER = com.systemsatlasproject.shutoku;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
