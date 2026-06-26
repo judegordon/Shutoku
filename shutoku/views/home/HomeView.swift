@@ -1,128 +1,126 @@
 import SwiftUI
 
 struct HomeView: View {
-@State private var selectedDeck: Deck?
+    @State private var destination: AppDestination?
+    @Environment(\.horizontalSizeClass) private var horizontalSizeClass
 
-var body: some View {
+    private let columns = [
+        GridItem(.flexible()),
+        GridItem(.flexible())
+    ]
 
-    NavigationStack {
+    private var menuItems: [(title: String, subtitle: String, systemImage: String, dest: AppDestination)] = [
+        ("Dictionary", "Browse all vocabulary", "book", .dictionary),
+        ("Vocab", "Study by JLPT level", "rectangle.stack", .vocab),
+        ("Kana", "Hiragana & Katakana", "character.ja", .kana),
+        ("Grammar", "Core grammar points", "text.book.closed", .grammar),
+        ("Translations", "Practice with AI feedback", "bubble.left.and.bubble.right", .translations),
+        ("Getting Started", "How to use Shutoku", "star", .gettingStarted),
+        ("Settings", "Preferences and options", "gearshape", .settings)
+    ]
 
-        VStack(spacing: 16) {
+    private var isIPad: Bool { horizontalSizeClass == .regular }
 
-            ForEach(DeckLibrary.allDecks) { deck in
-
-                let counts = cardCounts(for: deck)
-
-                Button {
-
-                    selectedDeck = deck
-
-                } label: {
-
-                    HStack {
-
-                        VStack(
-                            alignment: .leading,
-                            spacing: 6
-                        ) {
-
-                            Text(deck.title)
-                                .font(.title2)
-                                .fontWeight(.semibold)
-
-                            HStack(spacing: 12) {
-
-                                Text("New \(counts.new)")
-
-                                Text("Review \(counts.review)")
-
-                                Text("Known \(counts.known)")
-                            }
-                            .font(.subheadline)
-                            .foregroundColor(.gray)
-                        }
-
-                        Spacer()
+    var body: some View {
+        NavigationStack {
+            ScrollView {
+                VStack(spacing: 16) {
+                    VStack(spacing: 4) {
+                        Text("習得")
+                            .font(.system(size: isIPad ? 72 : 48, weight: .bold))
+                        Text("Shutoku")
+                            .font(isIPad ? .title : .title3)
+                            .foregroundColor(.secondary)
+                            .kerning(4)
                     }
-                    .padding()
+                    .frame(maxWidth: .infinity)
+                    .padding(.vertical, isIPad ? 48 : 32)
+                    .background(.regularMaterial)
+                    .cornerRadius(12)
+
+                    if isIPad {
+                        GeometryReader { geometry in
+                            let cardHeight = (geometry.size.height - 16 * 3) / 4
+                            LazyVGrid(columns: columns, spacing: 16) {
+                                ForEach(menuItems, id: \.title) { item in
+                                    GridMenuButton(
+                                        title: item.title,
+                                        subtitle: item.subtitle,
+                                        systemImage: item.systemImage,
+                                        isIPad: true
+                                    ) { destination = item.dest }
+                                    .frame(height: cardHeight)
+                                }
+                            }
+                        }
+                        .frame(height: UIScreen.main.bounds.height - 280)
+                    } else {
+                        LazyVGrid(columns: columns, spacing: 12) {
+                            ForEach(menuItems, id: \.title) { item in
+                                GridMenuButton(
+                                    title: item.title,
+                                    subtitle: item.subtitle,
+                                    systemImage: item.systemImage,
+                                    isIPad: false
+                                ) { destination = item.dest }
+                                .frame(height: 120)
+                            }
+                        }
+                    }
                 }
-                .buttonStyle(.bordered)
+                .padding()
             }
-
-            Spacer()
-        }
-        .padding()
-        .navigationTitle("Shutoku")
-        .navigationDestination(item: $selectedDeck) { deck in
-
-            ReviewView(deck: deck) {
-
-                selectedDeck = nil
+            .navigationBarHidden(true)
+            .navigationDestination(item: $destination) { dest in
+                switch dest {
+                case .dictionary: DictionaryView()
+                case .vocab: VocabView()
+                case .kana: KanaView()
+                case .grammar: GrammarView()
+                case .translations: TranslationsView()
+                case .gettingStarted: GettingStartedView()
+                case .settings: SettingsView()
+                }
             }
         }
     }
 }
 
-private func cardCounts(
-    for deck: Deck
-) -> (
-    new: Int,
-    review: Int,
-    known: Int
-) {
+enum AppDestination: String, Hashable, Identifiable {
+    case dictionary, vocab, kana, grammar, translations, gettingStarted, settings
+    var id: String { rawValue }
+}
 
-    let entries = DataLoader.loadEntries(
-        from: deck
-    )
+struct GridMenuButton: View {
+    let title: String
+    let subtitle: String
+    let systemImage: String
+    let isIPad: Bool
+    let action: () -> Void
 
-    StorageManager.initializeReviewStatesIfNeeded(
-        entries: entries
-    )
+    var body: some View {
+        Button(action: action) {
+            VStack(alignment: .leading, spacing: isIPad ? 16 : 10) {
+                Image(systemName: systemImage)
+                    .font(isIPad ? .system(size: 56) : .system(size: 28))
+                    .foregroundColor(.blue)
 
-    let entryIDs = Set(
-        entries.map {
-            $0.id.uuidString
+                VStack(alignment: .leading, spacing: isIPad ? 8 : 3) {
+                    Text(title)
+                        .font(isIPad ? .system(size: 28, weight: .semibold) : .headline)
+                        .foregroundColor(.primary)
+                    Text(subtitle)
+                        .font(isIPad ? .system(size: 20) : .caption)
+                        .foregroundColor(.secondary)
+                }
+            }
+            .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .bottomLeading)
+            .padding(isIPad ? 28 : 16)
+            .background(.regularMaterial)
+            .cornerRadius(12)
         }
-    )
-
-    let reviewStates = StorageManager.loadReviewStates()
-
-    let deckStates = reviewStates.filter { state in
-
-        entryIDs.contains { entryID in
-
-            state.cardID.hasPrefix(
-                entryID
-            )
-        }
+        .buttonStyle(.plain)
     }
-
-    let newCount = deckStates.filter {
-
-        !$0.hasBeenReviewed
-
-    }.count
-
-    let reviewCount = deckStates.filter {
-
-        $0.hasBeenReviewed &&
-        $0.dueDate <= Date()
-
-    }.count
-
-    let knownCount = deckStates.filter {
-
-        $0.hasBeenReviewed &&
-        $0.dueDate > Date()
-
-    }.count
-
-    return (
-        new: newCount,
-        review: reviewCount,
-        known: knownCount
-    )
 }
 
-}
-
+typealias MenuButton = GridMenuButton

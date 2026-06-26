@@ -10,11 +10,8 @@ struct BackCardView: View {
         VStack(alignment: .leading, spacing: 20) {
 
             if direction == .japaneseToEnglish {
-
                 japaneseToEnglishBack
-
             } else {
-
                 englishToJapaneseBack
             }
         }
@@ -33,34 +30,29 @@ private extension BackCardView {
                 .foregroundColor(.gray)
 
             VStack(alignment: .leading, spacing: 8) {
-
                 Text("Meanings")
                     .font(.headline)
-
                 ForEach(entry.meanings, id: \.self) { meaning in
                     Text("• \(meaning)")
                 }
             }
 
-            VStack(alignment: .leading, spacing: 8) {
-
-                Text("English Sentence")
-                    .font(.headline)
-
-                Text(entry.exampleEnglish)
-            }
-
             if !entry.notes.isEmpty {
-
                 VStack(alignment: .leading, spacing: 8) {
-
                     Text("Notes")
                         .font(.headline)
-
                     ForEach(entry.notes, id: \.self) { note in
                         Text("• \(note)")
                     }
                 }
+            }
+
+            VStack(alignment: .leading, spacing: 8) {
+                Text("Example")
+                    .font(.headline)
+                Text(entry.exampleJapanese)
+                Text(entry.exampleEnglish)
+                    .foregroundColor(.gray)
             }
         }
     }
@@ -80,11 +72,29 @@ private extension BackCardView {
                 .foregroundColor(.gray)
 
             VStack(alignment: .leading, spacing: 8) {
-
-                Text("Japanese Sentence")
+                Text("Meanings")
                     .font(.headline)
+                ForEach(entry.meanings, id: \.self) { meaning in
+                    Text("• \(meaning)")
+                }
+            }
 
+            if !entry.notes.isEmpty {
+                VStack(alignment: .leading, spacing: 8) {
+                    Text("Notes")
+                        .font(.headline)
+                    ForEach(entry.notes, id: \.self) { note in
+                        Text("• \(note)")
+                    }
+                }
+            }
+
+            VStack(alignment: .leading, spacing: 8) {
+                Text("Example")
+                    .font(.headline)
                 Text(entry.exampleJapanese)
+                Text(entry.exampleEnglish)
+                    .foregroundColor(.gray)
             }
         }
     }

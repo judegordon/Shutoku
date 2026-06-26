@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		8515BF7A2FEBE3320027CDFF /* SQLite in Frameworks */ = {isa = PBXBuildFile; productRef = 8515BF792FEBE3320027CDFF /* SQLite */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		8586C0D02FBF6F9B00E659BE /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -74,6 +78,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8515BF7A2FEBE3320027CDFF /* SQLite in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -94,10 +99,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8515BF782FEBE3320027CDFF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		8586C0B42FBF6F9900E659BE = {
 			isa = PBXGroup;
 			children = (
 				8586C0BF2FBF6F9900E659BE /* shutoku */,
+				8515BF782FEBE3320027CDFF /* Frameworks */,
 				8586C0BE2FBF6F9900E659BE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -132,6 +145,7 @@
 			);
 			name = shutoku;
 			packageProductDependencies = (
+				8515BF792FEBE3320027CDFF /* SQLite */,
 			);
 			productName = shutoku;
 			productReference = 8586C0BD2FBF6F9900E659BE /* shutoku.app */;
@@ -209,6 +223,9 @@
 			);
 			mainGroup = 8586C0B42FBF6F9900E659BE;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				8515BF772FEBE2B20027CDFF /* XCRemoteSwiftPackageReference "SQLite" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 8586C0BE2FBF6F9900E659BE /* Products */;
 			projectDirPath = "";
@@ -570,6 +587,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		8515BF772FEBE2B20027CDFF /* XCRemoteSwiftPackageReference "SQLite" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/stephencelis/SQLite.swift";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.16.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		8515BF792FEBE3320027CDFF /* SQLite */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8515BF772FEBE2B20027CDFF /* XCRemoteSwiftPackageReference "SQLite" */;
+			productName = SQLite;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 8586C0B52FBF6F9900E659BE /* Project object */;
 }

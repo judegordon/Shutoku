@@ -1,126 +1,84 @@
 import Foundation
 
 final class StorageManager {
-    private static let reviewStatesKey = "reviewStates"
+
+    // In-memory cache
+    private static var cachedStates: [ReviewState]? = nil
+
+    // MARK: - File URL
+
+    private static var reviewStatesURL: URL {
+        let documents = FileManager.default.urls(
+            for: .documentDirectory,
+            in: .userDomainMask
+        )[0]
+        return documents.appendingPathComponent("reviewStates.json")
+    }
+
+    // MARK: - Save
+
     static func saveReviewStates(_ states: [ReviewState]) {
-
+        cachedStates = states
         do {
-
             let data = try JSONEncoder().encode(states)
-
-            UserDefaults.standard.set(
-                data,
-                forKey: reviewStatesKey
-            )
-
+            try data.write(to: reviewStatesURL, options: .atomic)
         } catch {
-
             print("Failed to save review states: \(error)")
         }
     }
 
+    // MARK: - Load
+
     static func loadReviewStates() -> [ReviewState] {
-
-    guard let data = UserDefaults.standard.data(
-        forKey: reviewStatesKey
-    ) else {
-
-        print("NO SAVED REVIEW STATES")
-
-        return []
-    }
-
-    do {
-
-        let states = try JSONDecoder().decode(
-            [ReviewState].self,
-            from: data
-        )
-
-        print("LOADED \(states.count) STATES")
-
-        if let first = states.first {
-
-            print("FIRST STATE:")
-            print(first)
+        if let cached = cachedStates {
+            return cached
         }
 
-        let reviewedCount = states.filter {
-            $0.hasBeenReviewed
-        }.count
-
-        print("REVIEWED STATES: \(reviewedCount)")
-
-        return states
-
-    } catch {
-
-        print("Failed to load review states: \(error)")
-
-        return []
-    }
-
-    }
-
-
-    static func initializeReviewStatesIfNeeded(
-        entries: [Entry]
-    ) {
-
-        var states = loadReviewStates()
-
-        var uniqueStates: [ReviewState] = []
-
-        var seenCardIDs = Set<String>()
-
-        for state in states {
-
-            if !seenCardIDs.contains(state.cardID) {
-
-                uniqueStates.append(state)
-
-                seenCardIDs.insert(state.cardID)
-            }
+        guard FileManager.default.fileExists(atPath: reviewStatesURL.path) else {
+            return []
         }
 
-        states = uniqueStates
+        do {
+            let data = try Data(contentsOf: reviewStatesURL)
+            let states = try JSONDecoder().decode([ReviewState].self, from: data)
+            cachedStates = states
+            return states
+        } catch {
+            print("Failed to load review states: \(error)")
+            return []
+        }
+    }
 
+    // MARK: - Initialise
+
+    static func initializeReviewStatesIfNeeded(entries: [Entry]) {
         var statesByID: [String: ReviewState] = [:]
-
-        for state in states {
-
+        for state in loadReviewStates() {
             statesByID[state.cardID] = state
         }
 
+        var didAddNew = false
         for entry in entries {
-
             let cardIDs = [
-
                 "\(entry.id.uuidString)-japaneseToEnglish",
-
                 "\(entry.id.uuidString)-englishToJapanese"
             ]
-
             for cardID in cardIDs {
-
                 if statesByID[cardID] == nil {
-
-                    let newState = ReviewState(
-                        cardID: cardID,
-                        interval: 1,
-                        easeFactor: 2.5,
-                        dueDate: Date(),
-                        isLearning: true,
-                        hasBeenReviewed: false
-                    )
-
-                    states.append(newState)
-
-                    statesByID[cardID] = newState
+                    statesByID[cardID] = ReviewState.initial(cardID: cardID)
+                    didAddNew = true
                 }
             }
         }
 
-        saveReviewStates(states)
+        if didAddNew {
+            saveReviewStates(Array(statesByID.values))
+        }
+    }
+
+    // MARK: - Clear Cache
+
+    static func clearCache() {
+        cachedStates = nil
     }
 }
